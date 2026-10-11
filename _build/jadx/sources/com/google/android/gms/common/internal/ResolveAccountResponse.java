@@ -1,0 +1,58 @@
+package com.google.android.gms.common.internal;
+
+import android.os.IBinder;
+import android.os.Parcel;
+import android.os.Parcelable;
+import com.google.android.gms.common.ConnectionResult;
+import com.google.android.gms.common.internal.safeparcel.AbstractSafeParcelable;
+import com.google.android.gms.common.internal.zzq;
+
+/* loaded from: F:\Code\piano-tiles-2\classes.dex */
+public class ResolveAccountResponse extends AbstractSafeParcelable {
+    public static final Parcelable.Creator<ResolveAccountResponse> CREATOR = new zzad();
+    final int mVersionCode;
+    private ConnectionResult rF;
+    private boolean tL;
+    IBinder xj;
+    private boolean zj;
+
+    ResolveAccountResponse(int i, IBinder iBinder, ConnectionResult connectionResult, boolean z, boolean z2) {
+        this.mVersionCode = i;
+        this.xj = iBinder;
+        this.rF = connectionResult;
+        this.tL = z;
+        this.zj = z2;
+    }
+
+    public boolean equals(Object obj) {
+        if (this == obj) {
+            return true;
+        }
+        if (!(obj instanceof ResolveAccountResponse)) {
+            return false;
+        }
+        ResolveAccountResponse resolveAccountResponse = (ResolveAccountResponse) obj;
+        return this.rF.equals(resolveAccountResponse.rF) && zzatg().equals(resolveAccountResponse.zzatg());
+    }
+
+    @Override // android.os.Parcelable
+    public void writeToParcel(Parcel parcel, int i) {
+        zzad.zza(this, parcel, i);
+    }
+
+    public zzq zzatg() {
+        return zzq.zza.zzdp(this.xj);
+    }
+
+    public ConnectionResult zzath() {
+        return this.rF;
+    }
+
+    public boolean zzati() {
+        return this.tL;
+    }
+
+    public boolean zzatj() {
+        return this.zj;
+    }
+}

@@ -1,0 +1,31 @@
+0x00000000   4                 d4eda77a  vldr s15, [r4, 0x29c]
+0x00000004   4                 07ee106a  vmov s14, r6
+0x00000008   4                 9fed178a  vldr s16, [pc, 0x5c]
+0x0000000c   4                 47ee087a  vmla.f32 s15, s14, s16
+0x00000010   4                 bdee677a  vcvtr.s32.f32 s14, s15
+0x00000014   4                 17ee101a  vmov r1, s14
+0x00000018   2                     0429  cmp r1, 4
+0x0000001a   2                     c8bf  it gt
+0x0000001c   2                     0421  movs r1, 4
+0x0000001e   2                     0129  cmp r1, 1
+0x00000020   2                     b8bf  it lt
+0x00000022   2                     0121  movs r1, 1
+0x00000024   4                 07ee101a  vmov s14, r1
+0x00000028   4                 b8eec77a  vcvt.f32.s32 s14, s14
+0x0000002c   4                 77eec77a  vsub.f32 s15, s15, s14
+0x00000030   4                 f7ee006a  vmov.f32 s13, 1.000000e+00
+0x00000034   4                 f4eee67a  vcmpe.f32 s15, s13
+0x00000038   4                 f1ee10fa  vmrs apsr_nzcv, fpscr
+0x0000003c   2                     c8bf  it gt
+0x0000003e   4                 f0ee667a  vmov.f32 s15, s13
+0x00000042   4                 f1ee666a  vneg.f32 s13, s13
+0x00000046   4                 f4eee67a  vcmpe.f32 s15, s13
+0x0000004a   4                 f1ee10fa  vmrs apsr_nzcv, fpscr
+0x0000004e   2                     b8bf  it lt
+0x00000050   4                 f0ee667a  vmov.f32 s15, s13
+0x00000054   4                 c4eda77a  vstr s15, [r4, 0x29c]
+0x00000058   4                 87ee088a  vdiv.f32 s16, s14, s16
+0x0000005c   4                 d4f8a032  ldr.w r3, [r4, 0x2a0]
+0x00000060   2                     0133  adds r3, 1
+0x00000062   4                 c4f8a032  str.w r3, [r4, 0x2a0]
+0x00000066   2                     7047  bx lr

@@ -1,0 +1,115 @@
+package com.google.ads;
+
+import android.content.Context;
+
+@Deprecated
+/* loaded from: F:\Code\piano-tiles-2\classes.dex */
+public final class AdSize {
+    public static final int AUTO_HEIGHT = -2;
+    public static final int FULL_WIDTH = -1;
+    public static final int LANDSCAPE_AD_HEIGHT = 32;
+    public static final int LARGE_AD_HEIGHT = 90;
+    public static final int PORTRAIT_AD_HEIGHT = 50;
+    private final com.google.android.gms.ads.AdSize zzcj;
+    public static final AdSize SMART_BANNER = new AdSize(0, 0, "mb");
+    public static final AdSize BANNER = new AdSize(0, 0, "mb");
+    public static final AdSize IAB_MRECT = new AdSize(0, 0, "as");
+    public static final AdSize IAB_BANNER = new AdSize(0, 0, "as");
+    public static final AdSize IAB_LEADERBOARD = new AdSize(0, 0, "as");
+    public static final AdSize IAB_WIDE_SKYSCRAPER = new AdSize(0, 0, "as");
+
+    public AdSize(int i, int i2) {
+        this(new com.google.android.gms.ads.AdSize(i, i2));
+    }
+
+    private AdSize(int i, int i2, String str) {
+        this(new com.google.android.gms.ads.AdSize(i, i2));
+    }
+
+    public AdSize(com.google.android.gms.ads.AdSize adSize) {
+        this.zzcj = adSize;
+    }
+
+    public boolean equals(Object obj) {
+        if (obj instanceof AdSize) {
+            return this.zzcj.equals(((AdSize) obj).zzcj);
+        }
+        return false;
+    }
+
+    public AdSize findBestSize(AdSize... adSizeArr) {
+        float f;
+        AdSize adSize;
+        AdSize adSize2 = null;
+        if (adSizeArr != null) {
+            float f2 = 0.0f;
+            int width = getWidth();
+            int height = getHeight();
+            int length = adSizeArr.length;
+            int i = 0;
+            while (i < length) {
+                AdSize adSize3 = adSizeArr[i];
+                if (isSizeAppropriate(adSize3.getWidth(), adSize3.getHeight())) {
+                    f = (r0 * r8) / (width * height);
+                    if (f > 1.0f) {
+                        f = 1.0f / f;
+                    }
+                    if (f > f2) {
+                        adSize = adSize3;
+                        i++;
+                        adSize2 = adSize;
+                        f2 = f;
+                    }
+                }
+                f = f2;
+                adSize = adSize2;
+                i++;
+                adSize2 = adSize;
+                f2 = f;
+            }
+        }
+        return adSize2;
+    }
+
+    public int getHeight() {
+        return this.zzcj.getHeight();
+    }
+
+    public int getHeightInPixels(Context context) {
+        return this.zzcj.getHeightInPixels(context);
+    }
+
+    public int getWidth() {
+        return this.zzcj.getWidth();
+    }
+
+    public int getWidthInPixels(Context context) {
+        return this.zzcj.getWidthInPixels(context);
+    }
+
+    public int hashCode() {
+        return this.zzcj.hashCode();
+    }
+
+    public boolean isAutoHeight() {
+        return this.zzcj.isAutoHeight();
+    }
+
+    public boolean isCustomAdSize() {
+        return false;
+    }
+
+    public boolean isFullWidth() {
+        return this.zzcj.isFullWidth();
+    }
+
+    public boolean isSizeAppropriate(int i, int i2) {
+        int width = getWidth();
+        int height = getHeight();
+        return ((float) i) <= ((float) width) * 1.25f && ((float) i) >= ((float) width) * 0.8f && ((float) i2) <= ((float) height) * 1.25f && ((float) i2) >= ((float) height) * 0.8f;
+    }
+
+    public String toString() {
+        return this.zzcj.toString();
+    }
+}

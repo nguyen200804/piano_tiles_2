@@ -1,0 +1,6209 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: assets/res/UI/UIHome/card_game.csb
+SHA1-Digest: xhX02w7ypaEovRNi/Fuhz/rdyYU=
+
+Name: assets/res/UI/UIHome/card_unlock_fblogin.csb
+SHA1-Digest: f8++uLbkXJ+cxAd2LRmkXm7D8lg=
+
+Name: assets/res/UI/UIHome/card_locked_vip_song.csb
+SHA1-Digest: qbbYeZdOhOSyX7e8O3lXnHjwQKQ=
+
+Name: assets/res/UI/Xmas/image_tree_xmas_result_tree.png
+SHA1-Digest: g97NPmUqbqx8u1aU0tdtXjrApJ4=
+
+Name: res/drawable-mdpi-v4/common_plus_signin_btn_icon_dark_normal.9.p
+ ng
+SHA1-Digest: uJLxwYql9Vov6GZ6GNnwf/ktTzU=
+
+Name: assets/res/music/bass/#g.mp3
+SHA1-Digest: Dg8WipK7ZtlAaQtPnt6evvrzoI0=
+
+Name: assets/res/UI/UILevelUp/btn_backtomusiclist.csb
+SHA1-Digest: rJjrzvAsXJXEfqsLC/dJVNUDIB4=
+
+Name: assets/res/UI/UIHome/loading.csb
+SHA1-Digest: LmXDNe9dZxtJtmgReuDcetA0tto=
+
+Name: assets/res/UI/CDCollection/collect_cd_1015.png
+SHA1-Digest: Bj3wtku+Ne42czc4rO+YexMpGQA=
+
+Name: res/drawable-hdpi-v4/common_plus_signin_btn_icon_light_pressed.9
+ .png
+SHA1-Digest: MSekFwfAH+Ru7Vag7PTkEKJxXag=
+
+Name: assets/res/UI/CDCollection/collect_cd_1002.png
+SHA1-Digest: ForGhWz4+2HJgECRQp8KlL651jo=
+
+Name: assets/res/UI/UIAlbum/29/card_29.png
+SHA1-Digest: EGu/PAb7lb3AHZ1vgZqaojjoOTw=
+
+Name: assets/res/gameImage/slide_tile_base.png
+SHA1-Digest: fgLafNxnpoyWXpvlcdNzThpNDws=
+
+Name: res/drawable-xhdpi-v4/common_plus_signin_btn_text_light_pressed.
+ 9.png
+SHA1-Digest: diQbfYJVTQiDXKYZp5gbrMVuavg=
+
+Name: res/anim/pophidden_anim.xml
+SHA1-Digest: Sw4f1YOBnRS3Ch+XFg+nKomrvaU=
+
+Name: assets/res/UI/UIResult/Node_closebutton.csb
+SHA1-Digest: 9tLMVR4iGrrqI7jSMm9hZzWtQ48=
+
+Name: assets/res/UI/UIHome/ftue_muisc_collect.csb
+SHA1-Digest: SPz6uBE0c79uiMzgozt/2lF3cxY=
+
+Name: assets/res/UI/UIOpenning/Plist_openning.plist
+SHA1-Digest: 8yCq7y7jsqykuvYZ3o3E4dFuUQ0=
+
+Name: res/drawable-mdpi-v4/common_google_signin_btn_text_dark_focused.
+ 9.png
+SHA1-Digest: bsuJ3x0h9Vy2WYkakqFGmv2azPE=
+
+Name: assets/res/UI/UIOpenning/songName6.png
+SHA1-Digest: W7CgSleDfHZuucB4dEdMoa8pMbA=
+
+Name: assets/res/song/Haru Haru.json
+SHA1-Digest: FKVTEQmzwTASjdC3u8O42+Nsu/Y=
+
+Name: assets/res/UI/UIStore/hall_master_unlock_dialog_panel.png
+SHA1-Digest: Ku/flb/2SnbOidm0ZhDxldtdayA=
+
+Name: res/layout/message_tag_ad_loading_view.xml
+SHA1-Digest: YIbp3zdXSmUs+7UVLd8HbFik6Uk=
+
+Name: res/drawable-xhdpi-v4/crop__ic_done.png
+SHA1-Digest: pzp54ZKAIyaqZwpEdAfY5tkYGiA=
+
+Name: assets/res/DB/mission2_musiclist.csv
+SHA1-Digest: R7urgtR96zHOenAFiIN5bsSBrQs=
+
+Name: assets/res/UI/UIResult/crown_3.csb
+SHA1-Digest: EYrknZTOQIyAHtrrsUjjVHshRV8=
+
+Name: assets/res/music/bass/#f1.mp3
+SHA1-Digest: RovC4BofqjJBf9yXD55ODKFLKM0=
+
+Name: assets/res/UI/UIAlbum/24/Node_card_special_24.csb
+SHA1-Digest: qUtqY7EQymQ/ZxIYwMIu9ReCwQg=
+
+Name: res/drawable-xxhdpi-v4/song_mix_share_bg.png
+SHA1-Digest: KMwB+0jWsx9Pdc+KhvSKQRpdTjk=
+
+Name: res/drawable-xhdpi-v4/common_plus_signin_btn_text_light_disabled
+ .9.png
+SHA1-Digest: 8wNKLbzUS7lbl9b2IuvrE4Jx9g0=
+
+Name: res/layout/duapps_ad_offer_wall_slidetab_text.xml
+SHA1-Digest: ydWv+nVu4ayMZspJVvraarZc3VQ=
+
+Name: assets/res/Audio/Musiclist.mp3
+SHA1-Digest: v5pNASkcAt84FXYBQGWTqU4tKRM=
+
+Name: res/drawable-xhdpi-v4/messenger_bubble_large_blue.png
+SHA1-Digest: lfvI2dn+1o4yke/YnwlSqQfNUzI=
+
+Name: assets/res/UI/Xmas/Node_xmas_enter.csb
+SHA1-Digest: Xu6IclaIFtxU0ZIPk6DfY3/LMSo=
+
+Name: assets/res/UI/UIHome/Node_message_card_image.csb
+SHA1-Digest: sJISpZeXsN6pQvCNHLjWSPdC64E=
+
+Name: assets/res/UI/UIHoliday/Layer_choselanguage_xmas.csb
+SHA1-Digest: eQjmK7mpSWMBVisa9szkZP8wjYI=
+
+Name: res/drawable/cm_vast_pic_star.png
+SHA1-Digest: qkzM3oOFsQd+IO5Fm+nZyWSJEyE=
+
+Name: res/drawable/brand_vc_progress_bar.xml
+SHA1-Digest: jruBmC/r4iRpjEqcG5XMMpZ/ORo=
+
+Name: assets/res/Audio/Movie.mp3
+SHA1-Digest: qG1VMd8Jeo8t5WwfRxnSXlUHC88=
+
+Name: assets/res/UI/UIResult/buttongroup_again_menu.csb
+SHA1-Digest: beWCtMKOdTUuouVVgoK3HSkGe/A=
+
+Name: res/drawable/cancel_selector_dialog.xml
+SHA1-Digest: XPLBy9x3VOWpczr6g2EFk1SWQWM=
+
+Name: assets/res/UI/UIStore/dialog_exit_game.csb
+SHA1-Digest: nAgJUsoh93pEm146jHZZ9YetwLA=
+
+Name: res/drawable-xhdpi-v4/browser_unright_arrow.png
+SHA1-Digest: U8FBRv35jebcS7HQ0Qchi+YkcUA=
+
+Name: assets/res/Animation/dot.csb
+SHA1-Digest: h5z8xydaU6EJeteAu4xhfbgpqW8=
+
+Name: assets/res/UI/UIHome/newEpoch/Node_btn_band_download.csb
+SHA1-Digest: y5lkO47D7DSnyd3WEWu4fS8ucxA=
+
+Name: res/drawable-xhdpi-v4/background.jpg
+SHA1-Digest: CdB/9xcnPwlv+22IZoNau4ALneE=
+
+Name: assets/res/UI/UIHome/musicOn.png
+SHA1-Digest: A8WWS7jvm9wtUujeEzNt22HcdsY=
+
+Name: assets/res/UI/UIPlist/particle_yellow_r.plist
+SHA1-Digest: 6tXblWyjNUZpKgN6awF/HVhxDhY=
+
+Name: assets/res/UI/UIHoliday/EasterCdPuzzle/rabbit_eye.png
+SHA1-Digest: abBDMdYTaA6nFeRA4Nyr/1Ytcn0=
+
+Name: res/drawable/cm_market_top_gp.png
+SHA1-Digest: Zv6eyYD4J2y9L5eI3METEHdFsF8=
+
+Name: res/drawable/message_tag_tips_bg.xml
+SHA1-Digest: Q0Xwn3/fmCe976P8yY0IWNDSpgE=
+
+Name: res/drawable/circle_shape.xml
+SHA1-Digest: KgsBN8OsYV4kohu2i/BI9Zz91VI=
+
+Name: assets/res/UI/UIAlbum/12/card_12.png
+SHA1-Digest: FVNpuFT5mIPmmBUeR6qy3KmWj7A=
+
+Name: res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal
+ .9.png
+SHA1-Digest: HihHAcXSJV42NtJ0bX0aNnjGTg0=
+
+Name: assets/res/music/piano/#g2.mp3
+SHA1-Digest: OFI7pXaxV1af/q39zNSktnwWEKk=
+
+Name: assets/res/UI/CDCollection/musk_cd.png
+SHA1-Digest: n3yNvYaujf+bStpn4kGnBrg+XFk=
+
+Name: res/drawable/banner_ad_loading_bg.xml
+SHA1-Digest: euPayZoadIwZH6TUtYukiwek2Lg=
+
+Name: res/drawable/interstitial_ad_container_bg.xml
+SHA1-Digest: r+LIr5onFNdhEb2tgB9SVvh7xY0=
+
+Name: assets/res/UI/ActivityMap/UITower/Node_share_contents_challenge.
+ csb
+SHA1-Digest: qOMCGOuQuPAMn3Ww8BfnRy2ufpI=
+
+Name: res/layout/brand_learn_more_small.xml
+SHA1-Digest: YwYMgnLJ8Zu8W/6gMvf4q+GqiXc=
+
+Name: assets/res/music/bass/c2.mp3
+SHA1-Digest: a4M59bynrHkdktTJHuCtWPfsZao=
+
+Name: assets/res/UI/UIHome/card_leaderboard.csb
+SHA1-Digest: J6r+oRtgzH7p0OREmE7waLZ4Cqw=
+
+Name: res/layout/com_cmplay_message_tag_ad_loading_view.xml
+SHA1-Digest: hKY3qkL0d0hG8Z4xEZdI0i1bWOU=
+
+Name: res/drawable-xhdpi-v4/ic_ad_choice.png
+SHA1-Digest: FkGBBYMjJHu/X6jY1oBfQXel070=
+
+Name: assets/res/UI/UIHoliday/EasterCdPuzzle/cd_xmas.png
+SHA1-Digest: Sl8Nq0EyzH2v306P2K+FR7gskRY=
+
+Name: assets/res/music/bass/d.mp3
+SHA1-Digest: YvT1U7OA6Q+F0ifkWoaJSinSM18=
+
+Name: assets/res/UI/UIAlbum/15/Node_card_special_15.csb
+SHA1-Digest: BG/E0rjMBtPhFIHc0iEyimqNgiA=
+
+Name: assets/res/UI/UIAlbum/13/card_bg_s_13.png
+SHA1-Digest: Jhr2eZndDpvF7e6rztR/RpKL6M4=
+
+Name: res/layout/duapps_ad_offer_wall_topic_banner_item.xml
+SHA1-Digest: Uqt/Y70nhMloGe6kYCVC70+JOQA=
+
+Name: assets/res/music/piano/A-2.mp3
+SHA1-Digest: /1Ap+PcGPKxqXmLHg4WCL1Z8NYw=
+
+Name: res/drawable-hdpi-v4/common_google_signin_btn_icon_light_disable
+ d.9.png
+SHA1-Digest: e5sAcvCut6H6EMW0EnTfHFeDLt4=
+
+Name: assets/res/UI/UIHome/Node_quest_tips_pay.csb
+SHA1-Digest: 5W8SIWqkrT8ggfCmbHC8HxaoEa4=
+
+Name: res/drawable-xhdpi-v4/common_google_signin_btn_text_light_disabl
+ ed.9.png
+SHA1-Digest: 57iMngghSSeK35fXJXF7KvHkbIg=
+
+Name: assets/res/song/ANiMA.json
+SHA1-Digest: 4m6w6OWgnj86iV0W7EGLYbKO9zo=
+
+Name: assets/res/UI/UIHome/Node_rank_linkfailure.csb
+SHA1-Digest: OOeP28havTtMKi7hso2zoN+m2sA=
+
+Name: res/drawable/com_facebook_auth_dialog_background.xml
+SHA1-Digest: qU1q42EPFqAMCacXEIDWpYcPEZ0=
+
+Name: res/drawable-xxhdpi-v4/common_plus_signin_btn_icon_light_disable
+ d.9.png
+SHA1-Digest: 8u0bUjTRiItNNOSuXFHtlEn/gS0=
+
+Name: assets/res/UI/UIHome/icon_album_sale.png
+SHA1-Digest: jgWPrILZoTfwH6Ww33KpG78iCAQ=
+
+Name: res/drawable-xhdpi-v4/gamebox_problem_btn_outline_normal.9.png
+SHA1-Digest: 3pp7hneLt3ZjC2N+KbYBc82iH2k=
+
+Name: assets/res/UI/UIAlbum/19/card_bg_s_19.png
+SHA1-Digest: DRqMycmH0nJ0xuEISzWZkemSzVM=
+
+Name: assets/res/gameImage/glow.png
+SHA1-Digest: 60wBvcqW8V2QCV9X2Xj83UDEv2A=
+
+Name: assets/res/UI/UIResult/Node_text_leaderboard.csb
+SHA1-Digest: Mu4i8+bFkNkjFf70NyAQlkCkITQ=
+
+Name: assets/res/UI/ActivityMap/Node_xmas_star.csb
+SHA1-Digest: 4EWq5imCFhmVGBUpNqZ56nMnbIQ=
+
+Name: assets/res/song/Toi Thay Hoa Vang Tren Co Xanh.json
+SHA1-Digest: gXKB2Vz9i51gyvcfzG1NHXkxeiE=
+
+Name: assets/res/UI/UIHome/Node_fb_login_setting.csb
+SHA1-Digest: HUxXozYWz5ZHzZzwCNaNJ5GG58Y=
+
+Name: assets/res/music/drum/#a1.mp3
+SHA1-Digest: IA8+IjLdexeHsl6kbr3TYbRajCc=
+
+Name: res/drawable/round_bg.xml
+SHA1-Digest: w7hAXgjEnV6aDWvka4PW+hzpCfk=
+
+Name: res/drawable-xhdpi-v4/com_facebook_button_send_icon_white.png
+SHA1-Digest: IppST1qcL170sQfCTWkbvn7sAzw=
+
+Name: assets/res/UI/UIHome/Node_fb_logout_setting.csb
+SHA1-Digest: VNzGse9zBFHOOjdWSQmhtAG4uO0=
+
+Name: res/drawable-hdpi-v4/common_ic_googleplayservices.png
+SHA1-Digest: 1Q8vLLOe6b0kj9uuSXd/4Llybeg=
+
+Name: assets/res/UI/UIHome/Node_music_btn.csb
+SHA1-Digest: 01rFa9M3B4tOFuEee+2uYDoJ2jw=
+
+Name: assets/res/music/drum/#C-1.mp3
+SHA1-Digest: TOUFamotJAnRsGPV/FOg7CP6whc=
+
+Name: assets/res/UI/UIHome/card_remix_blank.csb
+SHA1-Digest: ltL0tE8phZ7Pj8GuqbIYtQlU8X0=
+
+Name: assets/res/UI/UIBattle/Effect/ballballball_smalldot.png
+SHA1-Digest: zccx6CgIKtRSus5RfW5TsXhFYjg=
+
+Name: assets/res/UI/Xmas/Node_tree_xmas_gift.csb
+SHA1-Digest: f3vUbpEdIFLM97dTMOVBjmwXiLs=
+
+Name: res/drawable-tvdpi-v4/common_google_signin_btn_icon_dark_focused
+ .9.png
+SHA1-Digest: 1vsVO9hkbjOQfejVIJJ/B16cb7c=
+
+Name: assets/res/UI/UIResult/Node_rank_reddot.csb
+SHA1-Digest: 9OYiGHquJ6Hh7NKHG9/mUK4gVYU=
+
+Name: assets/res/music/bass2/#D-1.mp3
+SHA1-Digest: ebNXn6LQ3VtLsN/gdkWHdpe/DCQ=
+
+Name: res/anim/push_bottom_in.xml
+SHA1-Digest: ebM0LnUlWxP2hMo7CKUCL+RCUeE=
+
+Name: res/drawable/messenger_button_white_bg_round.xml
+SHA1-Digest: g3KuZNak/M/dr9xBSO4P60PDqfU=
+
+Name: res/drawable-xhdpi-v4/icon_call_dialog_cancel.png
+SHA1-Digest: GEH7Z3lC9d6CkmLQYRO4L6xlpmA=
+
+Name: assets/res/UI/UIPause/Node_btn_go.csb
+SHA1-Digest: OPZs9tryyE4M2Phv6wro3heCvp8=
+
+Name: assets/res/UI/Xmas/bg_tree_xmas_package.jpg
+SHA1-Digest: DN5RHmMymXDO7XpRihQ5OKFb+n0=
+
+Name: assets/res/UI/UIHome/Item/Node_remind.csb
+SHA1-Digest: 6IYXJm2iAC7DevgQkB0X87J0WGM=
+
+Name: res/layout-port/interstitial_normal.xml
+SHA1-Digest: NefQJe0+uxdCfXJkAUsMcUswEds=
+
+Name: res/drawable/common_google_signin_btn_text_light.xml
+SHA1-Digest: Jfy1vKq39gMaEnk90s7L8til1nI=
+
+Name: assets/res/UI/UIPlist/Plist_max_level.plist
+SHA1-Digest: 86VaD5tnVNPqvqex2YK00gAVU6Q=
+
+Name: res/layout/dialog_loading.xml
+SHA1-Digest: ikHE2Tio+SqSq/B8XBvuDDK32jo=
+
+Name: res/drawable-hdpi-v4/common_plus_signin_btn_icon_dark_normal.9.p
+ ng
+SHA1-Digest: 7RjDA/sMM7gEvXA3odKiR3cNzC4=
+
+Name: assets/res/UI/UIHome/dialog_vip_confirm.csb
+SHA1-Digest: 0OCExyd0E2YdyMThCPyQfbeX0Ug=
+
+Name: res/drawable-xhdpi-v4/com_cmplay_message_tag_lc_button_w_pressed
+ .9.png
+SHA1-Digest: NTGsesq2F5cNn6BbVAZVSkYz6A4=
+
+Name: assets/res/UI/Xmas/Node_tree_xmas_sock_2.csb
+SHA1-Digest: s7O49LYR+2SDSciXoYyImFVOtJo=
+
+Name: assets/res/UI/UIHome/luckybagicon.png
+SHA1-Digest: Lvp5SD0YWnfQDD6iq1/t3Hwspto=
+
+Name: assets/res/UI/UIStore/dialog_vip_share.csb
+SHA1-Digest: 0+0tk2B3VoDMMQGNBnIZRJaFyYE=
+
+Name: assets/res/music/piano/E-2.mp3
+SHA1-Digest: LTHAYL/EQWpkooi7XNbzIdTZtUU=
+
+Name: assets/res/DB/language.csv
+SHA1-Digest: BxuoMheGX0eTntrS28e09gBI1Uk=
+
+Name: assets/res/UI/UIHome/newEpoch/Node_band_standby.csb
+SHA1-Digest: wlzMvGH9ud/17XL0ynlYu8ZFZqE=
+
+Name: assets/res/UI/UIHome/newEpoch/Node_band.csb
+SHA1-Digest: JOjbimTNQagc6D60i8haH5oUEq8=
+
+Name: assets/res/UI/UIHoliday/homepageNode_xmas.csb
+SHA1-Digest: pc9hry5gjGOFfT80EhsmoWpdRJY=
+
+Name: res/drawable-xhdpi-v4/common_plus_signin_btn_text_dark_normal.9.
+ png
+SHA1-Digest: KmRgCE2pkarLqkOjyq52yd0eAQg=
+
+Name: assets/res/music/bass2/c1.mp3
+SHA1-Digest: 2NuL59KWnG4vc0tRSDaKjc6Phtw=
+
+Name: assets/res/UI/UIPlist/Plist_package.png
+SHA1-Digest: bXYcwD9QsqvcC2fso61bZ8oWZkA=
+
+Name: assets/res/UI/UIHome/Item_rank_total_card_no4.csb
+SHA1-Digest: 9cE7yuiAfu/LmjrD7WA0SrixPO0=
+
+Name: assets/res/DB/XmasActivity.csv
+SHA1-Digest: T0zFVzab+nTi4NuraRDgdsf87xo=
+
+Name: res/drawable-xhdpi-v4/dialog_loading_img.png
+SHA1-Digest: 4w1qrWknVfAyxL5wCBbBGohb+Pg=
+
+Name: assets/res/UI/UIBattleMaster/crown.csb
+SHA1-Digest: E3OcdEgt8BxIqPdcryPzPnlslgU=
+
+Name: assets/res/UI/UIPlist/Plist_content2.plist
+SHA1-Digest: KTgb5LdpNoZrbve1T7Qkdw8Fzj4=
+
+Name: res/drawable-xxhdpi-v4/common_plus_signin_btn_text_dark_focused.
+ 9.png
+SHA1-Digest: 628GS5HVvwduvmssmZehy2yxrVY=
+
+Name: assets/res/UI/UIPause/dialog_continue_new.csb
+SHA1-Digest: DsRA34xRsu5/RC+U/yXToZD2GSo=
+
+Name: assets/res/UI/UIPlist/Plist_share2.png
+SHA1-Digest: 1v6k3rO3A4btub8dKGZ/boCaYY0=
+
+Name: assets/res/UI/Xmas/Node_tree_xmas_deer_1.csb
+SHA1-Digest: m4GEpY7ozG68SrZ8eJuGLi4d8iA=
+
+Name: res/drawable-xhdpi-v4/message_tag_all_bg.9.png
+SHA1-Digest: 0srNKb3Z9s3IogRtpStK/NgQQsg=
+
+Name: assets/res/UI/UIResult/buttongroup_next.csb
+SHA1-Digest: lRkU5qsR8gHKRlO0K0RbMtBWxcI=
+
+Name: res/drawable-tvdpi-v4/common_plus_signin_btn_icon_light_focused.
+ 9.png
+SHA1-Digest: I1IRlGjEcgjhZKkU5Vn67PUH7Cw=
+
+Name: res/drawable-xhdpi-v4/go_star_3.png
+SHA1-Digest: NLLExjv5oifCLBOBRgYvYpMIdhU=
+
+Name: assets/res/UI/UIHome/Node_redpacket_light_spin.csb
+SHA1-Digest: l0Ls8+WgSf4wBLnM3JEbPv6hLSo=
+
+Name: assets/res/UI/UIPlist/Plist_vip.plist
+SHA1-Digest: lBbOKj+UEFS2gEdBkqGb8OwY8Ic=
+
+Name: assets/res/UI/CDCollection/musk_cd_light.png
+SHA1-Digest: ktad9Xbfim/R5u3oPL+l+pVtJLM=
+
+Name: res/drawable-xhdpi-v4/browser_background.png
+SHA1-Digest: TM1U0yOgMs0pXRQTWvfRXRPWnF4=
+
+Name: assets/res/music/bass/d1.mp3
+SHA1-Digest: Z0yle+4yAb0F2zpZhJLRgZtsH6k=
+
+Name: res/layout/duapps_ad_offer_wall_topic_4.xml
+SHA1-Digest: VeTH/pa5u50pxBwzzcKRE7RbmxE=
+
+Name: res/drawable-xhdpi-v4/common_plus_signin_btn_icon_dark_pressed.9
+ .png
+SHA1-Digest: hjwIOG0wAgs/EyaKLEk3IEfQjNw=
+
+Name: assets/res/music/piano/A-3.mp3
+SHA1-Digest: 1hp78Z1rvTtasnEbzo47slGwuBg=
+
+Name: assets/res/UI/UIResult/hall_pass_youbeat_new.csb
+SHA1-Digest: nTMYzHY6jzkNFOl8g4KamKo9Se8=
+
+Name: assets/res/UI/UIParticle/heart2.png
+SHA1-Digest: 01FVvoPCk2B+BCPrIbknNdU/R04=
+
+Name: assets/res/kinfoc/ios_kfmt.dat
+SHA1-Digest: O4kLsl+fE5MUajLHG83L+/MwziA=
+
+Name: res/drawable/cm_vast_close.png
+SHA1-Digest: xzb0QyHBM7Jvfi7GMzBUpMSblxY=
+
+Name: res/drawable-hdpi-v4/mobvista_cm_backward_nor.png
+SHA1-Digest: 1LJsp+9Mh3rAyI2flGm8EAaUANM=
+
+Name: assets/res/UI/UIAlbum/0/card_bg_s_0.png
+SHA1-Digest: H6e90TfrRnKJhDW6VqjUH8AF7bM=
+
+Name: res/drawable-xhdpi-v4/com_cmplay_tag_success.png
+SHA1-Digest: ALWVLX9D+CrQIHTvnRxJ9K3u2ko=
+
+Name: assets/res/UI/UIBattleMaster/star.png
+SHA1-Digest: 3qIIfKCQTLX8/h0HMFXXCq+Jmsk=
+
+Name: assets/res/song/Because I'm Stupid.json
+SHA1-Digest: 2uZWkvx8Alio+JWUlsDWYMqVCpo=
+
+Name: res/drawable-hdpi-v4/common_plus_signin_btn_icon_light_focused.9
+ .png
+SHA1-Digest: 4nKDKRBgH+e1A8REAXCDk2dwGN4=
+
+Name: res/drawable-tvdpi-v4/common_plus_signin_btn_icon_dark_focused.9
+ .png
+SHA1-Digest: n/OhqNOwPpNBz+kml3paiDzbQN4=
+
+Name: res/drawable/interstitial_ad_callaction_pressed_bg.xml
+SHA1-Digest: g6ht5S8N5qfzBYILg08lISisLww=
+
+Name: res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_disab
+ led.9.png
+SHA1-Digest: MgWZDNe7Li5Ae6XULZm4fW9SlGo=
+
+Name: assets/res/UI/UIResult/Node_rank_diamond.csb
+SHA1-Digest: aK93YXNUFCbC/hjsdcpNSmd3eT0=
+
+Name: assets/res/UI/UIHome/newEpoch/Node_band_loadingsuc.csb
+SHA1-Digest: dJaNrALJZjnVfGPX8s+eOGT/KH4=
+
+Name: res/drawable-mdpi-v4/common_google_signin_btn_icon_light_focused
+ .9.png
+SHA1-Digest: cv9bJFQpCgaU++Q3+0Wh+QsBEMc=
+
+Name: assets/res/UI/UIPlist/chest_puzzle_music_chest_small.png
+SHA1-Digest: TwHz8vLVHsqFZQ8pIRiPdij0VmI=
+
+Name: assets/res/UI/UIPlist/particle_levelupgreen_l.plist
+SHA1-Digest: 2p3MMePJNJ8VUTv9FpxWhtYmymo=
+
+Name: assets/res/music/bass2/#f.mp3
+SHA1-Digest: x2MN3mFNriDMvwhN1vwkvI1uf7o=
+
+Name: res/drawable-xhdpi-v4/com_cmplay_tag_bule_loading.png
+SHA1-Digest: p4AmsHnnln8sZ58+Y3YT5PHJEbw=
+
+Name: assets/res/UI/UIHoliday/EasterCdPuzzle/xmas_puzzle4_r.png
+SHA1-Digest: gOyFO9J+hqR5tkLIsSK1ZT3Y5ZU=
+
+Name: res/drawable-xhdpi-v4/com_facebook_tooltip_blue_bottomnub.png
+SHA1-Digest: DwXYFfK5q0iroB9tQ021vKi8buQ=
+
+Name: assets/res/music/piano/g3.mp3
+SHA1-Digest: 2AMRQxBNFY4Vrt8+oBGFQ8ZdCQk=
+
+Name: res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_pressed.
+ 9.png
+SHA1-Digest: qRnIWPOu/MJDV1VVJTM7qf+WQdo=
+
+Name: res/drawable/message_tag_lc_button_w_selector.xml
+SHA1-Digest: iJV8esn7FhYpwZ1CDr1ALbn5RBk=
+
+Name: assets/res/music/piano/B-1.mp3
+SHA1-Digest: /0a6/nyzzz2CG98blrUkdg0k3ms=
+
+Name: assets/res/music/piano/#F-2.mp3
+SHA1-Digest: 7rbtdGC/n3A2RWc0g7On0pTD7L0=
+
+Name: assets/res/music/bass/b1.mp3
+SHA1-Digest: imbrrXk/Ivrm22/NCfdvTHNR8bU=
+
+Name: res/drawable-mdpi-v4/common_plus_signin_btn_text_dark_disabled.9
+ .png
+SHA1-Digest: zApEdBv8BYnpOXP+zFBDGdRu+/4=
+
+Name: res/drawable-mdpi-v4/common_plus_signin_btn_icon_dark_pressed.9.
+ png
+SHA1-Digest: lZmFfj1bZJ1EjqTkz+72Qp41lbY=
+
+Name: assets/res/music/bass/f.mp3
+SHA1-Digest: U8326e7I1bZh1v43OA7plDTZp/U=
+
+Name: assets/res/UI/UIResult/normal_pass_content.csb
+SHA1-Digest: YrU54FFKwu3LBq1CPhuxYc4Ssyc=
+
+Name: res/layout/brand_replay_small.xml
+SHA1-Digest: vLWmrCJhLf/knoh/z4KW3wxRHLI=
+
+Name: assets/res/music/piano/#G-2.mp3
+SHA1-Digest: uGtk6q6+P8c2BdOpVBlx11Y8btc=
+
+Name: res/drawable/interstitial_ad_callaction_bg.xml
+SHA1-Digest: nI93cF9vUdGQf+4mBOfF2liyry8=
+
+Name: assets/res/UI/UIPlist/Plist_max_level.png
+SHA1-Digest: nqcZarnPECmD5kJWLU+tOUZj958=
+
+Name: assets/res/UI/UIOpenning/opening_color_bg.png
+SHA1-Digest: 7lMn7AT+QmQiJCV44jh8SKIvGAc=
+
+Name: res/drawable/cm_vast_ico_renew.png
+SHA1-Digest: 9uaAmGLes6bIOG6AUAelMv7UvQI=
+
+Name: assets/res/UI/UIHome/aniClassNode.csb
+SHA1-Digest: TiPHAlQkNwFrjbGoDtKcv15KbKo=
+
+Name: res/drawable-xhdpi-v4/com_cmplay_message_tag_no_wifi.png
+SHA1-Digest: Jh4BbXAmqHj50C21L6B9+KPDimY=
+
+Name: assets/res/UI/Xmas/image_get_tree_ground1.png
+SHA1-Digest: vFhkw5TWqZW5N+/1lt+Fbp6bq7I=
+
+Name: assets/res/UI/Xmas/snow_tree_snow1.plist
+SHA1-Digest: L5MxOiOqxtn3X4SPNKt9ZkQNGNs=
+
+Name: assets/res/UI/UIPlist/Plist_master_hall.plist
+SHA1-Digest: sDqz9MwU4bKa4B976WAQkWsqiiw=
+
+Name: res/layout/duapps_ad_offer_wall_topic_banner.xml
+SHA1-Digest: xOtyNcSlkT2tTXfRcK7fjaRJcqk=
+
+Name: assets/res/UI/Shader/anni2BG.vsh
+SHA1-Digest: NpiwNFqKHiwqC7vNnkWpF8YX74c=
+
+Name: assets/res/UI/UIHome/Item/Node_remind_setting.csb
+SHA1-Digest: IjkFUqdzPMqMKl0doMC+3lfIvck=
+
+Name: assets/res/song/學貓叫.json
+SHA1-Digest: it/KG/0EN7zr+9+nVmgXTt69LIs=
+
+Name: assets/crash_report_cn.config
+SHA1-Digest: YfJ8FMao8aHqPo9+k8PhZvy4dpg=
+
+Name: assets/res/UI/UIOpenning/Node_cicle.csb
+SHA1-Digest: wBPGPgZwbndhDUAyqKf3PRaERfo=
+
+Name: assets/res/UI/UIHome/home.csb
+SHA1-Digest: M0mP8ZngfxjRis8IKMeMyygylxM=
+
+Name: assets/res/gameImage/icon_wheel.png
+SHA1-Digest: C0JRlnkx2etbPmu2IhodhRxRFeo=
+
+Name: assets/res/UI/UIStore/Node_dreampac_finger.csb
+SHA1-Digest: yTVkmBirHgegLo/9pShFIEJQUrU=
+
+Name: assets/res/UI/Xmas/Plist_tree_gift.png
+SHA1-Digest: uYRdULNtt45AXxwyjiLtpJTg2wg=
+
+Name: assets/res/UI/UIAlbum/31/Node_card_special_31.csb
+SHA1-Digest: IuwYj6NuT0W/5DAoxXV/pxgjDFk=
+
+Name: assets/res/song/Freedom Dive.json
+SHA1-Digest: y9g7/upRdbf2GKBOBgSA7lxxnyg=
+
+Name: res/drawable-xxhdpi-v4/star_full.png
+SHA1-Digest: XjkPitBy2Ro7SkVZCGXfrr6h8Nk=
+
+Name: res/drawable-xhdpi-v4/gamebox_problem_btn_outline_press.9.png
+SHA1-Digest: 0OZ0lsjtGi3JrqpE9nY+UirKrwU=
+
+Name: assets/res/UI/UIBattleMaster/Node_candy.csb
+SHA1-Digest: duzj5NBwb4leJRKposO4MZ6Bbs8=
+
+Name: res/drawable-xhdpi-v4/duapps_ad_offer_wall_back_dark.png
+SHA1-Digest: qk713auU/c1GIt74Owz0oOm1gfA=
+
+Name: res/drawable-tvdpi-v4/common_google_signin_btn_icon_dark_normal.
+ 9.png
+SHA1-Digest: rdSTXcu0SNlAtlAKOrusHNhOWcY=
+
+Name: res/drawable-xhdpi-v4/share_icon_messager_pressed.png
+SHA1-Digest: NmfVkAHMMnSwX+Y+1kGJGViicXI=
+
+Name: res/drawable-tvdpi-v4/common_plus_signin_btn_icon_dark_disabled.
+ 9.png
+SHA1-Digest: SxzbrhMDgVzskbp28auW5k28VgE=
+
+Name: res/layout/com_cmplay_message_tag_no_net_to_open_wifi_layout.xml
+SHA1-Digest: Rz+4Kc5xY/KpH0fVW9e7fAIoKMQ=
+
+Name: assets/res/gameImage/gray.fsh
+SHA1-Digest: a7lBCX2XI2U31MUaK941NkDpEKU=
+
+Name: res/drawable-hdpi-v4/mobvista_cm_exits_selected.png
+SHA1-Digest: eE/MWXHFCqaLwe1QRIKzD2iXDTQ=
+
+Name: assets/res/UI/UIHome/Node_card_game_1.csb
+SHA1-Digest: 3hjr3fVTNQa/f5QLV12l9VR59fY=
+
+Name: assets/res/UI/UIPlist/particle_coin.png
+SHA1-Digest: zdvAW0cJm3QTD9mrCyvN5r+VkH0=
+
+Name: assets/res/UI/UIHome/coin.csb
+SHA1-Digest: ttK6C+Gq/guzbIInm/7RZmoqRfI=
+
+Name: assets/res/UI/UIHome/Node_puzzle.csb
+SHA1-Digest: JZdYGtS51qMTEcOuzQQ5yJdIvRc=
+
+Name: assets/res/UI/UIBattleMaster/BattleInfo_Content.csb
+SHA1-Digest: dlfUtMxDb6nLu193KwNTBGVOJrg=
+
+Name: res/layout/brand_mute_unmute.xml
+SHA1-Digest: 5VgL2YH+t/w3Owsho6ZDeoGaqyM=
+
+Name: assets/res/UI/UIPlist/image_avatar_dialog.png
+SHA1-Digest: FWrr41HIl2amDspKm8UZ4Z08zBM=
+
+Name: assets/res/UI/UIAlbum/28/card_bg_s_28.png
+SHA1-Digest: mRcoX44FA44vavCTAL25W712XBM=
+
+Name: res/layout/cm_activity_video_detail_land.xml
+SHA1-Digest: +usklchIDuxTTbeNRgYwPH9Sx2Q=
+
+Name: assets/res/UI/CDCollection/musk_cd_bg05.png
+SHA1-Digest: lzCtAs82OGJxlX0qZg8egU3emV8=
+
+Name: assets/res/UI/UIHome/card_locked_brithday2.csb
+SHA1-Digest: PtzhvXqzpTR3yHrh4cySKW7nmss=
+
+Name: assets/res/UI/UIHome/week_card_updata.png
+SHA1-Digest: JgpyVo9dEJSRPfO7e8vARnD9vrg=
+
+Name: assets/res/UI/UIStore/Node_shelter_long.csb
+SHA1-Digest: QyTQf/5hoT6/quI8+n8bS2usqlM=
+
+Name: assets/res/song/Requiem of Silence.json
+SHA1-Digest: iPt/UXHRrB0659MImJdT0HBq4yE=
+
+Name: assets/res/Animation/bgani_loop1.csb
+SHA1-Digest: plEdVGLcEA3e8o6W414ho3R5emA=
+
+Name: res/drawable/vast_progress_style.xml
+SHA1-Digest: 7ExA/r0B8fQlgri3+r13ZN7H+HM=
+
+Name: res/drawable/common_google_signin_btn_text_dark.xml
+SHA1-Digest: xtySrSkH4Oi+xIDWcplsR/2oZdQ=
+
+Name: res/drawable-xhdpi-v4/common_ic_googleplayservices.png
+SHA1-Digest: BoWkpMzI2w6kvbdxtFBChLvHzNI=
+
+Name: assets/res/song/Spectre.json
+SHA1-Digest: ndaupgn0PTzNquIW4gAVVdo5Keo=
+
+Name: assets/res/UI/UIHoliday/Node_xmas_coin_explode.csb
+SHA1-Digest: D6JpU6CccE53VldoOZHeG7IxCaQ=
+
+Name: res/drawable-hdpi-v4/mobvista_cm_exits_nor.png
+SHA1-Digest: ecemWQWZawrr4emAVjEjmhCKiMs=
+
+Name: res/layout-v16/red_pocket_layout.xml
+SHA1-Digest: FhmF/GMNKFMzkj7XSVUZ4Dtb6i4=
+
+Name: assets/res/UI/UIHome/newEpoch/Node_new_epoch.csb
+SHA1-Digest: 7DZcE3DAFSXaiL9c08wJ6/vItbg=
+
+Name: assets/res/UI/UIHome/dialog_loginfail.csb
+SHA1-Digest: EcGNEHnYC21lIW3KOnqFfP4vSIA=
+
+Name: res/drawable-nodpi-v4/shadow.png
+SHA1-Digest: MDHZ2tApx7J1DisfRiXMKd0m2rg=
+
+Name: assets/res/UI/UIPlist/Plist_team.plist
+SHA1-Digest: snXZnTLoRMb9tybzjmOx1EWROho=
+
+Name: res/anim/loading_anim.xml
+SHA1-Digest: rj/RRGFYxgR+XS//zahEvRsUb/g=
+
+Name: assets/res/UI/UIAlbum/16/card_16.png
+SHA1-Digest: LJNGOzmfHMCUBueUIDRqV8rae9I=
+
+Name: res/layout/dialog_edit_text.xml
+SHA1-Digest: QAaU4Zpn9JdyKvAl+ZmFgHQMhLk=
+
+Name: assets/res/music/piano/#D-1.mp3
+SHA1-Digest: z65+vc2ZZRXeB47rmV5HfggJfik=
+
+Name: res/drawable-xhdpi-v4/icon_crown.png
+SHA1-Digest: 1HyWnS4W2JYJiabDH+lD8/fXltU=
+
+Name: res/drawable-xhdpi-v4/com_cmplay_tag_loading_circle_big.png
+SHA1-Digest: oJN45qybrvRrZLe6i4UUnSwwsF4=
+
+Name: assets/res/music/drum/c1.mp3
+SHA1-Digest: scfhu3wE7XfyTPTp0UKrYS2rypE=
+
+Name: assets/res/UI/UIHome/Node_card_remix_tips_complete.csb
+SHA1-Digest: gmrj6e2P78sOSTe6nOlpG1lUTx4=
+
+Name: assets/res/UI/UIResult/Node_rank_linkfailure_single.csb
+SHA1-Digest: OOeP28havTtMKi7hso2zoN+m2sA=
+
+Name: res/drawable/cm_loading_pbar.xml
+SHA1-Digest: fCMDY/aO3IJ8hYyRj+JpjawuRsU=
+
+Name: res/drawable-hdpi-v4/common_plus_signin_btn_text_light_focused.9
+ .png
+SHA1-Digest: PV/xEP2jsnjPYAHcwAgaODmqtpI=
+
+Name: assets/res/gameImage/dot_accompaniment_f.csb
+SHA1-Digest: 5Re6ip70YPxaWzApncbDxl/fmCY=
+
+Name: assets/res/music/Bluestone Alley-Adapted.mp3
+SHA1-Digest: 6q+ivoHMjxEObtxqhbZ+9mOSoPM=
+
+Name: assets/res/UI/UIParticle/xmas_snow_particle_x.4_r.plist
+SHA1-Digest: C4uv0V+quR3Zl9g51LShSD0f2Tw=
+
+Name: assets/res/UI/UIPlist/particle_unlock_blue.png
+SHA1-Digest: i/D7PfZhwFmtheHcI6BOj+Hwr7U=
+
+Name: assets/res/music/piano/#g3.mp3
+SHA1-Digest: iGgUA0U1oCvfry/RnpR/j6wabXU=
+
+Name: assets/res/UI/Xmas/snow_tree_normal.plist
+SHA1-Digest: uOpXFBp8L8f+BUg0mSNs4dk5NF8=
+
+Name: assets/res/music/bass2/B-1.mp3
+SHA1-Digest: Lkp3nlFdWRodNv2pNpWtRgknLu0=
+
+Name: assets/res/UI/UIResult/crown_2.csb
+SHA1-Digest: uulxExaEb/qeyHfTYt0SVKVyxLM=
+
+Name: assets/res/UI/ActivityMap/UITower/Layer_share_challenge.csb
+SHA1-Digest: 3rtWD53VYUpGzjKcO+aAkpRtl+8=
+
+Name: res/drawable-xhdpi-v4/com_facebook_tooltip_black_topnub.png
+SHA1-Digest: TvQIgYh571qqiZ0ikboQehJyQ/g=
+
+Name: assets/res/UI/ActivityMap/Plist_xmas_map.png
+SHA1-Digest: Jh7vE7ErrYyMICCaro3+R/2HOfw=
+
+Name: assets/res/UI/UITransition/Node_share_contents_rank.csb
+SHA1-Digest: BZ39m31uFfXeM/20UGEP/2aTV/Q=
+
+Name: assets/res/UI/UIStore/curtain_long.csb
+SHA1-Digest: 5ZQdlJXGu6fYS2TZM/54htj3KoM=
+
+Name: res/drawable-tvdpi-v4/common_google_signin_btn_icon_light_focuse
+ d.9.png
+SHA1-Digest: mv8tFWFlPbEvYNQAUNQUjt/TtC8=
+
+Name: assets/res/UI/CDCollection/collect_cd_1007.png
+SHA1-Digest: 0mFvby/XJhwGDYAYc4FLIH4NW0I=
+
+Name: assets/res/music/bass/#d2.mp3
+SHA1-Digest: z07FWoPz0uhgRkYIOHx1hQbcnKU=
+
+Name: assets/res/music/piano/e3.mp3
+SHA1-Digest: gUp25jrbxrdA02UiFNzeWTyGkzY=
+
+Name: assets/res/UI/CDCollection/collect_cd_1003.png
+SHA1-Digest: gmXmXXa7NotqSgUD8JqGF41xRFU=
+
+Name: assets/res/Audio/Favorites.mp3
+SHA1-Digest: piKyCZOBA72NSSyBQE4i088BvK4=
+
+Name: assets/res/UI/UIHome/week_card_tips.png
+SHA1-Digest: D/VM2TiuGohe/GHS/1n+Zyvbkvc=
+
+Name: assets/res/UI/UIAlbum/14/card_bg_s_14.png
+SHA1-Digest: vtU0jduoCQ62aPQ2ulwDx/e6c0E=
+
+Name: res/drawable-xhdpi-v4/credits_icon.png
+SHA1-Digest: pwIyJFiCW7f+11neLtbKjxCOk/U=
+
+Name: assets/res/UI/UITemp/icon_mask.png
+SHA1-Digest: OUgs7718VHYPeYcVskglxgG2uXQ=
+
+Name: assets/res/UI/UIHome/hall.csb
+SHA1-Digest: RvzMH1fIuG8Rd0s0Kx7d1vlcj5M=
+
+Name: assets/res/UI/UIBgEffect/base/tile_3_6.png
+SHA1-Digest: NsSQwT5AaXG9dqA4cqDl850gk3Q=
+
+Name: res/layout/duapps_ad_offer_wall_recommend_layout.xml
+SHA1-Digest: BxKAavF55XFEkKc3Q1rOU0luspI=
+
+Name: res/drawable-xxhdpi-v4/close_dark.png
+SHA1-Digest: 5lGfB8Oy19i0nxFuyCWiiHNmHJ4=
+
+Name: assets/res/UI/UIHome/aniHomeNode.csb
+SHA1-Digest: v6v4okvzFFYhd6zCAKx23jox3es=
+
+Name: res/drawable-tvdpi-v4/common_google_signin_btn_text_light_disabl
+ ed.9.png
+SHA1-Digest: FcDGU/nNS6XDsXmwlksqjH9Av/A=
+
+Name: res/drawable-xhdpi-v4/common_plus_signin_btn_icon_light_pressed.
+ 9.png
+SHA1-Digest: Zyi6To6kJnH3exYAOLpKlL+cGHo=
+
+Name: assets/res/UI/UIHome/dialog_reward_coin.csb
+SHA1-Digest: So0Jwf1yQN1OcmmDPQnouWVrfQE=
+
+Name: assets/res/UI/UIHome/CardImage/6.png
+SHA1-Digest: ioP0xSQNqnW6bCj73EZKuYIPU90=
+
+Name: assets/res/Animation/bgani_guodu1.csb
+SHA1-Digest: 1ZALZW3aNpCZvUyP1eVm7tsAdwI=
+
+Name: assets/res/music/piano/#d2.mp3
+SHA1-Digest: B89Dcs2YmTsRaZWQoIp1FnIXefw=
+
+Name: res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_presse
+ d.9.png
+SHA1-Digest: xZRteKqA5SUTkatnOvxZNLFrzEc=
+
+Name: assets/res/Audio/OneCrown.mp3
+SHA1-Digest: aAIvVBVfj4vAyeklK6FPNSUOnLY=
+
+Name: res/drawable-xhdpi-v4/share_float_text_bg.9.png
+SHA1-Digest: qgBe9QnCFbP4M1hrhCb4hZt2dOM=
+
+Name: assets/cmlogo_tips_cn1.png
+SHA1-Digest: rF0V4kR1HWyqLpWNtlZAcGM/QeQ=
+
+Name: assets/res/UI/ActivityMap/UITower/particle_yellow_r.png
+SHA1-Digest: VcE53aRD9szh4wTL/XD8vk76Ci0=
+
+Name: assets/res/music/drum/A-1.mp3
+SHA1-Digest: w3CxIeWdYPP9oB9PPr1Sm2N7HRU=
+
+Name: assets/res/UI/ActivityMap/UITower/particle_levelupgreen_l.png
+SHA1-Digest: VcE53aRD9szh4wTL/XD8vk76Ci0=
+
+Name: assets/res/Animation/bgani_loop2.csb
+SHA1-Digest: 2qaiAdps0lB3CgUcl0ylrVmgoDc=
+
+Name: res/layout/com_cmplay_message_tag_no_net_choose_wifi_layout.xml
+SHA1-Digest: xgTEvjeEulRFe4zCIcOQ6Rep8/M=
+
+Name: assets/res/UI/UIStore/Node_btn_free_timecount.csb
+SHA1-Digest: 3TYyQS1wlIxJDAyH/17wm4OFejI=
+
+Name: assets/res/UI/UIBattle/Effect/perlin_noise.png
+SHA1-Digest: dMW2UqxT2JkJT6l65xeANcQe73o=
+
+Name: res/drawable-xhdpi-v4/com_facebook_tooltip_black_xout.png
+SHA1-Digest: 8GGAyFFwn0Q9Dj1UIJG08Ov0omg=
+
+Name: assets/res/UI/UIResult/star_3.csb
+SHA1-Digest: iHI/QN97m0tg3Lq5OtX4sBxveJY=
+
+Name: assets/res/music/piano/#a.mp3
+SHA1-Digest: 8heNn+ZNM/I/pRc4RRzMaVkcOOQ=
+
+Name: assets/res/song/Forever Alone.json
+SHA1-Digest: IzaH6b00MaMR5baTfdt36EDgHCw=
+
+Name: res/layout/brand_skip_small.xml
+SHA1-Digest: H+rjR6dD5C5d46Z3jVZIWA4X+oE=
+
+Name: assets/res/UI/UIParticle/snow_xmas.png
+SHA1-Digest: UwOQprL6RbxlvLvye8jQxnlb8v0=
+
+Name: res/drawable-hdpi-v4/mobvista_cm_forward_nor.png
+SHA1-Digest: 4DoBV95W6hzlw+gZGSqNQPZT+bY=
+
+Name: res/drawable-xhdpi-v4/love_bg_3.png
+SHA1-Digest: MWvxIk7hggwUl5X45tcTMmJXNZQ=
+
+Name: res/drawable-xhdpi-v4/common_plus_signin_btn_icon_dark_focused.9
+ .png
+SHA1-Digest: g9Bbv40uPuSTZer4YyaZ+oFfe7I=
+
+Name: assets/res/UI/UIPlist/Plist_littlestar.png
+SHA1-Digest: rg+uZYrx2CnSbohGLD2b5XSj1Zk=
+
+Name: res/drawable-xhdpi-v4/mv_close.png
+SHA1-Digest: xzb0QyHBM7Jvfi7GMzBUpMSblxY=
+
+Name: assets/res/UI/UIResult/endless_pass_content.csb
+SHA1-Digest: z62BrVyJUjazEmokR9y/F0EBz2A=
+
+Name: res/drawable-xhdpi-v4/common_rating_half_star.png
+SHA1-Digest: Ho1kXpDqkZq4fM8H6icAV9URXlE=
+
+Name: assets/res/music/bass2/f1.mp3
+SHA1-Digest: aCidoRByvQEKKacDLENYmi31GX0=
+
+Name: assets/res/UI/UIHome/card_fb_login.csb
+SHA1-Digest: HTZlMh/Ze70NljDj0BUFSW0qGNQ=
+
+Name: assets/res/UI/UIResult/levelup_pass.csb
+SHA1-Digest: nWRErPEjetgJBaO0DkYrM98MPNY=
+
+Name: assets/res/UI/UIHome/CardImage/9.png
+SHA1-Digest: Re/MipAWiOXQOukibbKd9VEL9sU=
+
+Name: assets/res/music/bass/#A-1.mp3
+SHA1-Digest: tsF1D52wy7oLTD+L+Bd0uQhaM9U=
+
+Name: assets/res/UI/UIPlist/Plist_bottomtab.plist
+SHA1-Digest: 6wemIhBsJVMXyXCqUcfeBMoHPDs=
+
+Name: assets/res/UI/UIHoliday/EasterCdPuzzle/rabbit_egg.png
+SHA1-Digest: myawEG2t07vLob1VKNB6+pQT8zA=
+
+Name: res/layout/cm_activity_video_detail.xml
+SHA1-Digest: o4nyQB8M+aIH+z4EwGv0ukLJqXI=
+
+Name: res/drawable-xhdpi-v4/message_tag_loading_circle_small.png
+SHA1-Digest: ms3A6nQeJpIhUq2Sv8hPAMKQiTs=
+
+Name: assets/res/UI/Xmas/Node_btn_get.csb
+SHA1-Digest: D2eq+j2MFfTH9Gh9fleqoNFucAc=
+
+Name: assets/res/music/drum/C-1.mp3
+SHA1-Digest: zQNnF3DLmRCTDTq3Mq0PAED9Yc8=
+
+Name: res/drawable-xhdpi-v4/vast_watchagain.png
+SHA1-Digest: Fz5/md7WuhjA98B4x32HBdY5ff4=
+
+Name: assets/res/UI/UIOpenning/Node_cd.csb
+SHA1-Digest: 0iV8YxPi2oiTYpdVqtncEwZQMVM=
+
+Name: assets/res/UI/UIBattleMaster/Node_week_target.csb
+SHA1-Digest: Em/1PnaIpae6PbubBJfmgu2t+Mg=
+
+Name: assets/res/UI/UIHome/newEpoch/newEpoch_hq_summonsuc.csb
+SHA1-Digest: HfNkJerA/kU+3WOA76DV2/VhOGo=
+
+Name: assets/res/UI/UIHome/Node_rank_invite_fiend.csb
+SHA1-Digest: 2r+ipTpIIXdiRvQ7fmNZe82/rQw=
+
+Name: assets/res/music/piano/d.mp3
+SHA1-Digest: ufmDpBfnjl1mP+BH/+FEuXWuOfA=
+
+Name: assets/res/UI/UIAlbum/9/card_09.png
+SHA1-Digest: xz161Ho+vDFZF0jioAfBFAGKl2M=
+
+Name: assets/res/UI/UIPlist/particle_levelupfinally.plist
+SHA1-Digest: JuwK86HLktzSPvP9LZ5Cq6RJb9U=
+
+Name: assets/res/music/drum/F-2.mp3
+SHA1-Digest: na1SkntjtDfzqgtjFDRrwuYDVpE=
+
+Name: assets/res/UI/UIHome/Node_puzzle_reward.csb
+SHA1-Digest: mzI4TV76o0rxeDo31xN3HSat+qY=
+
+Name: res/drawable-xhdpi-v4/share_progress_bg.png
+SHA1-Digest: QS4r2Put3HM4hQKpK+nazr457Dc=
+
+Name: assets/res/UI/UIHome/Node_drop_down.csb
+SHA1-Digest: gPTCpan4QCmJsVxB7pFbCs7UkbU=
+
+Name: assets/res/UI/UIAlbum/20/card_bg_s_20.png
+SHA1-Digest: 904+XCY6in9O/7kEsv0TCWYZBjs=
+
+Name: assets/res/UI/UIParticle/xmas_snow_particle_a6.6.plist
+SHA1-Digest: y0hRV7xSJ+dJxkjKb5B4e1XBioI=
+
+Name: assets/res/music/piano/empty.mp3
+SHA1-Digest: Jqg0sQo4XwwO/sf00GS7WuZdYpk=
+
+Name: res/drawable/btn_twitter_selector.xml
+SHA1-Digest: r4tfOqFWWrXDEIMW7mLM0mhRtj0=
+
+Name: assets/res/music/bass2/#d.mp3
+SHA1-Digest: 56M7Z81p/2hmTPhF4wCNkd1VL8g=
+
+Name: assets/res/UI/UIOpenning/opening_cd6.png
+SHA1-Digest: mApCKsl8uXz8xsL7bVELrt8qVbw=
+
+Name: assets/res/UI/UIOpenning/Node_littlestar_move.csb
+SHA1-Digest: xv+thRy1TuJKUWPQY+SkLimo/ww=
+
+Name: res/drawable/banner_ad_green_bg.xml
+SHA1-Digest: zsj6cxkNgtP5gNpERxiqhIjtN9U=
+
+Name: res/layout/message_tag_no_net_to_retry_layout.xml
+SHA1-Digest: zP8NAhoIi0YGNrNQAHQuuCwNjIk=
+
+Name: res/drawable/messenger_button_blue_bg_selector.xml
+SHA1-Digest: C0/2VmpZbH4uEws/UvIi1LvEOzg=
+
+Name: assets/res/song/A Little Sweet (BY2 - Silence Wang).json
+SHA1-Digest: nSqri8zF4nenDr00ia+6GfE766E=
+
+Name: assets/res/song/Master Challenge.json
+SHA1-Digest: KMboLfgwOPaLZyeyixjuMkWo4FY=
+
+Name: assets/res/music/piano/#c.mp3
+SHA1-Digest: BdkEtpCHe4DltdNmzxMucvp2avU=
+
+Name: assets/cmlogo_tips_cn.png
+SHA1-Digest: dGlQ3QZlunCRcHR6ZOZeZ2484mw=
+
+Name: res/drawable-xhdpi-v4/love_arrow_left_2.png
+SHA1-Digest: iePSEnz/YzEtuiBtFVBVnHYdPj8=
+
+Name: assets/res/UI/UIResult/Node_rankup_btn.csb
+SHA1-Digest: zquMww27J8BIzlHFRPe6nt7cxFo=
+
+Name: res/layout/brand_vc_mute_unmute.xml
+SHA1-Digest: LpdgVtacLUMjoyf7uhlbFqjuuG8=
+
+Name: assets/res/UI/UIHome/CardImage/7.png
+SHA1-Digest: ihwVjxuaOhApatgCohp0v+keWFw=
+
+Name: assets/res/UI/UIHome/Node_redpacket_share_select.csb
+SHA1-Digest: I8rUL9YDqagNQsRgg/0tUbj8aRU=
+
+Name: res/drawable-xhdpi-v4/common_rating_full_star.png
+SHA1-Digest: VOJh6gst33bRtUzxoU1tODUzAtY=
+
+Name: res/drawable/interstitial_ad_callaction_rect_normal_bg.xml
+SHA1-Digest: PxdWlSvH5GeF7QgO/60cMM8LBro=
+
+Name: res/layout/orion_activity_incentive_video.xml
+SHA1-Digest: dG3fEvpYYc5dtIq6cpA6XlnO+0M=
+
+Name: res/drawable-xhdpi-v4/lov_cd_bg_3.png
+SHA1-Digest: zDGvzA9HedXABV58oBL246PTaTk=
+
+Name: assets/res/UI/UIHome/dialog_message.csb
+SHA1-Digest: VNWHDMz9RwROh1Z7JmTYgryl8fU=
+
+Name: assets/res/UI/UIPlist/image_quest_tips_dialog_jiao.png
+SHA1-Digest: i4WRKkqbEH7WLzltzsmJn5nK1BQ=
+
+Name: res/drawable-xhdpi-v4/common_full_open_on_phone.png
+SHA1-Digest: rvtKth49QCEjlTYMwbfTOGPJ61s=
+
+Name: assets/res/music/piano/#g4.mp3
+SHA1-Digest: ynj8e96+Nio+Pn1dnXIwZn/PSFU=
+
+Name: res/drawable-xhdpi-v4/com_facebook_tooltip_blue_xout.png
+SHA1-Digest: C1VO73bS/b0q2qwglqTdywqh7Rc=
+
+Name: assets/res/UI/UIHome/card_other.csb
+SHA1-Digest: Ul+3KUpQK6POZw1mo2I4uJRh5jQ=
+
+Name: assets/res/UI/Xmas/Node_tree_xmas_star_2.csb
+SHA1-Digest: T2s+fLnHcqmv35KphBavMNBm4ks=
+
+Name: assets/res/gameImage/1.png
+SHA1-Digest: BPXvoIM/rtqA4lRTWYJD3/tWfA0=
+
+Name: assets/res/UI/UIAlbum/29/card_bg_s_29.png
+SHA1-Digest: lwW37lCOxUKAZqits5DJl1E8bME=
+
+Name: assets/res/UI/UIAlbum/17/card_17.png
+SHA1-Digest: HHoAJkaUwpwfhKLSHYtZwWy1Mto=
+
+Name: assets/res/UI/UIHome/card_playmusic.csb
+SHA1-Digest: BjY4+qlc82WWFhuZXpqOhCj8QMI=
+
+Name: assets/res/UI/UIHoliday/Plist_bottomtab_xmas.plist
+SHA1-Digest: ZapmIAm1A+4C1wN4EZ94fGLRJbY=
+
+Name: assets/res/UI/UIAlbum/22/card_bg_s_22.png
+SHA1-Digest: p5DwflxBaWrGEUt6cAnBDsQHHv0=
+
+Name: assets/res/UI/UIPlist/Plist_battle_result2.png
+SHA1-Digest: XGRXV3iXiWVc8WdVyHbLZWHIgVM=
+
+Name: res/drawable-xhdpi-v4/common_google_signin_btn_text_light_normal
+ .9.png
+SHA1-Digest: M9Wh+ra0liqJvKmo4aS1r5iTurE=
+
+Name: assets/res/music/piano/#D-2.mp3
+SHA1-Digest: jPqwb+/Tyiebj+lvJQ4JIimR4UQ=
+
+Name: assets/res/UI/UIHome/card_hall_master.csb
+SHA1-Digest: lSNDNh1UFlb4HGAqmKYH57eORVU=
+
+Name: assets/res/UI/UIPlist/particle_unlock_red.plist
+SHA1-Digest: Pot36ujILaCBtlLPIZHz6kDztAQ=
+
+Name: assets/res/music/drum/G-1.mp3
+SHA1-Digest: G7He/BwOEv+qD+QhAnBvzbRrlC0=
+
+Name: assets/res/UI/UIBattleMaster/endless_rush.csb
+SHA1-Digest: X2ZmwrSSANbNJC8fm0Egcg0kn74=
+
+Name: res/drawable/ad_image_bg.xml
+SHA1-Digest: YanIE7CmMIN9zODChZhVCQIovec=
+
+Name: assets/res/UI/UIAlbum/31/card_31.png
+SHA1-Digest: MpsCEaVDne20za9wtEcB6FaiZLE=
+
+Name: assets/res/musicsrc.json
+SHA1-Digest: i7MsgMGG84nDFVwcDqDgz4Jax3Y=
+
+Name: assets/res/music/piano/d2.mp3
+SHA1-Digest: ytdXwH3AdeC+lbp0pIZiXxzBt5Y=
+
+Name: res/drawable-hdpi-v4/common_plus_signin_btn_text_light_disabled.
+ 9.png
+SHA1-Digest: /mcQ+wxoSg/zcV54gyn3BpoXrzo=
+
+Name: assets/res/Animation/bg.csb
+SHA1-Digest: zeqQH/bPC+4Y/26OiAppzwciKSo=
+
+Name: res/drawable-xxhdpi-v4/common_ic_googleplayservices.png
+SHA1-Digest: vG6uf39EzDeQu9AZt8+0rR/DicA=
+
+Name: assets/res/music/bass2/#f1.mp3
+SHA1-Digest: mKAjY+16xUj8d905odXSYk0NuAg=
+
+Name: assets/res/UI/UIResult/Node_ani_free.csb
+SHA1-Digest: KEnrrRVHV0AjlApubWWYzQO0C5g=
+
+Name: assets/res/UI/UIHoliday/card_playmusic_hl.csb
+SHA1-Digest: r+E4QMnIFg5ZaIJq0CzXgNLf3wU=
+
+Name: res/anim/duapps_ad_offer_wall_indeterminate_rotate.xml
+SHA1-Digest: 3mNaOGyt3JfLgUNrgXSPpWa3Vf4=
+
+Name: res/drawable-hdpi-v4/common_google_signin_btn_text_light_focused
+ .9.png
+SHA1-Digest: 8AUNGkBdnfoZvbdD1zzIQr+rGYM=
+
+Name: res/drawable-xhdpi-v4/com_facebook_close.png
+SHA1-Digest: 8KOiYoUMNvNT+KUY8NKOPRHipzE=
+
+Name: assets/res/DB/ThreeRewar.csv
+SHA1-Digest: 6llVgAqViq9EReEV7pciQ/erPrY=
+
+Name: assets/res/UI/UIHoliday/EasterCdPuzzle/xmas_puzzle3.png
+SHA1-Digest: PiC8MeYj1Gq213lKGYK/RLXDRjk=
+
+Name: assets/res/UI/CDCollection/musk_cd_bg07.png
+SHA1-Digest: Y96ZmQYIcsIQPBzxXdkwI0F+1UE=
+
+Name: res/drawable-xhdpi-v4/com_facebook_button_icon_white.png
+SHA1-Digest: //XVsZ3nj6Js3Bub9L4AI7RJu9A=
+
+Name: assets/res/UI/CDCollection/collect_cd_1001.png
+SHA1-Digest: +L83I1woxTj1HVUWrUhdlSosCkI=
+
+Name: res/drawable-xhdpi-v4/musicnote.png
+SHA1-Digest: jP5CvnkUQMryiE348BkgtUw9TzA=
+
+Name: res/drawable/com_facebook_button_background.xml
+SHA1-Digest: qo0qSx9h9FhjCr328eWJiJXqxvo=
+
+Name: assets/res/UI/Xmas/Node_tree_xmas_snowman_2.csb
+SHA1-Digest: f8wHQPwQEU7v8oZDOCDqClQfy3U=
+
+Name: assets/res/UI/UIHoliday/Layer_share_birthday.csb
+SHA1-Digest: Uxvl4UGT8jwIJKdAD8aHVRespeo=
+
+Name: assets/res/UI/CDCollection/collect_cd_1005.png
+SHA1-Digest: WWoHDpy53ND04LhHlu9NLC5F5hk=
+
+Name: assets/res/music/piano/#C-2.mp3
+SHA1-Digest: 1w2sSv5NvkM35BprbZ7kriq6DlM=
+
+Name: res/drawable-xhdpi-v4/messenger_bubble_large_white.png
+SHA1-Digest: JkO2cD4/ev88DxEAH6Au1hrJdV4=
+
+Name: assets/res/Audio/qinngshixiang.mp3
+SHA1-Digest: XWDdqqyKXUZ4q4Jl72S1csSN/ac=
+
+Name: res/drawable-tvdpi-v4/common_plus_signin_btn_text_dark_pressed.9
+ .png
+SHA1-Digest: gAl9VS7mTjmwrIPqeGGik64tgiU=
+
+Name: res/drawable-xhdpi-v4/mv_pic_star.png
+SHA1-Digest: qkzM3oOFsQd+IO5Fm+nZyWSJEyE=
+
+Name: assets/res/UI/UIPause/dialog_continue_new_new.csb
+SHA1-Digest: SNeAhFFOirbWCuyifQKZdOKLfc0=
+
+Name: assets/res/UI/UIHome/Item/Layer_choselanguage.csb
+SHA1-Digest: uPh0e+hNaseIIf4ytgKOk41WrPo=
+
+Name: res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_pressed
+ .9.png
+SHA1-Digest: Z47Ytqk1ljeVWpMZQ9eu2WmC2h4=
+
+Name: assets/res/UI/UIOpenning/musician6.png
+SHA1-Digest: WkJjsUrYRLsJ/N1eBTKEbiuPl2s=
+
+Name: assets/res/music/piano/#g.mp3
+SHA1-Digest: 3tYOleH9eApC4jBpgdpUCuYUf/M=
+
+Name: assets/res/UI/UIHoliday/Node_share_contents_pumpkin.csb
+SHA1-Digest: fTwlsY6krBCMHSLNBlo2Xbzpuc4=
+
+Name: res/drawable-hdpi-v4/mobvista_cm_tail.png
+SHA1-Digest: IP80ACKlNd9ultxC/G2WdJCguFc=
+
+Name: assets/res/UI/UIPlist/particle_yellow_r.png
+SHA1-Digest: RzLXC8A8nHiOvZwiogK/R/7E5lE=
+
+Name: assets/res/UI/UIStore/dialog_logout.csb
+SHA1-Digest: AqvuERfytv6NdSphpbwzQJTSFEQ=
+
+Name: assets/res/UI/UIParticle/xmas_particle_stex2.png
+SHA1-Digest: HaT+MdNeh/oDDwxwNy3n2DyPisc=
+
+Name: assets/res/music/bass/#c1.mp3
+SHA1-Digest: K1yq9WlEUD5WoZe4X91Png7f9zk=
+
+Name: assets/res/UI/CDCollection/collect_cd_1016.png
+SHA1-Digest: mpiVZGuGGbDVe98nH9MSfDbZ5h8=
+
+Name: assets/res/UI/UIHome/Node_fb_login_homepage.csb
+SHA1-Digest: I0kcYFXS1CpT/OdEqOOQqcuZ0TY=
+
+Name: res/color/common_google_signin_btn_text_dark.xml
+SHA1-Digest: iegwpKFAUwjIVN5XeW6Yla7W/ms=
+
+Name: assets/res/Animation/bgani_01.png
+SHA1-Digest: q3c4H9G4w+A7bE6WXREC1DnMiQQ=
+
+Name: assets/res/UI/UIAlbum/31/card_bg_s_31.png
+SHA1-Digest: +9XfEuISd1tKWpq5O3pfIk9WUf0=
+
+Name: res/drawable/mobvista_cm_refresh.xml
+SHA1-Digest: aqh8b75msPw/zOyD3A7mVUczzL0=
+
+Name: assets/res/UI/UIBattleMaster/icon_collection_card.png
+SHA1-Digest: kciV7Cd/xXWtsBYMPWOvLLfMgkg=
+
+Name: res/drawable-xxxhdpi-v4/app_logo.png
+SHA1-Digest: hiNRWabq4M1rYoO7orsSwBH1viY=
+
+Name: res/layout/mobvista_ad_layout.xml
+SHA1-Digest: sLP6Xdo4vlpSZfPH3VH/e7XFC4U=
+
+Name: assets/res/DB/video_song.csv
+SHA1-Digest: afk7YCRKzl1cSeRn0R8S/TNk+cw=
+
+Name: assets/res/UI/UIOpenning/opening_particle.csb
+SHA1-Digest: jy8fmdwNY3HFbSupnnycPObrheE=
+
+Name: assets/res/UI/UIHoliday/puzzle_box_open.png
+SHA1-Digest: ttSiugbif+NRoM3f5Gss9yz3MIs=
+
+Name: assets/res/UI/UIHome/card_firstchargebonus.csb
+SHA1-Digest: 2w+uA2LIc5yX3IjBIVcV0Iys+lA=
+
+Name: assets/res/UI/UIHome/Item/Node_buttonback.csb
+SHA1-Digest: /X+divhk56+omvcMbIEB+K6okgk=
+
+Name: assets/res/UI/UIPlist/particle_levelupfinally.png
+SHA1-Digest: zdvAW0cJm3QTD9mrCyvN5r+VkH0=
+
+Name: assets/res/UI/UIHome/Item/Node_done.csb
+SHA1-Digest: P0mFiWpHmnNtliXnX7pmOyMmx0Y=
+
+Name: assets/res/UI/Xmas/imag_tree_xmas_snow3.png
+SHA1-Digest: 1/r7ilqqJdBFFnmGJ8IQWveI7Ww=
+
+Name: assets/res/UI/UIResult/buttongroup_again_new_video.csb
+SHA1-Digest: M/GWmTAXYcv81TlbCD6Xu1WVfw4=
+
+Name: res/drawable/reply_custom_message_edit_background.xml
+SHA1-Digest: n0O5NKSuUGzX6AO3H4q5o5vZs40=
+
+Name: assets/res/UI/Xmas/snow_tree_snow3.plist
+SHA1-Digest: l0DRuc+vpR6aB6EWAfyb/fv4zzs=
+
+Name: assets/res/UI/UIHoliday/EasterCdPuzzle/rabbit_moto.png
+SHA1-Digest: 5FJy6PY2EDyrA8C0ShPCJwDx08M=
+
+Name: res/drawable-xxhdpi-v4/app_logo.png
+SHA1-Digest: OTynFCoBq5kb3T4HLk6DZpFAx6s=
+
+Name: res/drawable-xhdpi-v4/message_tag_title_bg.9.png
+SHA1-Digest: anbdvvXecZMNA62YZoR6tySJYng=
+
+Name: assets/res/UI/UIParticle/heart.plist
+SHA1-Digest: XVuv2GdS3YWAomBQi5K4KqmyS5k=
+
+Name: res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_focuse
+ d.9.png
+SHA1-Digest: 272Bs6T6cNuq4xDbojpMhaYwwGE=
+
+Name: assets/res/music/piano/e2.mp3
+SHA1-Digest: w3VwKVzvlx4AE7XkzUfyFrAjyfo=
+
+Name: res/drawable/cm_video_cm_tag.png
+SHA1-Digest: intdwh8AzR2ASv1UnfOcGliXcsE=
+
+Name: assets/res/UI/UIHome/Node_invite_friend_unlink.csb
+SHA1-Digest: 6UdycKFE3QmSPiNRY2eSRME+Sqc=
+
+Name: assets/res/UI/UIResult/Node_singlerank_dialog.csb
+SHA1-Digest: OH8j7bLuP2zTYv0hBCupnb4livM=
+
+Name: assets/res/UI/UIResult/Node_chest_open.csb
+SHA1-Digest: Tw19ZeKRNN2wvXz4qaylaxIfcMo=
+
+Name: assets/res/music/bass2/#c.mp3
+SHA1-Digest: 0j9xL+7zdV/9eblO09GmMqHjKp4=
+
+Name: res/layout/fb_ad_layout.xml
+SHA1-Digest: NVElCRxGfEIlEwn0rQsdHClehaw=
+
+Name: assets/res/UI/UIOpenning/Node_cmlogo.csb
+SHA1-Digest: +ZVbj9FIkbOdtCzgXazH8ONHHdA=
+
+Name: assets/res/UI/UIResult/Node_ani_freediamond.csb
+SHA1-Digest: KqOXnLkQs/UGFsyWlmkQK6w1j8I=
+
+Name: assets/res/UI/Xmas/Node_tree_xmas_dialog_left.csb
+SHA1-Digest: acKqga/onhdrXdmTmuGCClnoGf8=
+
+Name: res/drawable-hdpi-v4/common_google_signin_btn_text_light_normal.
+ 9.png
+SHA1-Digest: vKOIeJu8N7w/3us3rCupC1YrXlY=
+
+Name: assets/res/UI/UIAlbum/23/card_bg_s_23.png
+SHA1-Digest: mDWXiqNjWjRmraWXOEMagMYyR9s=
+
+Name: res/drawable/brand_button_bg.xml
+SHA1-Digest: dNQVqjUfr2zT08bE5TkI3mwbMgc=
+
+Name: res/drawable/popup_corners.xml
+SHA1-Digest: +799JbOGtNO6udOMSl858tq1FH8=
+
+Name: res/layout/pop_up_from_right.xml
+SHA1-Digest: xrZyYCcFpOpp7PNqTKfmUZO+kTY=
+
+Name: assets/res/UI/UIAlbum/17/Node_card_special_17.csb
+SHA1-Digest: ebk9VcdoTqW3RVjA5GrAAE+vFxM=
+
+Name: assets/res/UI/UIResult/buttongroup_menu_recording.csb
+SHA1-Digest: 9rPLU3WiHkhJlmAmrRrrjOmva24=
+
+Name: assets/res/UI/UIAlbum/11/Node_card_special_11.csb
+SHA1-Digest: dKGjDli+8npPzpdo9/GAWh2CpW0=
+
+Name: res/drawable-xhdpi-v4/message_tag_loading_circle_radar.png
+SHA1-Digest: ygFUsasaqUtmcS8BQE8cKAZn8cw=
+
+Name: assets/res/UI/UIAlbum/23/Node_card_special_23.csb
+SHA1-Digest: lVrX4I9IaCNvnI6X19xZOG7XOOY=
+
+Name: assets/res/UI/UIBattleMaster/BattleInfo_Content_chest.csb
+SHA1-Digest: GFIJxLJpD2cQGqe8BQa6c+t/QAI=
+
+Name: assets/res/UI/ActivityMap/Layer_xmas_map.csb
+SHA1-Digest: aUgKbFAFBIczYCpT+P2pALUWCic=
+
+Name: assets/res/UI/UIBattleMaster/bonus_music_chest_fly.png
+SHA1-Digest: s0cIDa8i8KhsM5slOBfXEuUR37s=
+
+Name: assets/res/UI/UIBgEffect/holiday/heart1.png
+SHA1-Digest: 6PbDcnBfjWKMlC5esb959F06GjM=
+
+Name: assets/res/UI/UIPlist/Plist_xmas_snow.png
+SHA1-Digest: YWyGYWn0/Oj3ewAaIJr7EBUU4bc=
+
+Name: assets/res/UI/UIOpenning/mask_white.png
+SHA1-Digest: aln04sOhaSr0dgOrl9iETV+LPqc=
+
+Name: assets/res/UI/UIOpenning/Node_birthday2_first_step1.csb
+SHA1-Digest: 9PtPp6YnhxhEXErjJPcKjLFF08s=
+
+Name: res/drawable-tvdpi-v4/common_google_signin_btn_text_light_normal
+ .9.png
+SHA1-Digest: k7C84umF+x66K16LsV/cXJzekzY=
+
+Name: assets/res/music/drum/#d1.mp3
+SHA1-Digest: N4PbyVTg12zauUjnwn7gwksP0yQ=
+
+Name: res/layout/brand_vc_progress_bar.xml
+SHA1-Digest: ax+vu1jAjUMwZ04E3GCXn/LYWQs=
+
+Name: assets/res/UI/UIHoliday/easteregg/Node_ani_easteregg_diamond.csb
+SHA1-Digest: hTAYKwOoYEAzpdcpO48IN1s0EiY=
+
+Name: assets/res/Audio/PassPageTwo.mp3
+SHA1-Digest: /d7eZvMOeTBQ4mU5uc1Q6PK/KPA=
+
+Name: assets/res/music/piano/G-1.mp3
+SHA1-Digest: gWPsKxcenq1+f2ZXrJK7sQv2t8Y=
+
+Name: assets/res/UI/UIHome/HomePage_iphonex.csb
+SHA1-Digest: PL0sxvkN4jfyMbYai74VlyibC+E=
+
+Name: assets/res/UI/UIHoliday/Node_cd_birthday_animation.csb
+SHA1-Digest: MYTw5kvdGgTP8Q4rVpanMyZHv1I=
+
+Name: assets/res/UI/UIOpenning/songName5.png
+SHA1-Digest: 9ql1ulypRszAsvOwbaiVgxuwW6Y=
+
+Name: assets/res/song/Mưa.json
+SHA1-Digest: 8ashXoLJG9kuib9Wf4yT0+XYDAY=
+
+Name: res/drawable/interstitial_ad_callaction_rect_pressed_bg.xml
+SHA1-Digest: ukxmElzvE9gEPGaDe+QwgIKPjQg=
+
+Name: assets/res/UI/UIAlbum/27/Node_card_special_27.csb
+SHA1-Digest: dTOdnojTX4V1g5+ekliqQf1pp54=
+
+Name: res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_norma
+ l.9.png
+SHA1-Digest: 9ErjVJ3tFSuieqHPojxTfrN1icY=
+
+Name: assets/res/Animation/bgani_loop3.csb
+SHA1-Digest: ksL9EykuQHWM8fqyqWoQ08LP0aM=
+
+Name: res/drawable-hdpi-v4/common_google_signin_btn_icon_light_pressed
+ .9.png
+SHA1-Digest: tcKpnutDtq0cLY89MOMNYq63koY=
+
+Name: res/drawable-mdpi-v4/com_facebook_profile_picture_blank_portrait
+ .png
+SHA1-Digest: HFYNmPQ3SUprso/dYMAdtqMPoVs=
+
+Name: assets/res/UI/UIOpenning/open_icon_2.png
+SHA1-Digest: Adno0bA7mSJSK17OEPFGoKXJNJU=
+
+Name: assets/res/music/piano/#d1.mp3
+SHA1-Digest: Cel0BrQxqYCTxW+WfvG2xajxaKo=
+
+Name: assets/res/music/bass2/b.mp3
+SHA1-Digest: I5HAmUbt/DOMIim1BjX793BWa6s=
+
+Name: assets/res/UI/UIHome/Node_halloween.csb
+SHA1-Digest: Mb3te7bOO8F5zVZn6v8fwZ3YnvU=
+
+Name: assets/res/Audio/PassPageOne.mp3
+SHA1-Digest: +G804xjlDfFt6KPc9gWN02mpMl4=
+
+Name: res/drawable/common_plus_signin_btn_icon_light.xml
+SHA1-Digest: 76SUButvkbQkVT2IEuyu1k5Q7PI=
+
+Name: assets/res/song/Sick Enough To Die.json
+SHA1-Digest: kTxROG6Z8xPp2MIhXnKIR047pV0=
+
+Name: assets/res/UI/UIHome/CardImage/5.png
+SHA1-Digest: /0F2ubk8aJ0dEGrPPSUn/hgsvBk=
+
+Name: assets/res/music/bass2/#C-1.mp3
+SHA1-Digest: xBFvRx+Th4DJ+FAMx0+ji4G3KO0=
+
+Name: assets/res/UI/Xmas/image_check.png
+SHA1-Digest: HBCoKU1GK70BiV9/mWFGJoVfTm8=
+
+Name: assets/res/music/piano/#f.mp3
+SHA1-Digest: NyEbcJfWjnk64QHnPXVD3rILon0=
+
+Name: res/drawable-mdpi-v4/common_plus_signin_btn_text_dark_pressed.9.
+ png
+SHA1-Digest: xtR3NHWSNkEMMafGNqcNPAcHmyQ=
+
+Name: assets/res/UI/UIAlbum/13/card_13.png
+SHA1-Digest: OAAM6AeboF1A7Cu6aIJ/gUAftqU=
+
+Name: res/layout/brand_skip.xml
+SHA1-Digest: 4BLj4Gu89T5PiZliRmoGZXWhDOU=
+
+Name: res/layout/activity_share.xml
+SHA1-Digest: ExptNJIwvQ4HEMAbvVJJGrizs3Y=
+
+Name: assets/res/UI/UIHome/privacy_policy.png
+SHA1-Digest: ZjVlk5i71UEEYx3jefms4ExMt9Y=
+
+Name: res/drawable-xhdpi-v4/crop__divider.9.png
+SHA1-Digest: kAA9inTJRlbjsA4j0zwQiNZllZc=
+
+Name: assets/res/UI/UIResult/Node_blackmask.csb
+SHA1-Digest: XNKy8LBAU2vJVK6EWXcUQ0Mb8v0=
+
+Name: assets/res/song/Windy Hill.json
+SHA1-Digest: YOxOq6/P6dJFSteGGCPA8vUs1xw=
+
+Name: res/drawable-xhdpi-v4/finish.png
+SHA1-Digest: sXfXQNtdRWs4t4zmA1PamZjlgEw=
+
+Name: assets/res/UI/Xmas/Node_tree_xmas_cookies_1.csb
+SHA1-Digest: K66O4VwUxA1njv/OOy4CeBgmF3U=
+
+Name: res/drawable-xhdpi-v4/christmas_cd.png
+SHA1-Digest: 9u0yxsjy2yWLPSxTnBKnEaRoveA=
+
+Name: assets/res/UI/UIHome/Node_snow.csb
+SHA1-Digest: HHw7+XRwU/rzXpRbk+W5sYT1A0k=
+
+Name: assets/res/UI/UIBattleMaster/Node_video_tips.csb
+SHA1-Digest: hMTfKNcYg1NI5ncEvKiVJLD5InE=
+
+Name: assets/res/UI/UIPlist/particle_levelupyellow_l.png
+SHA1-Digest: RzLXC8A8nHiOvZwiogK/R/7E5lE=
+
+Name: assets/res/UI/UIPlist/Plist_resource.png
+SHA1-Digest: JC6M4JHGX8mWewEsSzEEMhY9snA=
+
+Name: assets/res/UI/UIResult/Node_text_youbeat.csb
+SHA1-Digest: qqvkjfWrVjkCoODP0AWYsOpkzDs=
+
+Name: assets/res/DB/weekActivity.csv
+SHA1-Digest: YNOGRt9Xvwog7TGomvTIm5N25vg=
+
+Name: res/drawable-hdpi-v4/mobvista_cm_refresh_selected.png
+SHA1-Digest: g9n4x9ZUhTLE94jE0RPMXU2FIu4=
+
+Name: assets/res/UI/UIStore/dialog_level.csb
+SHA1-Digest: +LWwqveDs2kixihLf85bEnaHbJ8=
+
+Name: assets/res/UI/UIBattleMaster/bonus_normal_chest_fly.png
+SHA1-Digest: /hA8hDZmkcfX3f1kAnoP2CTHZ1o=
+
+Name: res/layout/message_tag_no_net_choose_wifi_layout.xml
+SHA1-Digest: hFrd9St+9FM0Wl/+b6sJRWgpfMI=
+
+Name: res/drawable-xhdpi-v4/love_close.png
+SHA1-Digest: kS8kVsEdwj/dyoop8CnABwECh08=
+
+Name: assets/res/UI/UIOpenning/Node_opening_fly_disc.csb
+SHA1-Digest: 5lVT/IEpI9z+J6KRU4c+KbLRyMA=
+
+Name: assets/res/UI/UIResult/normal_pass_content_new.csb
+SHA1-Digest: rhgUSCZPBGP7i7V3IAA93kl+Ugs=
+
+Name: assets/res/UI/UIHome/Item/Node_weibo.csb
+SHA1-Digest: 7maQm3PuwpIpljbZDlkrldYI884=
+
+Name: res/layout/message_tag_title.xml
+SHA1-Digest: owIKTKz0maRorznLQLSKs/wa7Wo=
+
+Name: res/layout/duapps_ad_offer_wall_fragment_header_container.xml
+SHA1-Digest: QAUQIdNuzLzucT3585l3km8mLFI=
+
+Name: res/drawable-xhdpi-v4/love_arrow_right_3.png
+SHA1-Digest: FWMw6+jS8UO886DI3BXPSjHiVnc=
+
+Name: assets/res/UI/UIHoliday/Node_xmas_enter.csb
+SHA1-Digest: PxER8wJ5oSUWixyJKopMFMfHu1g=
+
+Name: res/layout/cm_activity_open_screen_video.xml
+SHA1-Digest: tTiJJbi/hZVNiP9QOv8ulq3G5fc=
+
+Name: assets/res/UI/UIHome/bg_pay_package_complete_light.png
+SHA1-Digest: 8fG+bUkTpPVw8cCXrXQ4lezlTSU=
+
+Name: assets/res/Animation/dot_accompaniment.csb
+SHA1-Digest: K0QZywGDiH9cVHkLgX71RTWyRL0=
+
+Name: assets/res/music/piano/D-1.mp3
+SHA1-Digest: Jz8FED9IXrgaHKI+a5dYdhAZjgU=
+
+Name: res/drawable-xhdpi-v4/icon_cd_center.png
+SHA1-Digest: 0GICzsGDGkyhV8pn8vbUVtS8Nk8=
+
+Name: res/layout/messenger_button_send_white_round.xml
+SHA1-Digest: qM77+A2Cu58wbwvIFXt+oIEekVA=
+
+Name: res/drawable-xxhdpi-v4/common_plus_signin_btn_icon_light_normal.
+ 9.png
+SHA1-Digest: 6Pq7qZSGdt9stwD1tInhj7/fbaw=
+
+Name: assets/res/UI/UIAlbum/32/card_32.png
+SHA1-Digest: U3U5oeh2pGUSPmpz8rKCf4RXWCA=
+
+Name: assets/res/music/piano/c3.mp3
+SHA1-Digest: WccwXAk0UXdUhSmLrO082a7ZFIA=
+
+Name: assets/res/UI/UIHome/Node_week_enter_homepage.csb
+SHA1-Digest: GIMVo2sHnZraxtUl9eswAYRR8zg=
+
+Name: assets/res/UI/UIPause/dialog_continue_pay.csb
+SHA1-Digest: 9RFy8H9H35eJRdnIgOQuIp3xfFk=
+
+Name: res/drawable-xhdpi-v4/browser_right_arrow.png
+SHA1-Digest: xT9FM8e3f954rlyLtjk6dELex5o=
+
+Name: assets/res/UI/UIBattleMaster/PianoInfo.csb
+SHA1-Digest: CeBL/WLFWIf2bydDFbi0drmRNj0=
+
+Name: assets/res/song/Fuego.json
+SHA1-Digest: t9G4qetFN2KVcBjfgkt/olQJZUY=
+
+Name: res/drawable-tvdpi-v4/common_google_signin_btn_icon_light_normal
+ .9.png
+SHA1-Digest: PrN/RTLjxu2oUW6Yn99pAiEPBxQ=
+
+Name: assets/res/UI/UIHome/Ly_rank_singl_invite.csb
+SHA1-Digest: j+cdo3Mpypm4ysR3mQA781PwgCE=
+
+Name: assets/res/music/bass2/B-2.mp3
+SHA1-Digest: hNlnK0+UPllhcndlt+AKyhMG+Cw=
+
+Name: res/drawable-xhdpi-v4/browser_close.png
+SHA1-Digest: BvoNuPMXRX2OggNZ0praOdEuhzM=
+
+Name: assets/res/music/drum/g.mp3
+SHA1-Digest: 4YxTuf9H1nZO7x8p1f9L0VQjGqs=
+
+Name: res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_normal
+ .9.png
+SHA1-Digest: /qyna22b0UfuR1r/ko6aN1OcROY=
+
+Name: assets/res/UI/ActivityMap/Node_map_reward_two.csb
+SHA1-Digest: FeSKn7HztSca3dSF5C3aHTYhXJo=
+
+Name: assets/res/UI/UIAlbum/11/card_bg_s_11.png
+SHA1-Digest: JVbTPzP9j7/HGot6ECGUYbqERyo=
+
+Name: assets/res/music/drum/D-1.mp3
+SHA1-Digest: jhEQo/I/aTvYk2u54MmY8lPhwFs=
+
+Name: assets/res/song/Attention.json
+SHA1-Digest: /O7JCuHC6cO2moBCmwYfzudjxdQ=
+
+Name: assets/res/UI/UIPlist/message_tag_title_bg.9.png
+SHA1-Digest: 9+i1o2ZE3WV0+JKmZU8LtsJEb60=
+
+Name: assets/res/UI/CDCollection/xmas_title_bg.png
+SHA1-Digest: TzQpMT7Yz0/LOFDXEOgkrW1rNSw=
+
+Name: assets/res/UI/UIBattleMaster/star_Battle.csb
+SHA1-Digest: 243RLgfODBxNNSSB//NzvcKV2oE=
+
+Name: assets/res/UI/UIHoliday/Node_share_crown.csb
+SHA1-Digest: 38xac8Itn4yy84Ze6gmQZEBML+4=
+
+Name: res/drawable-mdpi-v4/common_google_signin_btn_text_light_pressed
+ .9.png
+SHA1-Digest: StQSehtOA5sc/D7y/PEZK/Wt+Q8=
+
+Name: assets/res/song/Người yêu cũ.json
+SHA1-Digest: ilOyeZ477Bwvdxhb7GCsQB3fdDw=
+
+Name: assets/res/UI/UIPlist/Plist_team.png
+SHA1-Digest: NJ3cLxokkmpxvsOW4JrASGsXT8E=
+
+Name: assets/res/UI/UIOpenning/bg_brithday2_cicle_thrip.png
+SHA1-Digest: VDyNdZEVmOtGJo95RYqXW/NvU0Y=
+
+Name: assets/res/gameImage/Node_baolie_animation.csb
+SHA1-Digest: W/A3rKqPPn5LDBkAKSw47iQvnpk=
+
+Name: assets/res/UI/UIBattleMaster/BattleInfo_Content_video_tips.csb
+SHA1-Digest: vLPwvFw+oS56BXGbYjQI/yerO5A=
+
+Name: assets/res/song/17sai.json
+SHA1-Digest: NUEMW3uII3nmNgt4gW4RtuKWX7E=
+
+Name: assets/res/UI/UIResult/Node_sharecd_content.csb
+SHA1-Digest: VgW50EqPsluuXMUp9lN1AnaeWco=
+
+Name: res/drawable-xhdpi-v4/crop__tile.png
+SHA1-Digest: /mq840WIVm/cZ+411R5H6ffGWyw=
+
+Name: assets/res/music/bass/#F-1.mp3
+SHA1-Digest: SechWPP7KZEq6RP0aGQzS8AN3Yw=
+
+Name: res/drawable-xhdpi-v4/icon_gift.png
+SHA1-Digest: IzkB1y3gkGDtwBpbywUlHuR9DvM=
+
+Name: assets/res/UI/UIAlbum/4/Node_card_special_4.csb
+SHA1-Digest: A34dDuyH/TkANPmSn4Cum3r3GEs=
+
+Name: res/layout/sync_fail_dialog.xml
+SHA1-Digest: gAWmXn3DTkWUFDT2iTrRN2LNp4c=
+
+Name: res/layout/com_cmplay_message_tag_network_viewflip_layout.xml
+SHA1-Digest: jAorEGM9gDIAtyfYhugfa6QPi9c=
+
+Name: assets/res/UI/UIPlist/Plist_social.plist
+SHA1-Digest: UT7lishsmz2giVZ2m714ap+2Q0E=
+
+Name: assets/res/music/bass/#G-1.mp3
+SHA1-Digest: 8Zf3FYktOAjhd3Do3WEeNT20Ju8=
+
+Name: assets/res/UI/UIHome/Node_leaderboard_updata.csb
+SHA1-Digest: VJRj7AWOo+cNiDYiwAzuoOooCQY=
+
+Name: assets/res/song/佛系少女.json
+SHA1-Digest: W0N8TLDDdwRK4RzJxFelo82PBXc=
+
+Name: assets/res/UI/UIHoliday/Node_share_contents_birthday.csb
+SHA1-Digest: 04pB+TY2PR5xBr8PP304sgTmgTA=
+
+Name: assets/res/UI/UIPlist/particle_levelup.plist
+SHA1-Digest: sRcfMXMJjFxHTySTJCdGVqjUgek=
+
+Name: assets/res/UI/UIHome/icon_played_bg.csb
+SHA1-Digest: pogHikZU7fw0/Q1PrkhscHxsEo8=
+
+Name: assets/res/UI/Xmas/Node_tree_xmas_sock_3.csb
+SHA1-Digest: XNVxrdcDRsUMNAC8W1B0RikzQKQ=
+
+Name: assets/res/UI/UIStore/4yuetehui.png
+SHA1-Digest: zg5dUL6Y3QoJIXgv8cQXG5trJT0=
+
+Name: res/layout/native_ad_full_screen_layout.xml
+SHA1-Digest: A/jwI1x5JommT2N/v7YWY3SvIoc=
+
+Name: assets/res/UI/UIResult/buttongroup_again_nonext.csb
+SHA1-Digest: JpNbI9qWRv8lmgF8K7GFDcCd8lM=
+
+Name: assets/res/UI/Xmas/image_check_on.png
+SHA1-Digest: VLP1kzRlDbMfJUC2qcjU5GItQR0=
+
+Name: assets/res/UI/UIHome/Node_rank_enter.csb
+SHA1-Digest: RDs3HEbWXiBO7E68DT4SPjud1hU=
+
+Name: assets/res/UI/CDCollection/Node_cd_puzzle_slide_animation.csb
+SHA1-Digest: UGtwDfTOHMi3j5XinxlbW9yhqVw=
+
+Name: assets/res/UI/Xmas/Node_tree_xmas_coin_animation.csb
+SHA1-Digest: N+smeYJRa5CfSROuXtZfmvOlNjw=
+
+Name: assets/res/music/piano/#A-1.mp3
+SHA1-Digest: akkdXGJfy7WgHUSjWNnEFKuAOyU=
+
+Name: res/color/common_plus_signin_btn_text_light.xml
+SHA1-Digest: /xiymcrT9JflRzGIeb8NGp2oOHY=
+
+Name: assets/res/UI/UIHome/Node_ads_collect.csb
+SHA1-Digest: 29w4W+R7ATotrm7XxUjo68P+l6A=
+
+Name: assets/res/UI/Xmas/Node_tree_xmas_snowman_1.csb
+SHA1-Digest: iobEEudWvW8znDwwARG8Ax8IO8w=
+
+Name: res/drawable-xhdpi-v4/lov_line_interval_3.png
+SHA1-Digest: s19NZ8k1XY4y6zFS0N5I+ub8nsA=
+
+Name: assets/res/UI/CDCollection/rabbit_cd_bg.png
+SHA1-Digest: tmuBmxvxfEFTv3OSo0m5nEqm0Xw=
+
+Name: res/drawable/banner_ad_bg.xml
+SHA1-Digest: is+7sc1eWvrvO6pdxhNGxwPB2Vo=
+
+Name: assets/res/music/Maybe see you after four years.mp3
+SHA1-Digest: A+hF+c9a/tCt7pJcHzZRFjC5W0I=
+
+Name: assets/res/UI/UIBattle/Effect/polySquare_2.png
+SHA1-Digest: 7PvVg9fzUJ+n8F5JPPNDZmuPON0=
+
+Name: res/drawable/bg_circle_corner_white.xml
+SHA1-Digest: B2xKd569ukJeX2iEHPoCvuKhjpU=
+
+Name: assets/res/UI/UIHome/card_fans.csb
+SHA1-Digest: iYTvEPlHV4DGiXy136WXjcLdz0k=
+
+Name: assets/res/UI/UIPlist/Plist_cd.plist
+SHA1-Digest: EEqRI65+76AblFMK3t8KcrlFg6w=
+
+Name: res/drawable/cmad_btn_calltoaction_bg_blue.xml
+SHA1-Digest: wQ+woAfh5JZTZ5pQYQBgQv3p81k=
+
+Name: assets/res/UI/UIPause/dialog_rateusfive.csb
+SHA1-Digest: sTGYNnbI5qyNk3/E6muZ7xL2++0=
+
+Name: assets/res/UI/Shader/grayscaleSprite.vsh
+SHA1-Digest: z2gK8LdwB2/u2HJzcdaM2uX7jSs=
+
+Name: assets/res/UI/UIOpenning/musician3.png
+SHA1-Digest: mOP/m89rzb7NiJIqTiKniR9NsMc=
+
+Name: res/drawable-xhdpi-v4/common_plus_signin_btn_icon_light_disabled
+ .9.png
+SHA1-Digest: 5nCYJ/E6AQWtveuxD/i0s7coNM8=
+
+Name: assets/res/DB/musicGoal.csv
+SHA1-Digest: wynm9+nCpaAbs/L9mrkL0lYnnr8=
+
+Name: assets/res/UI/UIHome/CardImage/16.png
+SHA1-Digest: 5JHqovrh/dl0DmwEoNYFP4QzgQU=
+
+Name: res/drawable-xhdpi-v4/duapps_ad_offer_wall_indeterminate_loading
+ .png
+SHA1-Digest: ToezzoUEQaRbj1JH791fKCN32/8=
+
+Name: res/drawable-hdpi-v4/mobvista_cm_backward_selected.png
+SHA1-Digest: 1aTH9L5oWyteqtVWL7dYFdnC5ws=
+
+Name: res/drawable-xhdpi-v4/com_cmplay_message_tag_lc_button_w.9.png
+SHA1-Digest: 6m1N42bNYa1rDRu837stjZhMhvU=
+
+Name: jsr305_annotations/Jsr305_annotations.gwt.xml
+SHA1-Digest: qleKQAEaDWtvjqExBwBTQxblfek=
+
+Name: assets/res/UI/UIParticle/xmas_particle_snow6.png
+SHA1-Digest: 9T9Im2uuGZvKkbAN2TUD+eYzCAA=
+
+Name: res/drawable-xhdpi-v4/brand_replay.png
+SHA1-Digest: Dz0Yv/+Ca8O+Ai46PuccQ/qG+cA=
+
+Name: assets/res/UI/UIResult/Node_vedio_unlock_suc.csb
+SHA1-Digest: oL9WYbBbZTrvukRCWReIFWhbyrA=
+
+Name: res/layout/messenger_button_send_blue_small.xml
+SHA1-Digest: f4ldjE/1qry+019RRsomfuxM1z8=
+
+Name: assets/res/UI/UIHome/card_vip_music.csb
+SHA1-Digest: gBnhNbze57ha009eqgogPPe8DwM=
+
+Name: res/drawable/credit_bg.xml
+SHA1-Digest: v6/1ArhUK6Ntum7gUmfUaH3rybo=
+
+Name: assets/res/UI/UIHome/card_more_to_expect.csb
+SHA1-Digest: q4tC//k9UrdYm8kJhDXvT/keS7c=
+
+Name: assets/res/UI/UIResult/UIShareLayer.csb
+SHA1-Digest: xRLYoccCCTinei6+iCKR/T1MSf4=
+
+Name: res/drawable-xhdpi-v4/christmas_close.png
+SHA1-Digest: sWFlIR1DQcg7/qVn+s/tlx4Jtr8=
+
+Name: assets/res/music/piano/G-2.mp3
+SHA1-Digest: Z/Xl1rE9lyhQJLRCUl+Ex/OaDN8=
+
+Name: assets/res/song/Beginner Challenge.json
+SHA1-Digest: FLPHCcfhxuR9JhHhauDPHqVwMec=
+
+Name: assets/res/music/bass/g1.mp3
+SHA1-Digest: tAfj9L/q4GOpdHLGGoCWYp9fNiI=
+
+Name: assets/res/UI/UIHome/card_fb_log.csb
+SHA1-Digest: OWuFHqCrxOnoYa5spoPDK2mMqXE=
+
+Name: res/drawable/com_facebook_auth_dialog_cancel_background.xml
+SHA1-Digest: /mH1qF0zJF+syyC78aQDAYtPPl8=
+
+Name: res/layout/dialog_show_gift_convert.xml
+SHA1-Digest: evvQinG5gvLfreKxQm7wtUYzR64=
+
+Name: assets/res/UI/UIHoliday/EasterCdPuzzle/xmas_puzzle1_r.png
+SHA1-Digest: Hho5BRtBQUM8SryiKc3uJaw5p20=
+
+Name: assets/res/UI/UIResult/hall_pass_content.csb
+SHA1-Digest: EHBawlHTHKg1hOG92D+9b+QNKfA=
+
+Name: assets/res/UI/UIBattleMaster/Node_bonus.csb
+SHA1-Digest: luOmE2AIY4EsNWcdTAI6bM5BhUo=
+
+Name: assets/res/UI/UIHome/Node_quest_puzzle_animation.csb
+SHA1-Digest: RX+VBi/T7KIJCDRig/vWTDLOf40=
+
+Name: assets/res/UI/UIHoliday/chest_special.png
+SHA1-Digest: oAK8jlkVnSo9s3O2X75rVEXIpTw=
+
+Name: assets/res/UI/UIAlbum/11/card_11.png
+SHA1-Digest: Ida11ycx2S6xnqyAlv4bYARJp/c=
+
+Name: res/drawable-xhdpi-v4/common_google_signin_btn_text_light_focuse
+ d.9.png
+SHA1-Digest: gIVYcK1h4R9UGRuC63MEPzO3nII=
+
+Name: assets/res/UI/UIAlbum/2/Node_card_special_2.csb
+SHA1-Digest: kj6wD33272Xa5ISA9qneF25pRmM=
+
+Name: res/layout/duapps_ad_offer_wall_layout2.xml
+SHA1-Digest: ug8278DPJOXIH64PWQX+rQyZFd4=
+
+Name: assets/res/UI/UIHoliday/aniSettingNode_xmas.csb
+SHA1-Digest: a47UoUNgtSamxyZHP4bMOMDjkZk=
+
+Name: assets/res/UI/UIBattleMaster/BattleInfo_Content_master.csb
+SHA1-Digest: sQdw+I+/ARro3meAT8d7b8H0kh0=
+
+Name: assets/res/UI/UIHome/bg_puzzle_reward.png
+SHA1-Digest: nuVx74PrKGNekG6VHrl4dlDYMtk=
+
+Name: res/drawable-xxhdpi-v4/common_plus_signin_btn_text_dark_normal.9
+ .png
+SHA1-Digest: 14wVmY91B9E8I9zTfuLye4BPBoQ=
+
+Name: assets/res/UI/UIResult/Node_result_button_fb.csb
+SHA1-Digest: NajkfJ/TBxoECEFl/mJWbs4wruo=
+
+Name: fabric/com.mopub.sdk.android.mopub.properties
+SHA1-Digest: j2nRKOsnlpWnMe8ltqTFCFsZpso=
+
+Name: res/drawable-xhdpi-v4/dialog_check.png
+SHA1-Digest: Mp/a2m9+aKAjAcv0jbcj4Ix7M1E=
+
+Name: assets/res/UI/UIResult/Node_puzzle_progressbar.csb
+SHA1-Digest: 3vA3GVSY1GxxCb5f0nbiwnkbNWE=
+
+Name: assets/res/UI/CDCollection/musk_cd_bg11.png
+SHA1-Digest: QSoseYodapSVTh4AdOdHrUYQuKY=
+
+Name: assets/res/UI/CDCollection/puzzle_cd_small_light.png
+SHA1-Digest: XJP0ukk227S/dWHxqb3m6ARJoTs=
+
+Name: assets/res/music/piano/#c4.mp3
+SHA1-Digest: DFqT7QUfVMT061hPo4qAbiB7++8=
+
+Name: res/drawable-xhdpi-v4/right_above_round.png
+SHA1-Digest: J/IMOP14C7JKSuRJLT7MppOtTxc=
+
+Name: assets/res/DB/life.csv
+SHA1-Digest: pBW/pdch8gCYYghZee9Aa3psUBw=
+
+Name: assets/res/UI/ActivityMap/UITower/buttongroup_again_halloween_su
+ c_finale.csb
+SHA1-Digest: F2uomNpDIPiZYWdFmxSKJvAeA0w=
+
+Name: res/layout/cm_picks_browser.xml
+SHA1-Digest: jd7sxWwiuQyb6glINIqpdgQX+hY=
+
+Name: assets/res/UI/CDCollection/collect_cd_1009.png
+SHA1-Digest: Cy3jKIb7plymf3UfJ7s6OAKZqYk=
+
+Name: assets/res/UI/UIHome/Item/Node_feedback.csb
+SHA1-Digest: MLxWu/OF7hLlMCT9wlnJV9OW5mY=
+
+Name: assets/res/music/bass2/#d1.mp3
+SHA1-Digest: XZ0N0ygfnIUHATGeCQVqL/uEHzE=
+
+Name: assets/res/UI/UIParticle/xmas_particle_stex.png
+SHA1-Digest: r3K5p/yZ5ltSn+cU2Xvf615aTWQ=
+
+Name: res/drawable-xhdpi-v4/messenger_bubble_small_white.png
+SHA1-Digest: wf9Rsz2a/BUuQR2Jeio0wje7e40=
+
+Name: assets/res/UI/UIHoliday/UIHallLayer_xmas.csb
+SHA1-Digest: Ww5GyRQvB+7FuDRWGyxgIlm+doo=
+
+Name: assets/res/UI/Xmas/icon_pay_package.png
+SHA1-Digest: Lvp5SD0YWnfQDD6iq1/t3Hwspto=
+
+Name: res/drawable-tvdpi-v4/common_plus_signin_btn_icon_light_disabled
+ .9.png
+SHA1-Digest: 4d4nhetJRBlL/dbIf16J2bmAKXQ=
+
+Name: assets/res/UI/UILevelUp/Futura condensed.ttf
+SHA1-Digest: HoDM+Tvsiq3GijoonB12hGRI6co=
+
+Name: assets/res/music/piano/#f2.mp3
+SHA1-Digest: NnCpbTbuL1IkeGFyWkhyjKae3qE=
+
+Name: assets/res/music/piano/a4.mp3
+SHA1-Digest: jjPCieWKvtrtQqF0hcRVXhJAkMA=
+
+Name: assets/res/UI/UIStore/dialog_unlock.csb
+SHA1-Digest: 4KfkKDrEkQXGnZ7Pn1rm2mEpof0=
+
+Name: res/drawable-xxhdpi-v4/pause.png
+SHA1-Digest: DdMihSMNRBc014VbwlkfpQGc7gg=
+
+Name: res/drawable-xhdpi-v4/gameproblem_bg_blue.9.png
+SHA1-Digest: 86JziXSfuLR+Ln1iYC5iZOuisXY=
+
+Name: assets/res/UI/UIHome/Node_getCD_animation.csb
+SHA1-Digest: jNZoQzF60nSfbVhh9CZtO4sSbcI=
+
+Name: res/drawable-mdpi-v4/com_facebook_profile_picture_blank_square.p
+ ng
+SHA1-Digest: TNhkltiU+9wUPiQ+wKiTnXqN5kA=
+
+Name: assets/res/UI/UIHome/bg_pay_package_buy.png
+SHA1-Digest: gIEO36HWDnDk4ckUDR0WGNIgG8g=
+
+Name: assets/res/UI/UIBgEffect/holiday/heart2.png
+SHA1-Digest: 01FVvoPCk2B+BCPrIbknNdU/R04=
+
+Name: res/drawable-xhdpi-v4/com_cmplay_btn_yellow.9.png
+SHA1-Digest: 9ABbW4Qu8m0sHkGI+LnGLd1g+aM=
+
+Name: assets/res/UI/UIPlist/Plist_leaderboard.plist
+SHA1-Digest: YJPe9I2US3NnXG2OtZ8xUIdnC+Y=
+
+Name: assets/res/UI/UIHome/Node_home_btn_free_timecount.csb
+SHA1-Digest: bIq7dm2ggedAlIQDluM3De8tAxQ=
+
+Name: res/drawable-nodpi-v4/item_bg_normal.9.png
+SHA1-Digest: 7QllATRSYlZegd1iG1kRV7ERzHM=
+
+Name: assets/res/UI/UIResult/Node_ani_chest_disc_spin.csb
+SHA1-Digest: gSerXykqlEguLHHwAOF7GlQczyQ=
+
+Name: res/drawable-xhdpi-v4/vast_watchagain_incentive.png
+SHA1-Digest: Fz5/md7WuhjA98B4x32HBdY5ff4=
+
+Name: assets/res/UI/UIResult/Node_new_best.csb
+SHA1-Digest: iMl10hsGaxng+i4RVqLYPrGPXxg=
+
+Name: assets/res/music/piano/a3.mp3
+SHA1-Digest: ezor+/CHroBE++xcg6hOW23w3MA=
+
+Name: assets/res/UI/UIHome/newEpoch/newEpoch_hq_nererror.csb
+SHA1-Digest: goc29BnyyHQPDVUkSUVnsmAVqXU=
+
+Name: assets/res/UI/UIParticle/snow_xmas.plist
+SHA1-Digest: Z8ynYvaRGK+Zic793//Rh/kVptc=
+
+Name: assets/res/UI/UIResult/Futura condensed.ttf
+SHA1-Digest: HoDM+Tvsiq3GijoonB12hGRI6co=
+
+Name: res/drawable/common_plus_signin_btn_text_light.xml
+SHA1-Digest: nKW6j+AUbcmAtPh+XiolZn0BZ70=
+
+Name: assets/res/UI/UIAlbum/3/card_bg_s_3.png
+SHA1-Digest: H6e90TfrRnKJhDW6VqjUH8AF7bM=
+
+Name: assets/res/UI/UIStore/Node_shelter.csb
+SHA1-Digest: Ff6YVK5UcC1YNq3XlUo8O7+lQno=
+
+Name: assets/res/UI/UIStore/dialog_shop_diamond_video_sf.csb
+SHA1-Digest: B5JBONc4CG59FZPNUu/hwdyw7cM=
+
+Name: assets/res/UI/UIPlist/Plist_bouns_puzzle.png
+SHA1-Digest: NnN6xetjNnugognqGin59KiK/Jc=
+
+Name: assets/res/music/piano/a.mp3
+SHA1-Digest: iLCOsryNlnnLXNtB/TSEM6eNDZU=
+
+Name: res/drawable-xhdpi-v4/vast_volume_on_incentive.png
+SHA1-Digest: lou/Smh8DXpxXgf3aNorXjZkjj8=
+
+Name: assets/res/UI/UIHome/Node_card_albun_sale.csb
+SHA1-Digest: idWxvbZ0lCJlzfyrAsKHcaMxF14=
+
+Name: assets/res/DB/language_music.csv
+SHA1-Digest: OxUApp7PR2rW4Phy8S1IbXp8VIE=
+
+Name: assets/res/UI/UIAlbum/26/card_26.png
+SHA1-Digest: 764ucbFqxDsocDGEuA/8d9PTuGo=
+
+Name: assets/res/music/drum/e1.mp3
+SHA1-Digest: i/yqY7aQzru6soTL0w8RLtRYYIE=
+
+Name: assets/res/UI/UIHome/Node_banner_quest.csb
+SHA1-Digest: /XLXYfETUaCDy8KzGHg+svdkXmY=
+
+Name: res/drawable-xhdpi-v4/redeem_btn_normal.9.png
+SHA1-Digest: niHKDJr5OphH5/3Nu3nTWP8O8vM=
+
+Name: assets/res/UI/UIHome/Item/Node_fb_logout_setting.csb
+SHA1-Digest: Nei27HPz1GcP3EOJ58BzS6fH1/I=
+
+Name: assets/res/music/bass2/g.mp3
+SHA1-Digest: sqmUC/0mf/keDuopGAgau4NsH6s=
+
+Name: assets/res/UI/UIHoliday/EasterCdPuzzle/rabbit_ears_l1.png
+SHA1-Digest: PoN4R6DMtOtvdqu4RAu2gx9O5f8=
+
+Name: assets/res/UI/UILevelUp/Node_levelup_dialog.csb
+SHA1-Digest: mrI6SXxFREYCTrxxk8UBcUCzUdQ=
+
+Name: assets/res/UI/UIHome/Node_rank_player.csb
+SHA1-Digest: JW8mqfSC8Uzf6z1wYMMZJssf4bM=
+
+Name: res/drawable-xhdpi-v4/banner_ad_close.png
+SHA1-Digest: 8np9C0qVs3BwHkam6pHL5cbeQ+8=
+
+Name: assets/res/UI/UIAlbum/30/card_30.png
+SHA1-Digest: Z9v+qCFOn9Bl12KiIyIRMSbeRlg=
+
+Name: assets/res/gameImage/slide_light.png
+SHA1-Digest: UYywuG6JY+kpBiGN1uLp2CK+yvI=
+
+Name: assets/res/UI/UIHome/dialog_rank_invite.csb
+SHA1-Digest: hoF8Lmsj9UpaZsVOEd9bI8TGiw4=
+
+Name: lib/armeabi-v7a/libcom_cmplay_base_util_gif.so
+SHA1-Digest: /qw3s3Lm7DkkSdqodUiISdyWYlo=
+
+Name: res/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_normal
+ .9.png
+SHA1-Digest: QLaJ/RR4JVfoHBH6pJAPN0/FEdE=
+
+Name: assets/res/gameImage/slideTileBase.fsh
+SHA1-Digest: wnB4ztqrZ0pQlNGoPMq4edtIUFE=
+
+Name: assets/res/UI/CDCollection/musk_cd_bg12.png
+SHA1-Digest: VXLrWR+nAggsdNYHNFs4bYE7jqU=
+
+Name: assets/res/UI/UIBattleMaster/Battlt_Content_social.csb
+SHA1-Digest: MD8hOcBUT8pXvfgO1EFzogAuasA=
+
+Name: res/drawable-xxhdpi-v4/common_plus_signin_btn_icon_dark_focused.
+ 9.png
+SHA1-Digest: j7yZZ/F8sa0O1mSNZOn3/+sY6/w=
+
+Name: assets/res/UI/UIPlist/Plist_xmas_snow.plist
+SHA1-Digest: kQn5QOzqYSTRJFhwHpijUsiGX0c=
+
+Name: assets/res/UI/UIResult/top_menu.csb
+SHA1-Digest: 31q2mnwPoxHnBAD1ZIDxBx+bJaI=
+
+Name: assets/res/DB/level.csv
+SHA1-Digest: ImILxwVleR4FAyWT1Wd+15Yq5t4=
+
+Name: assets/res/Audio/NewBest.mp3
+SHA1-Digest: A3jH6PvPWB4lq7rJejQKWf4+eww=
+
+Name: assets/res/UI/UIHome/CardImage/15.png
+SHA1-Digest: JovyKhBvKOCcbVehINx2ISkzygs=
+
+Name: assets/res/music/bass/e.mp3
+SHA1-Digest: 0xksPr8shwB08PmpPQr0eK4f/y8=
+
+Name: assets/res/UI/CDCollection/collect_cd_1012.png
+SHA1-Digest: npk3A3npljwdKBnL4FBQpbyDuKw=
+
+Name: assets/res/UI/UIAlbum/7/card_07.png
+SHA1-Digest: ARZvpJZd/iMX1+c2vUXIbcvEyOA=
+
+Name: assets/res/UI/UIStore/head_shop_diamond_sf.png
+SHA1-Digest: geVhP9LkySJx7vA8T/BxymlqwZg=
+
+Name: assets/res/UI/UIOpenning/opening_cd2.png
+SHA1-Digest: PmN+3rtjsWYKoIUSLLTnGY5rtmQ=
+
+Name: assets/res/UI/UIHome/aniClassNode_xmas.csb
+SHA1-Digest: CcxP4X+MHvpq8eHyJRZVYjDSFlw=
+
+Name: res/drawable-xhdpi-v4/banner_ad_btn_bg.png
+SHA1-Digest: cQCxqDNhQtCSHY572MfIZZj3CNA=
+
+Name: res/drawable-xhdpi-v4/gamebox_problem_btn_green_press.9.png
+SHA1-Digest: Fxi4PgSFJdLCUKYdvcA3EEiKaPY=
+
+Name: assets/res/DB/music_json.csv
+SHA1-Digest: /Z6wlXSrNbpl3FF4xjsA/beDdr0=
+
+Name: assets/res/UI/Shader/anni2BG.fsh
+SHA1-Digest: vKjZTFTy3gsIcWX6lUDqMCLwll4=
+
+Name: assets/res/UI/ActivityMap/UITower/particle_levelupred_r.plist
+SHA1-Digest: UDu7dB5SDiNRiJF5NklqpoS2H7c=
+
+Name: res/drawable-xhdpi-v4/common_plus_signin_btn_icon_light_focused.
+ 9.png
+SHA1-Digest: gDfO2BJhINbCrtqH7ecNWVqSB5Y=
+
+Name: assets/res/UI/UIPlist/pic_cicle.png
+SHA1-Digest: 5KnnQDaTmq9TwAszecKA/Im3d3E=
+
+Name: res/drawable-xhdpi-v4/message_tag_loading_circle_big.png
+SHA1-Digest: oJN45qybrvRrZLe6i4UUnSwwsF4=
+
+Name: res/drawable-xhdpi-v4/light.png
+SHA1-Digest: s+2WcLa1ioNdLFvu1raeJB2SLwc=
+
+Name: res/drawable-xhdpi-v4/load_more_arrow_icon.png
+SHA1-Digest: bF3CsSG5zOn/rPHoMLi83iSvPiU=
+
+Name: assets/res/UI/UIHome/Node_leaderboard_updata_low.csb
+SHA1-Digest: NPN240mxtLhWAohrFv2/UTiWt+U=
+
+Name: res/drawable-tvdpi-v4/common_google_signin_btn_text_dark_focused
+ .9.png
+SHA1-Digest: CV8Ik+WFQXcc1niyHIXxYl8tisY=
+
+Name: assets/res/UI/UIHome/Item/Node_sound.csb
+SHA1-Digest: HPI9rvhy2DbB9PA9awayILQMUqw=
+
+Name: assets/res/song/Élan.json
+SHA1-Digest: 3DiTN/288vPgSm+FDipMdZnndmU=
+
+Name: assets/res/UI/UIAlbum/6/Node_card_special_6.csb
+SHA1-Digest: ZaWtsjgiBLxlTaEd3Nk6L/il/Cc=
+
+Name: res/layout/com_facebook_device_auth_dialog_fragment.xml
+SHA1-Digest: Ky+GpQLpvR1s4A/8UOCQih9URwA=
+
+Name: assets/res/UI/UIHome/newEpoch/newEpoch_hq_summoning.csb
+SHA1-Digest: bc3z8lTNjwChRQgJG6enL75pvfE=
+
+Name: assets/res/UI/Xmas/bg_tree_xmas_share.jpg
+SHA1-Digest: 3tBrfhH51nCL5F1GcBk7S14rdL0=
+
+Name: res/drawable-xhdpi-v4/share_icon_twitter_pressed.png
+SHA1-Digest: IL9ECn2voc2dXveDw75uxl+YSfE=
+
+Name: assets/res/music/bass2/#g.mp3
+SHA1-Digest: gByR+em7O0Vyh8Y+u696bJ2Hudk=
+
+Name: res/drawable/cancel_btn_bg.xml
+SHA1-Digest: 1Si6F/n7JvW+r4+KFJC0FwURFQg=
+
+Name: res/drawable-xhdpi-v4/gameproblem_icon_speed.png
+SHA1-Digest: fYqvEDXZxrY1/P8+FBcnfAZ5tzk=
+
+Name: res/drawable/btn_gameproblem_cancle.xml
+SHA1-Digest: AtVRc0Q7vsd5Ji0LDGgVANjQ5Xw=
+
+Name: assets/res/music/piano/d1.mp3
+SHA1-Digest: hicmLZaR6367K7s96OxuKelKQjE=
+
+Name: res/drawable-hdpi-v4/common_google_signin_btn_text_light_disable
+ d.9.png
+SHA1-Digest: MELhZ5xGLo3hOMEE/RoSVTp7GOM=
+
+Name: assets/res/music/bass2/d1.mp3
+SHA1-Digest: Z//+Nt0GOzFuZVCRRfcjP5wC924=
+
+Name: assets/res/UI/UIAlbum/19/Node_card_special_19.csb
+SHA1-Digest: glpeezLWZH26z4JTiHHxuklVAiQ=
+
+Name: assets/res/UI/UIStore/imag_maxlevel_fla.png
+SHA1-Digest: geSBHRYyRzUalKFg0V4ATFuPSmk=
+
+Name: res/drawable-hdpi-v4/common_google_signin_btn_icon_light_normal.
+ 9.png
+SHA1-Digest: W68ThGWwLWd1YHH+LNQcVzBLES0=
+
+Name: res/drawable-tvdpi-v4/common_plus_signin_btn_text_dark_disabled.
+ 9.png
+SHA1-Digest: Na25VCdVW0mBCJFiK9l0T8K9Kok=
+
+Name: assets/res/UI/UITransition/Layer_share_rank.csb
+SHA1-Digest: PzvPKxoqO9IHBQXiFxgR1XJfwqw=
+
+Name: assets/res/UI/UIHome/Node_thankss.csb
+SHA1-Digest: E23RMOemW5ssNUAC325GDGHFyJs=
+
+Name: assets/res/UI/UIStore/dialog_shop_energy_invitefriends.csb
+SHA1-Digest: SYsSVsIL7z52pMcZ5Mstzhkppcs=
+
+Name: res/drawable/cm_interstital_body_bg.xml
+SHA1-Digest: h6UiGyObT5xRMbeXB55nEb6IHjw=
+
+Name: res/drawable-xhdpi-v4/com_cmplay_message_tag_success.png
+SHA1-Digest: ALWVLX9D+CrQIHTvnRxJ9K3u2ko=
+
+Name: assets/res/UI/UIHome/puzzle_line_2.png
+SHA1-Digest: daCrgI3CFdBcPlvf0n8tHR1PlRE=
+
+Name: res/drawable-xhdpi-v4/left_round.png
+SHA1-Digest: JtEVm0mc2MQdZIx60Wj7FoUdFeI=
+
+Name: assets/res/music/bass/g.mp3
+SHA1-Digest: ZXTEJlS09/mlPYPMLzC4tNSbqDU=
+
+Name: assets/res/UI/UIAlbum/25/card_25.png
+SHA1-Digest: b+wJLKuj4QRJg9YuMc3RMCDJqcM=
+
+Name: res/drawable-xhdpi-v4/browser_unleft_arrow.png
+SHA1-Digest: XwyrANj16p7joaQIhhgRU4yEk1k=
+
+Name: res/layout/com_facebook_login_fragment.xml
+SHA1-Digest: 0N/334mRaXJjHS/0krlceRH96qk=
+
+Name: assets/res/UI/UIOpenning/opening_cd3.png
+SHA1-Digest: rgu8Ai1jkAvW5Jl/tphCK6Y26HQ=
+
+Name: res/drawable/btn_open_wechat_bg.xml
+SHA1-Digest: ZWSfKgbUvKeWEybxjgMAgM8IpWY=
+
+Name: AndroidManifest.xml
+SHA1-Digest: d/JJa3UaY3JPcUvItIQRAHYnc7U=
+
+Name: res/drawable-hdpi-v4/common_google_signin_btn_text_dark_focused.
+ 9.png
+SHA1-Digest: XwOTmsZb60c94bqfKQQU9nykmZY=
+
+Name: assets/res/UI/UIHome/newEpoch/newEpoch_hq_summon.csb
+SHA1-Digest: u9URXbWEZD8pFwcSQjeqnXCYObI=
+
+Name: assets/res/UI/UIPlist/Plist_package.plist
+SHA1-Digest: ADxm57zhoziFV0O7VoDu7n1Z8Mw=
+
+Name: assets/res/UI/CDCollection/Layer_puzzle_cd_share.csb
+SHA1-Digest: aoOhRCk14yiUhpY75SCt4j2of9M=
+
+Name: assets/res/UI/UIHoliday/Node_cd_puzzle_enter_tips_xmas.csb
+SHA1-Digest: 1bXbHOEBUsPOyfp9B973Kr1axho=
+
+Name: res/layout/brand_vc_skip.xml
+SHA1-Digest: yFlL7Icu5hmLYKVRMQnAij9Reb4=
+
+Name: assets/res/UI/UIBgEffect/base/tile_3_7.png
+SHA1-Digest: //jV1NNdJW7KViZpV5+QYzhKMNY=
+
+Name: res/layout/brand_vc_video.xml
+SHA1-Digest: WbGKg2lRiSc21EV1qKjd5X+s0/M=
+
+Name: res/drawable-xhdpi-v4/love_share_cd_shadow_2.png
+SHA1-Digest: mGnjUSrPhGbWZt3s5HHgvosuHDg=
+
+Name: assets/res/UI/UIHoliday/EasterCdPuzzle/xmas_puzzle4.png
+SHA1-Digest: AQeTKTK2KT0h2dQqMMfK2uS2RA4=
+
+Name: assets/res/UI/UIStore/card_vip_result.csb
+SHA1-Digest: tq+u6A+4WvUl8gLkeDAW+V2zCwk=
+
+Name: assets/res/UI/Xmas/Node_tree_xmas_star_3.csb
+SHA1-Digest: wQ7eZLOmgPfIcsAOKtuaxANJLmk=
+
+Name: assets/res/song/Endless Love.json
+SHA1-Digest: +aR3RNXj7j+VHg+EwL1UPwnxp18=
+
+Name: res/drawable-xhdpi-v4/common_google_signin_btn_text_light_presse
+ d.9.png
+SHA1-Digest: Fj65pApS3DHAIYkMNsn4lY2X67A=
+
+Name: assets/res/UI/UIBattleMaster/Node_lifenumber.csb
+SHA1-Digest: 9gofoSANvJnfWXhi7Qd4DGbd0pQ=
+
+Name: assets/res/UI/UIHoliday/aniHomeNode_xmas.csb
+SHA1-Digest: HsLm4QdDVkzsQhgIzI5nFy7SQHk=
+
+Name: assets/res/UI/UIHome/CardImage/8.png
+SHA1-Digest: WlPI3Fq/VvOk7r+3aSYClRFnxiM=
+
+Name: assets/res/DB/Album.csv
+SHA1-Digest: 0ZaMDASb7PzJwnbGFlT7lgV61OI=
+
+Name: assets/res/UI/UIHome/recommend_song_cd.png
+SHA1-Digest: kQARAvNYn3ahMzeshzG8bcQSXbM=
+
+Name: assets/res/UI/CDCollection/dialog_collect_cd.csb
+SHA1-Digest: 6fTIquI3ezepQKfnOrfdXPJvruc=
+
+Name: assets/res/UI/UIAlbum/6/card_06.png
+SHA1-Digest: AMgZXoRts96LHcSs2AdQPbKlW3g=
+
+Name: res/drawable-xhdpi-v4/icon_call_dialog_cancel_pressed.png
+SHA1-Digest: rQhpYs/IU6GEjcXgnTUr4qPUU2M=
+
+Name: res/drawable-mdpi-v4/common_full_open_on_phone.png
+SHA1-Digest: 16mre6RghYBuRK18f34ExFr9UGg=
+
+Name: assets/res/music/piano/A-1.mp3
+SHA1-Digest: QGVNasK82MRuh6o2/7mkNVg9fQM=
+
+Name: assets/res/UI/UIHome/dialog_collect_cd.csb
+SHA1-Digest: 6fTIquI3ezepQKfnOrfdXPJvruc=
+
+Name: res/drawable-xhdpi-v4/love_bg_2.png
+SHA1-Digest: 2KsB6Js2fH468lh6CEYQtbBIJnE=
+
+Name: assets/res/UI/UIHome/card_notice.csb
+SHA1-Digest: xcZk/GSRqdoNnwLOrEomxV0/a/I=
+
+Name: res/drawable-xhdpi-v4/star_empty.png
+SHA1-Digest: ZFGdxp1O+2fDAJ1nZgammyeJw/8=
+
+Name: assets/res/UI/Xmas/Plist_tree_xmas.png
+SHA1-Digest: 3MWaosClwdqoYoccGaackGiYWMU=
+
+Name: assets/res/UI/UIHome/Node_radio.csb
+SHA1-Digest: +lcB0PsMUcmM81JonmLwhQGbZR8=
+
+Name: assets/res/gameImage/example_Blur.fsh
+SHA1-Digest: gLgeVTTrAw1wFLss20PZuJLwgzg=
+
+Name: assets/res/UI/UIHome/CardImage/2.png
+SHA1-Digest: E5iv/u0KrpmGKRrT2gqjwYl6rPw=
+
+Name: assets/res/UI/UIHome/Node_rank_medal_light.csb
+SHA1-Digest: ToDd2OixiZ4AK2VKHeUThwI8pE0=
+
+Name: assets/res/UI/UIAlbum/8/card_bg_s_8.png
+SHA1-Digest: o2XaudbFVCgoI12U+l7Zj1X8ms0=
+
+Name: res/drawable-xhdpi-v4/diamond.png
+SHA1-Digest: UyYyi3Ap6Y3XPIMiN4ArIGISk4I=
+
+Name: assets/res/UI/UIHoliday/easteregg/Node_ani_easteregg_lifenumber.
+ csb
+SHA1-Digest: f96cWymaRaIrQQflSjVyenCAysQ=
+
+Name: assets/res/UI/UIHoliday/EasterCdPuzzle/xmas_puzzle3_r.png
+SHA1-Digest: S/JOPDe2BIYxu/WKJk7BRso2wV4=
+
+Name: assets/res/UI/UIHoliday/buttongroup_again_new_xmas.csb
+SHA1-Digest: sPDdF43fTifwvqGpM5bGAb3OF0g=
+
+Name: res/drawable-xxhdpi-v4/ad_tag.png
+SHA1-Digest: kq23od5vsaGcn//tgZbSzwvBmoY=
+
+Name: assets/res/DB/towerActivity.csv
+SHA1-Digest: Mv27Ma/e4y2VuOrTX59j8tqzpiM=
+
+Name: assets/res/UI/ActivityMap/bg_map.jpg
+SHA1-Digest: A5MFwTaPKZRUnuUACHmMtR/Gkvw=
+
+Name: res/drawable-xxhdpi-v4/common_plus_signin_btn_text_dark_disabled
+ .9.png
+SHA1-Digest: TtmWXD986AoFdKhBNk0FmSmNm/M=
+
+Name: assets/res/UI/UIHome/bg_top_sale.png
+SHA1-Digest: zzacYz8Nie7dsqeyfIzSmRiFsRU=
+
+Name: res/drawable-mdpi-v4/common_plus_signin_btn_icon_light_disabled.
+ 9.png
+SHA1-Digest: 3naMCHOP+RpRdxe44anyWz+40jg=
+
+Name: res/drawable-xhdpi-v4/message_tag_bule_loading.png
+SHA1-Digest: p4AmsHnnln8sZ58+Y3YT5PHJEbw=
+
+Name: assets/res/UI/UIAlbum/5/card_05.png
+SHA1-Digest: OXHMCGUrvmHyUDVEX6Mk73Am+Es=
+
+Name: assets/res/UI/UIOpenning/bg_small.jpg
+SHA1-Digest: pT3utz6Z+pFTLacYR9t9RwHDbCQ=
+
+Name: res/drawable/banner_ad_bg_selector.xml
+SHA1-Digest: XjeZxYrx5HheQmmxkq+D7Wgg/j8=
+
+Name: assets/res/UI/UIHome/Item_rank_total_card_no1.csb
+SHA1-Digest: eGsx4YHS9Q5KtWbUASqvvKy+6Bs=
+
+Name: res/drawable/cm_btn_calltoaction_bg.xml
+SHA1-Digest: 3XqXzmI/uRLWBzhtv6X1caHywpg=
+
+Name: assets/res/UI/UIHome/Node_letter_cd.csb
+SHA1-Digest: PcFjBczVojBLrUS5hpdhcD5KNr8=
+
+Name: res/drawable-mdpi-v4/common_plus_signin_btn_text_dark_normal.9.p
+ ng
+SHA1-Digest: b/MBtkVraSlGuf6/a1BEQPcASVc=
+
+Name: assets/res/UI/UIHome/ani_diamond_continue.csb
+SHA1-Digest: DbsZOaCqH0p8Y08ibrl34/4W8Eg=
+
+Name: assets/res/UI/CDCollection/musk_cd_bg02.png
+SHA1-Digest: WJgBijgtEAymqc6k+MkjCM5+tsk=
+
+Name: assets/res/UI/UIHoliday/EasterCdPuzzle/rabbit_ears_l2.png
+SHA1-Digest: xm59vJjtF323sQ/hmO6+Lm+/6xQ=
+
+Name: assets/res/gameImage/img_baolie.png
+SHA1-Digest: NrY7bdD41gm2QslT6/mLQNh0yX8=
+
+Name: res/drawable-xhdpi-v4/resommend_song_notification_bg_en.jpg
+SHA1-Digest: UMwRoFe/DLBqGefJZllkcZyQ50s=
+
+Name: res/color/com_facebook_send_button_text_color.xml
+SHA1-Digest: XC0gkTN4IRpCs8fj/syzg7Z5FKQ=
+
+Name: assets/res/UI/UIHome/dialog_relogin.csb
+SHA1-Digest: 448g992UrZI40eI6guU90rRP9yA=
+
+Name: res/drawable-xhdpi-v4/resommend_song_notification_bg_ru.jpg
+SHA1-Digest: BNNbQoNr6h+KeQEO43XPrd1ueFg=
+
+Name: res/drawable/retry_btn_bg.xml
+SHA1-Digest: 5kImmzBXegEibHyJYOuRHag8hME=
+
+Name: assets/res/UI/UIPlist/Battle_Result/Battle_Result.png
+SHA1-Digest: onCPvM14n7gLpZYqazNu+X7r8GU=
+
+Name: assets/res/UI/UIHome/Item/Node_facebook.csb
+SHA1-Digest: /dJ/T1kfNzce3U/8Fu5QeIqn6yQ=
+
+Name: res/layout/gameexit_popup_layout.xml
+SHA1-Digest: 2sAyl6eDeKXuVb3ltKHlAqxHvlk=
+
+Name: assets/res/UI/CDCollection/collect_cd_1014.png
+SHA1-Digest: HKLuGC+2GgQ+SnUjOp87selccJQ=
+
+Name: res/layout-v16/com_facebook_device_auth_dialog_fragment.xml
+SHA1-Digest: QDQf/peqontoPXftiGgQhPJUsMQ=
+
+Name: assets/res/UI/UIResult/buttongroup_again.csb
+SHA1-Digest: ceFi/moTJNnpX8ZXBhlekL71SCc=
+
+Name: res/drawable-hdpi-v4/app_logo.png
+SHA1-Digest: xj1UGttJp4HAskYapBz+OJJshx0=
+
+Name: assets/res/UI/UIOpenning/Node_littlestar.csb
+SHA1-Digest: 7e4+iD6QO6Bh5Y3dZwq6A5SC68Y=
+
+Name: assets/res/Audio/short.mp3
+SHA1-Digest: lCi9amwD9jo+KHrm0xiLI2NCEbM=
+
+Name: assets/res/UI/UIHoliday/aniMusicNode_xmas.csb
+SHA1-Digest: eurwh7IAUFHfdrwDU4CAJ/cGCC0=
+
+Name: res/anim/push_bottom_out.xml
+SHA1-Digest: jFU5yhl73Pk7U9xF1IJYbIjn2GI=
+
+Name: assets/res/UI/UIPlist/particle_unlock_yellow.plist
+SHA1-Digest: 3c+7+ig8F7twW4Mu8zamje0plD8=
+
+Name: assets/res/UI/UIAlbum/24/card_bg_s_24.png
+SHA1-Digest: qJyDRLfUbsqWCeE0AGdATgo7E0c=
+
+Name: assets/res/UI/UIHome/card_feedback.csb
+SHA1-Digest: p65T2B/PpM+dCHeuANYgdEt4jPk=
+
+Name: res/drawable/messenger_button_blue_bg_round.xml
+SHA1-Digest: isL18swaAwcDJf5Z+bt1bevQyyQ=
+
+Name: res/drawable-xhdpi-v4/share_icon_more_pressed.png
+SHA1-Digest: yVn2KAtH7TXVhv8IlmBwww77wWw=
+
+Name: assets/res/UI/UIAlbum/17/card_bg_s_17.png
+SHA1-Digest: szoEWUiTWCUyvUbfUMeOFUQgmwc=
+
+Name: assets/res/music/piano/b1.mp3
+SHA1-Digest: NkaqquEhhfBTxEkN6BrDwdynQ3w=
+
+Name: assets/res/UI/ActivityMap/UITower/Node_xmas_challenge_box_open.c
+ sb
+SHA1-Digest: gYQZt+ok8UeQLx8fcWJ0W/CZTNE=
+
+Name: assets/res/UI/UIPlist/particle_levelupblue_r.plist
+SHA1-Digest: dC4pduFiupoXLLGSV9z1x5ANmwE=
+
+Name: assets/res/UI/UIHoliday/EasterCdPuzzle/xmas_puzzle2_r.png
+SHA1-Digest: A5MtvjLwAmRsBYYKfmdpQ9Ejnz8=
+
+Name: assets/res/UI/Xmas/Node_tree_xmas_progressbar.csb
+SHA1-Digest: GCWUi32uwNnVHfBovbgLbYMEY1U=
+
+Name: res/drawable-hdpi-v4/common_google_signin_btn_text_light_pressed
+ .9.png
+SHA1-Digest: l4hOf2PQjAma4dDfgcEDCthD1Ng=
+
+Name: assets/res/kinfoc/kctrl.dat
+SHA1-Digest: SRN5gvnWsWRTlMYxzDgRWqf8Zfg=
+
+Name: assets/res/UI/UIStore/dialog_failtopay.csb
+SHA1-Digest: jhlHwP17tc6L1XJ9tCu/vJLIZXE=
+
+Name: assets/res/UI/UIOpenning/bg_brithday2_cicle.png
+SHA1-Digest: RC8mQQqlmBHB3Ug+0xr4eLgV/Hk=
+
+Name: assets/res/UI/UIAlbum/4/card_04.png
+SHA1-Digest: DDzXBzky0X2cKU4NrMMqza9auRE=
+
+Name: res/drawable-tvdpi-v4/common_plus_signin_btn_icon_dark_normal.9.
+ png
+SHA1-Digest: hC9eYfkTxFG5E7FNn9FYJyIbjtY=
+
+Name: res/layout/brand_sponsored_seconds.xml
+SHA1-Digest: RaNyUBhzZcRmB1P7ziEK9OaVG64=
+
+Name: assets/res/UI/ActivityMap/UITower/particle_levelupyellow_l.png
+SHA1-Digest: VcE53aRD9szh4wTL/XD8vk76Ci0=
+
+Name: assets/res/Animation/dot_light.png
+SHA1-Digest: XslhO9mcwPNyn/NHBv1JnczXak4=
+
+Name: assets/res/UI/UIHome/bg_recommend_song.png
+SHA1-Digest: L40J8uoeFBRBLgD1g/uk37PNG0c=
+
+Name: assets/res/gameImage/baolie_particle.plist
+SHA1-Digest: 875a0jZ7Qw0d69fI6nkBnvzt4YE=
+
+Name: assets/res/UI/UIOpenning/opening_cd8.png
+SHA1-Digest: yzDLM2Qu/FHRMKpuSX8avTcS2T8=
+
+Name: assets/res/UI/Xmas/Plist_tree_gift.plist
+SHA1-Digest: WED3izRAFBQHLLAKMEIkB+D40tQ=
+
+Name: assets/res/music/piano/F-2.mp3
+SHA1-Digest: LDS34jfN7e/uzLA+wSWR4MVmRRI=
+
+Name: assets/res/UI/UIOpenning/musician9.png
+SHA1-Digest: qvJ+O6D4gSmB46DDlvMS9ymM6i4=
+
+Name: assets/res/UI/UIBattleMaster/BattleLayer.csb
+SHA1-Digest: 5bzjAYpOpda9geNh60oZaHhaSLE=
+
+Name: res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_focus
+ ed.9.png
+SHA1-Digest: 5B+Nn5gt0tRZ9rQvfzCq5yVfRmI=
+
+Name: assets/res/UI/UIPlist/Plist_content.plist
+SHA1-Digest: nOvodQM8VHVIdQBVSO8fT2fECrw=
+
+Name: res/drawable-xhdpi-v4/common_plus_signin_btn_icon_dark_disabled.
+ 9.png
+SHA1-Digest: 5ULio28PxdZWy3qe1zggId/KHoU=
+
+Name: assets/res/UI/Xmas/Node_tree_xmas_selection.csb
+SHA1-Digest: 7YIJbMOPe8OjgJK6cIgvui3fuko=
+
+Name: assets/res/music/bass2/#A-1.mp3
+SHA1-Digest: Mk6EuF7TeVp0a3qwq4dOn8IVoz0=
+
+Name: res/drawable/btn_gameproblem_tryit.xml
+SHA1-Digest: hIQeRHMHaRY8k7y9xkXF/Yrq98Y=
+
+Name: assets/res/UI/UIHome/card_test_feedback.csb
+SHA1-Digest: 4jiZRHr26F5Lfi8ZoJ6S9eNH2iY=
+
+Name: assets/res/UI/UIHoliday/puzzle_box.png
+SHA1-Digest: p7Vxu4ShmFwhLLjnA8u+jOabzCo=
+
+Name: assets/res/DB/CdFragmentDrop.csv
+SHA1-Digest: 0ULlnTgyPRdM5zS7cxNEZP0hryQ=
+
+Name: assets/res/UI/UIPlist/Plist_leaderboard.png
+SHA1-Digest: wdwLnO13VJf5+/2F2fDDJ4Gi/hU=
+
+Name: assets/res/UI/UIParticle/new9.plist
+SHA1-Digest: Bqlx0Z9oEFHF5guGC3X3ejjjbyo=
+
+Name: res/drawable-hdpi-v4/mobvista_cm_forward_disabled.png
+SHA1-Digest: 2tF+TnKt6yWLOxWnqh71eBhjj8Y=
+
+Name: assets/res/song/Haloween Party.json
+SHA1-Digest: L63T/5/Qz58BOoKhttwhC3gC5Qs=
+
+Name: assets/res/UI/UIHoliday/Node_result_button_xmas.csb
+SHA1-Digest: w5h8Pcidsxf/TI7XLYEnnx4JyyY=
+
+Name: assets/res/music/piano/E-1.mp3
+SHA1-Digest: hue+acRd8Liygx61Ykz/lVLL1Ug=
+
+Name: assets/res/music/piano/c4.mp3
+SHA1-Digest: xeLkGJX0ntsGV7KH5BZ3yH1tyD4=
+
+Name: assets/res/music/bass2/c.mp3
+SHA1-Digest: f3wNHHi2+Orhgb0jHAgKPV08pgk=
+
+Name: res/drawable-xhdpi-v4/love_share_cd_shadow_3.png
+SHA1-Digest: ML2ZdIeyzuU77/KxFWUj6qGmawg=
+
+Name: res/drawable-xhdpi-v4/christmas_button_2.png
+SHA1-Digest: vFhP6ybaVqelW6/Ni4Oj+/C4Gfw=
+
+Name: assets/res/UI/UIOpenning/songName1.png
+SHA1-Digest: MfMyG0K9hwIenJ/fdkdjiSs45gc=
+
+Name: assets/res/UI/UIAlbum/22/Node_card_special_22.csb
+SHA1-Digest: 29KUiPpsKzeLlDActJBohuXbu6A=
+
+Name: res/layout/activity_image_crop.xml
+SHA1-Digest: OdjO0pyWddIvLo/tkOmOL+q3FoE=
+
+Name: res/drawable-xxhdpi-v4/play.png
+SHA1-Digest: pPbabvfXRQXRIf6DEb8bX9ptt1Y=
+
+Name: assets/res/UI/UIAlbum/3/card_03.png
+SHA1-Digest: P9KQX73xXTj1JU9qCr6sB5njHWg=
+
+Name: assets/res/UI/UIStore/dialog_fail_vip.csb
+SHA1-Digest: 5JtaNCSO2hwloZ84uDL8MIRVAQ8=
+
+Name: assets/res/UI/ActivityMap/UITower/normal_pass_content_new_xmas_c
+ hallenge.csb
+SHA1-Digest: vXYLdu2C9199uF2zBl1whsDRstQ=
+
+Name: assets/res/Audio/Diamond.mp3
+SHA1-Digest: IX4Ge3L1GZA59e4iSb/8ZWaHlEY=
+
+Name: res/drawable-xhdpi-v4/message_tag_close_button.png
+SHA1-Digest: kXhIdmgyIZk/UnGcoEE+/kEodfw=
+
+Name: assets/res/UI/UIHome/card_invite.csb
+SHA1-Digest: UWxzM3h7WXZxRGrOsZ6t5ydzEgY=
+
+Name: res/drawable-hdpi-v4/mobvista_cm_refresh_nor.png
+SHA1-Digest: UkBhlmT7ho+2pXihbwiKI8JBfuk=
+
+Name: res/layout/duapps_ad_offer_wall_load_more_footer.xml
+SHA1-Digest: 9+GZEPh/YK0rfahGkuo9dAZzG9k=
+
+Name: assets/res/UI/UIHome/CardImage/10.png
+SHA1-Digest: tArAUQXNUugTS0/OMPEiKr+p/KQ=
+
+Name: assets/res/UI/UIResult/Node_players.csb
+SHA1-Digest: Fjxby5I81HHvkwxQ9qcB4fme0jw=
+
+Name: assets/res/UI/UIOpenning/Layer_loading.csb
+SHA1-Digest: k3rwIRwVc4uI5O5RnCTVvGLMPsg=
+
+Name: assets/res/UI/UIPlist/Plist_content_new.png
+SHA1-Digest: JIFdk1h/OqxxX1qJmQqE263/bLM=
+
+Name: res/drawable-hdpi-v4/mobvista_cm_end_animation.png
+SHA1-Digest: NsiG5zw/BgTP11CE1As4gYp/Yao=
+
+Name: assets/res/UI/UIHoliday/UIMusicLayer_xmas.csb
+SHA1-Digest: 3MV35WxKxYIW1svUfobDrVz8ATE=
+
+Name: assets/res/UI/UIHome/Node_hall_btn.csb
+SHA1-Digest: 8fCVilpMVs5MVojLXFjIQgh6QLM=
+
+Name: assets/res/music/piano/B-3.mp3
+SHA1-Digest: MT2fBAz57Ic6xFymJIal6O5qaFs=
+
+Name: assets/res/UI/UIHome/Node_Slider.csb
+SHA1-Digest: 4iDg+P2I8KSgH/P5Zs/jsWJHIuQ=
+
+Name: assets/res/UI/UIHoliday/EasterCdPuzzle/rabbit_ears_r1.png
+SHA1-Digest: 5nm0ScMTtfiqW6pTWHHQU/a5NJc=
+
+Name: assets/res/UI/UIResult/Node_rank_number.csb
+SHA1-Digest: 92uPgN70tBARf/z/yEoCRzmFOxA=
+
+Name: assets/res/music/piano/#f1.mp3
+SHA1-Digest: ieCq9xbaduv+GkMArsXJR8kv95g=
+
+Name: assets/res/UI/UIBattleMaster/star.csb
+SHA1-Digest: bhdg9hjUX+TRhPfEa/So8F4oA84=
+
+Name: res/layout/com_cmplay_tag_ad_loading_view.xml
+SHA1-Digest: PeSNncwGvdLfL2W7Xq+8oncZS1E=
+
+Name: assets/res/UI/UIOpenning/opening_cd1.png
+SHA1-Digest: 7n9U5eCp3mFGo4WScAq0DMH2AC8=
+
+Name: assets/res/UI/CDCollection/Node_card_unlock_pay_tips.csb
+SHA1-Digest: NeYYReFjgvYZgKjnOJn09Igez48=
+
+Name: assets/res/music/drum/B-2.mp3
+SHA1-Digest: RcfN0X5ISSYqRpqMVDUO76JYcEs=
+
+Name: res/drawable-xhdpi-v4/lov_cd_bg_1.png
+SHA1-Digest: OPFj9bqvEg8LaEINUgOGLJR4Mfk=
+
+Name: res/layout/brand_vc_sponsored.xml
+SHA1-Digest: hdub6iqoZ2TigraTIMMWTxIGdTU=
+
+Name: res/drawable-xxhdpi-v4/common_plus_signin_btn_icon_dark_disabled
+ .9.png
+SHA1-Digest: fXt8H+5IDSXHVBgahCLOjtKPYVM=
+
+Name: res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal.9
+ .png
+SHA1-Digest: Yaaajh0AXbmjLJOiDxeNBheKc8U=
+
+Name: res/drawable-xhdpi-v4/btn_open_gallery.png
+SHA1-Digest: Ut4drVVV+Yy7qDx1/FCNV13wYXI=
+
+Name: assets/res/UI/CDCollection/Node_puzzle_cd_complete.csb
+SHA1-Digest: BEAUcRpDZLdPBPRxi2jnVPlb3qY=
+
+Name: res/drawable-hdpi-v4/common_google_signin_btn_text_dark_disabled
+ .9.png
+SHA1-Digest: lbX57R0TzlcHAkHT3GttS2+bT5w=
+
+Name: res/drawable-xhdpi-v4/message_tag_no_net.png
+SHA1-Digest: xu2U+Sdha61H3GOQoPisdVSZ6iA=
+
+Name: res/drawable-tvdpi-v4/common_google_signin_btn_icon_light_presse
+ d.9.png
+SHA1-Digest: t1GO7BQ2t2TM/8HpppXRZkTS6Nk=
+
+Name: assets/res/UI/UIAlbum/2/card_02.png
+SHA1-Digest: 2a1GspnsHOmF9D15z92m0o5qPno=
+
+Name: assets/res/music/bass2/#a.mp3
+SHA1-Digest: M+mS5V+xYW/rxFsUTcr0JXXQv8M=
+
+Name: res/layout/request_dialog.xml
+SHA1-Digest: NqUfEzMvYnIOcieOjMbY0/tHWBs=
+
+Name: res/drawable-xxhdpi-v4/del.png
+SHA1-Digest: NA4rYui8M7mR0pmJW2rHdRacUSo=
+
+Name: assets/res/UI/Xmas/Node_tree_xmas_star_1.csb
+SHA1-Digest: 2sJO309mOhVfSEQVjXZ+xhOywqM=
+
+Name: assets/res/UI/UIHoliday/bgani_loop_xmas.csb
+SHA1-Digest: KqlKk4lV2wmAewb+6U9XBCxp4lU=
+
+Name: classes.dex
+SHA1-Digest: IMy+mYePLRJyK9JaYD05uF3bvUc=
+
+Name: assets/res/music/piano/f1.mp3
+SHA1-Digest: YGZVosG4U5UFgV2oDL0AA0hOzCU=
+
+Name: res/drawable/btn_calltoaction_bg_blue.xml
+SHA1-Digest: wQ+woAfh5JZTZ5pQYQBgQv3p81k=
+
+Name: res/drawable-mdpi-v4/common_plus_signin_btn_text_light_normal.9.
+ png
+SHA1-Digest: 0XGvp5l2+zBNBYcTregeDkW5n6M=
+
+Name: res/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_disabl
+ ed.9.png
+SHA1-Digest: H/FphPQvP7MRDwA9c33JDKyJVtY=
+
+Name: assets/res/UI/Xmas/Node_tree_xmas_get_animation.csb
+SHA1-Digest: AOJlDFa537ZHFHPL/qT6KxCXtQ8=
+
+Name: res/drawable/duapps_ad_offer_wall_banner_indicator_bg_selected.x
+ ml
+SHA1-Digest: 46R+u0NScjaFGJDV2jru6ntmkKk=
+
+Name: assets/res/UI/UIPlist/particle_unlock_blue.plist
+SHA1-Digest: cqmM0vL9525XPhFc+uIzaabhkBY=
+
+Name: assets/res/UI/UIHome/ani2xcoin.csb
+SHA1-Digest: 4eh88yUcL4+kg1cNH4Whx1kQAzI=
+
+Name: assets/res/UI/UIHoliday/bottomtab_xmas.csb
+SHA1-Digest: jKP+vszJ22nI3RrRcsRVKiEpjbc=
+
+Name: assets/res/UI/UIPause/dialog_continue.csb
+SHA1-Digest: EPU2Kf0GqIlab1OpFcQ38N4n4n0=
+
+Name: assets/res/UI/Xmas/image_tree_puzzle_small.png
+SHA1-Digest: MLk2ClVhT8tTCVnIQ3tPZv6boCM=
+
+Name: res/layout/activity_gameproblem.xml
+SHA1-Digest: AjqdqWHCSvj4qRLFGUwe08qqQCg=
+
+Name: assets/res/UI/UIHoliday/Node_cd_tips_xmas.csb
+SHA1-Digest: S7IU5uO+jxYItu6DRGBcDvY9QQo=
+
+Name: assets/res/UI/UIParticle/new8.plist
+SHA1-Digest: GlA1WEi0VwVWDI4ctWiQacI32gQ=
+
+Name: assets/res/UI/UIHome/Node_rank_enter_new.csb
+SHA1-Digest: KjJOrunaZV4NyLx3eD7xx3xcuv0=
+
+Name: assets/res/UI/UIHoliday/EasterCdPuzzle/xmas_puzzle2.png
+SHA1-Digest: mYHwSu3vxePQvweSqPBNdodWd9o=
+
+Name: assets/res/UI/UIHome/CardImage/14.png
+SHA1-Digest: g4W8QTd7BKGpHx891YDvpLfKMeg=
+
+Name: assets/res/UI/UIStore/Node_hallunlock_dialog.csb
+SHA1-Digest: kbsBbXWS7TC3AGQb/RafUMl2ylw=
+
+Name: assets/res/UI/UIHome/Node_letter_get.csb
+SHA1-Digest: FfHQTzNJLdAD3XcLUNy0VV3hilw=
+
+Name: assets/res/UI/UIResult/Layer_share_h5.csb
+SHA1-Digest: kQpKHjBAt9h46nnbgxpzuxfWcaM=
+
+Name: res/drawable-tvdpi-v4/common_plus_signin_btn_text_light_pressed.
+ 9.png
+SHA1-Digest: VxbqcCy4zOZOm9wmjU1xl2m8VSs=
+
+Name: assets/Plist_particle_bgani.png
+SHA1-Digest: SCBj1NjbbCK6VdoSfK6T1Ed15S4=
+
+Name: assets/res/UI/UIPlist/particle_unlock_green.png
+SHA1-Digest: i/D7PfZhwFmtheHcI6BOj+Hwr7U=
+
+Name: res/drawable/bg_cm_btn_green_ad_invite.xml
+SHA1-Digest: kWTdrFM1eDR48EB+u4FV9Aa3l8w=
+
+Name: assets/res/UI/UIHoliday/HomePage_xmas.csb
+SHA1-Digest: CXmU8fsJL+FJW4qLjAdireoVe7g=
+
+Name: assets/res/UI/UIHome/aniMeNode.csb
+SHA1-Digest: d5WH2ugLMYVvrOcWhGdC7DwCE2Y=
+
+Name: assets/res/DB/gold.csv
+SHA1-Digest: 6rdruLIynqBHOlg6oaNFFbBKJR8=
+
+Name: assets/res/song/Hello Vietnam.json
+SHA1-Digest: b5cLOFKq4cv42JbcMnL2Rb8mo5o=
+
+Name: res/drawable-tvdpi-v4/common_plus_signin_btn_icon_dark_pressed.9
+ .png
+SHA1-Digest: kdj/oCkmhiJpcMKJir06MRZjXKo=
+
+Name: assets/res/UI/ActivityMap/Node_map_reward_one.csb
+SHA1-Digest: QKoIJdoiFgHTkVSgPfIppDkx23o=
+
+Name: assets/res/music/piano/#G-1.mp3
+SHA1-Digest: 57ZLOeCHaQ4jL5SsIonlw9nDRX0=
+
+Name: assets/res/UI/UIHome/bottomtab_iphonex.csb
+SHA1-Digest: xPkfy/Eqav0svX91pOtNJiARdUE=
+
+Name: assets/fonts/Marker Felt.ttf
+SHA1-Digest: Ul8qSkVFD87LPYpf1H07D0hPYps=
+
+Name: assets/res/DB/fontname.csv
+SHA1-Digest: FOMYTXuQb8L065mDB4dG7ho3sWM=
+
+Name: assets/res/UI/UIBattleMaster/Node_diamond.csb
+SHA1-Digest: KOfvb39M1Nrthq5PBSYWq8Fk7U4=
+
+Name: res/drawable/minus_background.xml
+SHA1-Digest: gjRl9AHaupknAzds4c3RJogBacw=
+
+Name: res/drawable-xhdpi-v4/message_tag_lc_button_w.9.png
+SHA1-Digest: 6m1N42bNYa1rDRu837stjZhMhvU=
+
+Name: assets/res/UI/UIResult/hall_pass_content_new.csb
+SHA1-Digest: wdiyoIPqNUhQ5f2o2fRB7tS/zko=
+
+Name: res/drawable-xhdpi-v4/loading.png
+SHA1-Digest: XohrHmn5Ob+1ORvctaGAZJakkQw=
+
+Name: assets/res/music/drum/b.mp3
+SHA1-Digest: +EEi921XwqTgniFFNpe8z97MQOw=
+
+Name: assets/res/DB/propWeight.csv
+SHA1-Digest: wuh+Gs/3QPLSekgKWNJj9YC096Q=
+
+Name: res/drawable/btn_facebook_selector.xml
+SHA1-Digest: zZiKlE+hm0vOcpWcXArJlcibENA=
+
+Name: assets/res/music/piano/#g1.mp3
+SHA1-Digest: HvB06M0Oogh1Y3Iz3KYV8Q5WNdk=
+
+Name: assets/res/UI/UIParticle/snow_big_xmas.plist
+SHA1-Digest: PeO37qYKlAnaSP3BNb3EvT69gIY=
+
+Name: assets/res/UI/Xmas/Node_tree_xmas_cookies_2.csb
+SHA1-Digest: bGFvGyUgvzAqQ7kzG59e+sA1K5w=
+
+Name: assets/res/UI/CDCollection/musk_cd_bg13.png
+SHA1-Digest: clcItETzL5G6mMRRc+R+jPoVHGg=
+
+Name: res/drawable/native_fullscreen_ad_background.xml
+SHA1-Digest: po5AQFtUjk5vXy+MsE6iNHBmqM4=
+
+Name: res/drawable-xhdpi-v4/duapps_ad_offer_wall_indeterminate_loading
+ _footer.png
+SHA1-Digest: qF4O6/tQ5Py1A3fp9zXPVIiSd4M=
+
+Name: assets/res/UI/UIPlist/Plist_bonus.plist
+SHA1-Digest: tretOPS5B4+z57a/LRcsvOjZHTo=
+
+Name: res/layout/cm_activity_video_detail_unityads_style.xml
+SHA1-Digest: CaOf/1rfzW6SN0h3U4hKrb0EFRw=
+
+Name: assets/res/UI/UIStore/Node_spinning_shine.csb
+SHA1-Digest: ZiB7TRTRtTEAZ+GIflGAK72Pc+w=
+
+Name: res/drawable-xhdpi-v4/messenger_bubble_small_blue.png
+SHA1-Digest: P00qc2ai3VIvvV7dMGYqjdEM75M=
+
+Name: assets/res/UI/CDCollection/musk_cd_bg04.png
+SHA1-Digest: rs8yDiC+mTi65t1R7M2ZhIjA2+4=
+
+Name: res/drawable-xhdpi-v4/com_facebook_tooltip_blue_background.9.png
+SHA1-Digest: ewmojyQLbwcPjW/HwZL3ryTwxZQ=
+
+Name: res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_press
+ ed.9.png
+SHA1-Digest: fcRHSznS0klBue7f/7VPl7CCnTM=
+
+Name: assets/res/UI/UIHome/card_locked_pay.csb
+SHA1-Digest: ySpBPPwfZ+Me6PCoBsvK6yxz2/I=
+
+Name: res/drawable-xhdpi-v4/love_open_camera.png
+SHA1-Digest: f5OM3YaIBKCZsSZ8ooWIV9OtbQM=
+
+Name: assets/res/UI/UIPlist/Plist_cd.png
+SHA1-Digest: fCPRCYzYMy/sSpzS0OVH5nEHjZM=
+
+Name: assets/res/music/bass/c1.mp3
+SHA1-Digest: 5FY6aGNIrh814xleoPNfjh8L33Q=
+
+Name: assets/res/UI/UIParticle/snow_big.png
+SHA1-Digest: PmgN3GgY82UZfx0bbzG9PDR6TvI=
+
+Name: assets/res/UI/UIBattleMaster/crownlight.png
+SHA1-Digest: EDUI4dARYn20hrluX5Ml9v0qzXI=
+
+Name: assets/res/song/Carrying You.json
+SHA1-Digest: qrhWakIVGqggENRss7H/hWaTVSg=
+
+Name: res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_disabl
+ ed.9.png
+SHA1-Digest: aXB1WZ3yQ8Bcndz7Mq9HySre+70=
+
+Name: assets/res/UI/UIHoliday/Plist_bottomtab_xmas.png
+SHA1-Digest: F3jh0dFV89mYd8NCo7qMqyMM13E=
+
+Name: assets/res/music/bass2/f.mp3
+SHA1-Digest: LH8jXtg+S5AAl/JZuzDGtzszaG8=
+
+Name: assets/res/song/Melody Of The Night No.2.json
+SHA1-Digest: tjXfglr6DgC1CsCOjyaK7ASe4Gw=
+
+Name: assets/res/UI/UIHome/icon_fingle.png
+SHA1-Digest: kaFGaS4aTsiLM2jK04Ipecqo/94=
+
+Name: assets/res/UI/UIHome/lockybagcard.jpg
+SHA1-Digest: YNigLIQwycb4AtuNlvAcC3hYi8I=
+
+Name: res/drawable/cm_ads_tag_incentive.png
+SHA1-Digest: TbsnS+ft4r78uAgzpOPn870PgAE=
+
+Name: assets/res/UI/UIStore/dialog_adwall.csb
+SHA1-Digest: 3UOuvnvZ1/hm/TSNlcnC/qR1Wb8=
+
+Name: assets/res/music/piano/b2.mp3
+SHA1-Digest: dCSq0VuAsCXJsgjorLFx9YCJbeM=
+
+Name: assets/fonts/Futura condensed.ttf
+SHA1-Digest: HoDM+Tvsiq3GijoonB12hGRI6co=
+
+Name: res/drawable/bg_circle_gray.xml
+SHA1-Digest: KKXv2lAustrwDRBPcjQE1+Or9gI=
+
+Name: assets/res/UI/UIPause/Node_btn_doublediamonds.csb
+SHA1-Digest: NJS6iy0d3rMpJBkIQn0EAflVbCY=
+
+Name: assets/res/UI/UIHome/Node_quest_tips.csb
+SHA1-Digest: roOAP11kA+vue3k4ZisksP1SP88=
+
+Name: assets/res/UI/UIHoliday/Node_candy_tips.csb
+SHA1-Digest: +ZRPnQsskP2TPI9zrDwvsmZHNWQ=
+
+Name: assets/res/UI/UIResult/nomal_pass.csb
+SHA1-Digest: Durkw96RB1jL/X8vH9VrvGtKCK8=
+
+Name: assets/res/UI/UIResult/Node_rankup_panel2.csb
+SHA1-Digest: m/lwzXK/x7VYkF//h0DbmnWoWVQ=
+
+Name: res/drawable-mdpi-v4/common_plus_signin_btn_text_dark_focused.9.
+ png
+SHA1-Digest: gUARhQPoNmY5cTFr4KaKKpjxH+Q=
+
+Name: res/layout/message_tag_loading_view.xml
+SHA1-Digest: jr+y8VME/mwxlLcgxTWJJDCMajQ=
+
+Name: assets/res/UI/UIHome/Item/Node_tips.csb
+SHA1-Digest: /DRdc35fL975s70YZOOq0FrR+xo=
+
+Name: res/layout/login_float_tip_layout.xml
+SHA1-Digest: y+bU2ZVLmUNb3c3r7CedBJgmRDM=
+
+Name: assets/res/UI/UIResult/Node_rankup_title.csb
+SHA1-Digest: Hl5Yvg6CL76qk9jPf30juLtNLQ4=
+
+Name: assets/res/UI/UIHome/dialog_collect.csb
+SHA1-Digest: 1/wqph9YMjyVof1eH9r/+0+5WzA=
+
+Name: res/drawable-xhdpi-v4/bnt_share_xmas_h5_normal.png
+SHA1-Digest: xsIHGrlI2hwow1U10BHLeL5YxKw=
+
+Name: assets/res/UI/UIHome/bottomtab.csb
+SHA1-Digest: T7wCp7OnhLykzjz8TYVOSValP2A=
+
+Name: assets/res/DB/lv.csv
+SHA1-Digest: GNyABrB3gE9m3+EVVdU7fWjDP7c=
+
+Name: assets/res/UI/UIAlbum/5/card_bg_s_5.png
+SHA1-Digest: 0JuJHQnZNOCnDn6rGcSFOQPS/V4=
+
+Name: assets/res/song/Cho em.json
+SHA1-Digest: 0dNsfYwWRtdcZ2jWyISK3IJitCs=
+
+Name: res/drawable/dash_line.xml
+SHA1-Digest: mP+MccUqTM8bMegnwIKmwQQ5WeI=
+
+Name: assets/res/UI/UIAlbum/13/Node_card_special_13.csb
+SHA1-Digest: R3m2iZIjbPm3Y33Bz+Ki2wDpE8s=
+
+Name: res/drawable-mdpi-v4/common_plus_signin_btn_icon_light_pressed.9
+ .png
+SHA1-Digest: XrmBoIp+l4DXPZ0gqTFJsM4lY+Y=
+
+Name: res/drawable-xhdpi-v4/app_logo.png
+SHA1-Digest: bKTFLThV+K8iiYiRdNqn+6IrHyk=
+
+Name: res/layout/duapps_ad_offer_wall_topic_6.xml
+SHA1-Digest: DbUegBiedOiWzW9XL7/HvHx9Lto=
+
+Name: res/layout/tipsgetgift_dialog.xml
+SHA1-Digest: xtRtWaNbcEmI5ZlP+9neM/AjgZg=
+
+Name: assets/res/UI/UIOpenning/songName2.png
+SHA1-Digest: 7L/KylJ1n6LMumEVMAWCv/jKvUA=
+
+Name: assets/res/UI/UIHome/card_left_recommend_light.png
+SHA1-Digest: ehScZUGlR+5mmqv1/d6OwwbTHVs=
+
+Name: assets/res/UI/UIStore/head_shop_diamond.png
+SHA1-Digest: Akgfp7vM9aBiX9yE399G7uegwDQ=
+
+Name: assets/res/UI/UIPlist/Plist_band.plist
+SHA1-Digest: 3+fMb06lC1+K81VNC+YhHL/tK6U=
+
+Name: res/layout/orion_activity_video_detail.xml
+SHA1-Digest: fUNPGMAnBI3xTzHjV1W1MBMOEDk=
+
+Name: res/drawable-hdpi-v4/common_google_signin_btn_icon_light_focused
+ .9.png
+SHA1-Digest: Noiywwn1pSf8ayhUks4dryxUEdM=
+
+Name: assets/res/song/Minh Yeu Nhau Di.json
+SHA1-Digest: yoiWKWEClEJtsrAb9zqjnZa1uBE=
+
+Name: assets/res/song/The Piano.json
+SHA1-Digest: 4Q2Fnz4xkW+bklLikKycd7hH4RQ=
+
+Name: assets/res/UI/UIHome/newEpoch/Node_btn_free_video.csb
+SHA1-Digest: D3APZqXFyRREt0N9fLXZrOr3r+I=
+
+Name: assets/res/UI/UIHome/week_success_unlockmusic.csb
+SHA1-Digest: gSCrqWyaICJ49w1s6XhXWAiK2Es=
+
+Name: assets/res/UI/UIHome/Ly_week_activity.csb
+SHA1-Digest: G24lzsWOSfcx56050spRNbY1lSI=
+
+Name: res/drawable-xxhdpi-v4/close_light.png
+SHA1-Digest: FbGR7GsFGRxrJLzheY/8ANsg2fU=
+
+Name: assets/res/UI/CDCollection/musk_cd_bg06.png
+SHA1-Digest: vB1X8q1K8d9m3MnnWPphGEQz8Nk=
+
+Name: assets/res/UI/UIHome/aniHomeNode_iphonex.csb
+SHA1-Digest: NDZ0mxUDh9rbLbtafqDQYIVGW9M=
+
+Name: res/drawable-hdpi-v4/common_plus_signin_btn_icon_dark_focused.9.
+ png
+SHA1-Digest: UJ2iPflY9t0Dr4AJ0/OjxaKTDUI=
+
+Name: res/drawable-xhdpi-v4/btn_open_camera.png
+SHA1-Digest: 2LF4lj5HrkvVT8CJf7bysn31YkU=
+
+Name: assets/res/UI/UIAlbum/1/card_bg_s_1.png
+SHA1-Digest: H6e90TfrRnKJhDW6VqjUH8AF7bM=
+
+Name: assets/res/UI/UIHome/diamond.csb
+SHA1-Digest: P6EJXmX+rFO+X5Wo4YNrdf6F8DM=
+
+Name: assets/res/UI/UIAlbum/22/card_22.png
+SHA1-Digest: LDvh3gRriT6pa0xTU+lpzvXr3Xs=
+
+Name: res/layout/brand_sponsored_seconds_small.xml
+SHA1-Digest: yRraY/G239+iRRF2iRERm9dipwY=
+
+Name: res/layout/activity_love.xml
+SHA1-Digest: pV+dkKH0PvbVC0TDukUpLXD5P84=
+
+Name: assets/res/music/piano/e.mp3
+SHA1-Digest: gkKVnKk0TtR64kk9euiSRZQczFU=
+
+Name: res/drawable-hdpi-v4/common_plus_signin_btn_icon_dark_pressed.9.
+ png
+SHA1-Digest: i0LeSbdyYp1ZulCXHCRYoaLdlos=
+
+Name: assets/res/UI/UIPlist/Plist_temporary.plist
+SHA1-Digest: iz91m6VpK4Qk8cWNtL+n2clRKxY=
+
+Name: assets/res/UI/UIResult/buttongroup_again_next.csb
+SHA1-Digest: rfr1gNPzzRczAQN4LJFIO93zAzE=
+
+Name: assets/res/UI/UIHome/card_more_to_expect_hall.csb
+SHA1-Digest: swjUwcsFAKFink6fWUt6KsN99/E=
+
+Name: assets/res/song/A Little Love.json
+SHA1-Digest: Ha1pWiN9e5dZsQNeDvRkrsGe+gU=
+
+Name: assets/res/UI/UIOpenning/mask_black.png
+SHA1-Digest: EFmFTiM3jxZ94lkNT0sWXLz7D7o=
+
+Name: assets/res/UI/ActivityMap/UITower/particle_levelupred_l.png
+SHA1-Digest: VcE53aRD9szh4wTL/XD8vk76Ci0=
+
+Name: res/drawable-xhdpi-v4/lov_line_interval_2.png
+SHA1-Digest: 6GHdtut+2nEQeujI2sUXH7hXllE=
+
+Name: assets/res/UI/UIOpenning/bg_brithday_cicle_2.png
+SHA1-Digest: U9ewZY8Pbrji+gstEF+rxzaazuA=
+
+Name: assets/res/UI/UIStore/dialog_shop_coin_diamond.csb
+SHA1-Digest: zgqV1iFRNCE9JokgZ6R2Y6qQXEI=
+
+Name: res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_focused
+ .9.png
+SHA1-Digest: 0BLlijvOklNxnLvVl0x/CYcxIK4=
+
+Name: assets/res/UI/UIAlbum/33/Node_card_special_33.csb
+SHA1-Digest: xUtk4EMQ46fjigKIVdlCYHW9dFA=
+
+Name: res/drawable-mdpi-v4/common_plus_signin_btn_icon_dark_focused.9.
+ png
+SHA1-Digest: gouuiXIHTtS+PfIvYfOcWh+8urU=
+
+Name: res/drawable-xxhdpi-v4/common_full_open_on_phone.png
+SHA1-Digest: rvtKth49QCEjlTYMwbfTOGPJ61s=
+
+Name: assets/res/UI/UIPlist/Plist_bouns_puzzle.plist
+SHA1-Digest: YAw+7UCgLxTXFwDdBbANMv6X7HM=
+
+Name: assets/res/music/piano/c2.mp3
+SHA1-Digest: CJ/DckA6udXY2EUl1g4YM8Xinws=
+
+Name: res/drawable-xhdpi-v4/redeem_unable.9.png
+SHA1-Digest: 4/FfzIan7McFa9X2k8vZlG2nSUY=
+
+Name: assets/res/music/piano/chuanshao.mp3
+SHA1-Digest: Oe2cJC24N0CPyCVuyk4c6I/oNv0=
+
+Name: assets/res/UI/Xmas/Node_tree_xmas_sock_1.csb
+SHA1-Digest: jyShP+oEqLvW/A9ldWNF/LvuVQE=
+
+Name: res/drawable-xhdpi-v4/duapps_ad_offer_wall_back_light.png
+SHA1-Digest: MJyoRrAdcJe6nqp6eYG9/n4LaXs=
+
+Name: build-data.properties
+SHA1-Digest: W1oXmOsBHS52LbjZqNsySfSga+Q=
+
+Name: assets/res/UI/UIHome/vip_unlockmusic.csb
+SHA1-Digest: dLyF9U1QeAFuZBB79N+bCdh9L9w=
+
+Name: assets/res/UI/UIAlbum/5/Node_card_special_5.csb
+SHA1-Digest: IK4W6Xvguyg3z/EX+QOdZix1o28=
+
+Name: assets/res/UI/UIStore/dialog_shop_diamond_sf.csb
+SHA1-Digest: W/CW+a++2hXYPYwhpoPgzhFw9vo=
+
+Name: res/drawable/interstitial_ad_callaction_rect_bg.xml
+SHA1-Digest: lbErodqh4dywrHWT9YIv2fix/e8=
+
+Name: assets/res/UI/UIBattle/Effect/_5_grad4.png
+SHA1-Digest: OGU1T+yiEy4Qj8qztWE7TLUbwI4=
+
+Name: assets/res/UI/UIBgEffect/holiday/Node_xmas_snow.csb
+SHA1-Digest: k/u/z5fa4JWv65Ej1FA0XZflv34=
+
+Name: res/layout/messenger_button_send_white_large.xml
+SHA1-Digest: NXROD2JG/PI92/LQDJONUnvhV2U=
+
+Name: assets/res/UI/UIParticle/snow1.png
+SHA1-Digest: /mvYWvF9Ny/Rs1f1jDH6WT22T70=
+
+Name: assets/res/UI/UIResult/Node_number.csb
+SHA1-Digest: FvOnX9OwsfsSKS4p2soA5B+HYck=
+
+Name: assets/res/UI/UIParticle/xmas_snow_particle_a6.5.plist
+SHA1-Digest: vBrow5YfmfV2mnTa4LGYnf2cWRU=
+
+Name: res/drawable/duapps_ad_offer_wall_item_bg.xml
+SHA1-Digest: eBkIogzN0mzzXYFv7UG1j7ifPd8=
+
+Name: assets/res/UI/UIResult/star_1.csb
+SHA1-Digest: GLl3puM0j5j2i86W7RHHxrGd3rY=
+
+Name: assets/res/UI/UIHome/dialog_week_rules.csb
+SHA1-Digest: sOsJFyoI/Dw6y0q1x63hqIB8uCw=
+
+Name: assets/res/music/piano/c1.mp3
+SHA1-Digest: Hx4vKdhLpVJzGYmHpkIaxGacQ6c=
+
+Name: assets/res/UI/UIHome/Item/Node_soundquality.csb
+SHA1-Digest: BxiglFmj7sIc5De15eeCzRG/6+g=
+
+Name: assets/res/UI/UIAlbum/30/Node_card_special_30.csb
+SHA1-Digest: +qrquEmJL9o3tZADSoJNQJ2OvWY=
+
+Name: assets/res/UI/UIHoliday/EasterCdPuzzle/rabbit_cd_bg.png
+SHA1-Digest: F+HU+QqYJ9u1OTmsiutARsiwDiU=
+
+Name: assets/res/music/bass2/d.mp3
+SHA1-Digest: 800OBxOQp8Pc74q6e5yyOfxxCKw=
+
+Name: res/drawable/redeem_btn_bg.xml
+SHA1-Digest: GTs6RueT+6ff91SH0cSxFtpd8/A=
+
+Name: assets/res/music/piano/#a4.mp3
+SHA1-Digest: mbsbe8CfXP2S8+zjS2rGx0au+xI=
+
+Name: assets/res/UI/UIHome/card_achievement.csb
+SHA1-Digest: OxHXgbmiO5hQQoi5l/QefekyQRg=
+
+Name: res/anim/banner_leave_top.xml
+SHA1-Digest: P0tMHJ7/QZSwO2fZV+5ets/vYPk=
+
+Name: assets/res/UI/UIAlbum/15/card_bg_s_15.png
+SHA1-Digest: X7xNAEVR1RFAfy3w10If9eTOmaE=
+
+Name: assets/res/song/Proud Of You.json
+SHA1-Digest: io+5L7dD4wG8B3HX8q8QbBFe0kQ=
+
+Name: res/drawable-xxhdpi-v4/song_mix_share_text_bg.png
+SHA1-Digest: 4qm77v4Ij7mJkqqgBXuR9aRkFNI=
+
+Name: assets/res/UI/UIHome/icon_cd_song.png
+SHA1-Digest: ab7tZ6wTPE0raym+nejpoPfZz+g=
+
+Name: assets/res/music/piano/c5.mp3
+SHA1-Digest: msYf7z3xx8g02nKkw+RjfuGBOHo=
+
+Name: res/drawable-xhdpi-v4/love_arrow_right_1.png
+SHA1-Digest: aMN8y1W27cfg3TzR/FalQcRW5d4=
+
+Name: assets/res/Animation/circle_light.png
+SHA1-Digest: gbFzHyLKh4jqRv3dvhwnqBXr2pA=
+
+Name: assets/res/UI/UIOpenning/Node_cmlogo_n.csb
+SHA1-Digest: FARhjAQ3Sb+L03ejpawyRVrEXXo=
+
+Name: res/drawable-xhdpi-v4/go_star_1.png
+SHA1-Digest: ARqqtJoDDCqlVQ/v+hMgS2hI0M8=
+
+Name: assets/res/UI/UIOpenning/opening_cmlogo.png
+SHA1-Digest: QWbSvMzmwHvnOxs1XtCMQopBENc=
+
+Name: assets/res/song/Đừng như thói quen.json
+SHA1-Digest: CcfJF/vFnQtDgKyi82i1g11ctkU=
+
+Name: assets/res/UI/UIHome/icon_star_add.csb
+SHA1-Digest: xlEipHxbcaxty+gCuBHV4VAh4sU=
+
+Name: assets/res/Audio/FailPage.mp3
+SHA1-Digest: eiLd1UUCRuj/rayRPjbx+kjMEXc=
+
+Name: assets/res/UI/UIHome/Node_gift_cn.csb
+SHA1-Digest: ZWyFmqXGebVlGoIgiI8zNDBWXG8=
+
+Name: res/drawable-xhdpi-v4/com_cmplay_btn_play.png
+SHA1-Digest: vJwev3XDX+dzS+014iZx53L5L1k=
+
+Name: assets/res/UI/Xmas/Node_tree_xmas_edit_layer.csb
+SHA1-Digest: qlQ6JkNHd1S/iqC6oR+/g19wriw=
+
+Name: assets/res/UI/UIOpenning/bg_brithday_cicle_5.png
+SHA1-Digest: hwVRv6Kuv9lXwgEWMw+ZKPmMIss=
+
+Name: assets/res/UI/UIHome/newEpoch/Node_band_success.csb
+SHA1-Digest: gXlMZK+SOtVPultwxB+4lmEVwDY=
+
+Name: assets/res/song/Wings Of Piano.json
+SHA1-Digest: boWKXFeINBOcp74h6qndPi/mGk4=
+
+Name: assets/res/UI/UIAlbum/18/card_18.png
+SHA1-Digest: 1XpDXcRUrNtkKa4V9m9cHc99s7I=
+
+Name: res/drawable-hdpi-v4/common_full_open_on_phone.png
+SHA1-Digest: rvtKth49QCEjlTYMwbfTOGPJ61s=
+
+Name: res/drawable-xhdpi-v4/allover.gif
+SHA1-Digest: Nh2Z5hSNOvMrPWNlcNH7G642JxM=
+
+Name: assets/res/DB/bannermusic.csv
+SHA1-Digest: 5dvEBE8tv3CnU5kO48giM7nC2+U=
+
+Name: assets/res/UI/UIPlist/Plist_shop.plist
+SHA1-Digest: fWflENMnFbWnxlfq20H7nIViAjg=
+
+Name: assets/res/UI/ActivityMap/Node_xmas_map_selected_light.csb
+SHA1-Digest: YOUEyZHNdveZcS0nE9kg0C7hwlM=
+
+Name: res/drawable-xhdpi-v4/btn_gray.9.png
+SHA1-Digest: 8fqhagCwivPQiWTS7FNJ8S8cFes=
+
+Name: assets/res/UI/UIOpenning/Plist_openning.png
+SHA1-Digest: cila6Wul1WrXegTZJQFPXFon5wo=
+
+Name: assets/res/music/bass/F-1.mp3
+SHA1-Digest: V/j3GCTO0aw6Kk5KFrqr+N2Ojj8=
+
+Name: assets/res/UI/UIHome/dialog_album_sale.csb
+SHA1-Digest: EgIYkVgoMgURGyxCKCpBkPC5Sqo=
+
+Name: res/color/com_facebook_button_text_color.xml
+SHA1-Digest: tub6sLjgm0bNFa4zsk7JNPaIo+g=
+
+Name: assets/res/UI/ActivityMap/Node_xmas_map_content.csb
+SHA1-Digest: r0a2iqUV86nCz+LuPZW4MyjOU4U=
+
+Name: assets/res/DB/mission.csv
+SHA1-Digest: INHUhqUMT5vAnKHA4g2iBdbpSvo=
+
+Name: res/drawable-xhdpi-v4/sharedialog_bg.9.png
+SHA1-Digest: N1a81v/XH2kL9e37AwDga9h7jxE=
+
+Name: assets/res/UI/UIHome/Node_card_game_3.csb
+SHA1-Digest: AtnODZ/NQsxgjuURATI/oOA6pVc=
+
+Name: assets/res/UI/UIPlist/particle_levelupblue_r.png
+SHA1-Digest: RzLXC8A8nHiOvZwiogK/R/7E5lE=
+
+Name: assets/res/UI/UIBattleMaster/starlight.png
+SHA1-Digest: xspSwoSLbJ4RLUCdFPWF7ECYXpo=
+
+Name: assets/res/UI/UIHome/card_reward.csb
+SHA1-Digest: 9qdealJNZVfS7EEAx/r1rCagHqU=
+
+Name: assets/res/music/piano/g1.mp3
+SHA1-Digest: 2nLqyB9NF36dNpx4QUNRcsMa4Aw=
+
+Name: assets/res/music/drum/f.mp3
+SHA1-Digest: QD30YZPOLX6EtyB1O/AS59PzTWg=
+
+Name: assets/res/UI/UIAlbum/1/Node_card_special_1.csb
+SHA1-Digest: cT4f9n5sb2NalDZjmzlZvdaBoTE=
+
+Name: res/drawable-hdpi-v4/common_google_signin_btn_text_dark_normal.9
+ .png
+SHA1-Digest: BtBZbFT3VPvi+qaEJu0REVsW9GQ=
+
+Name: assets/res/UI/UIOpenning/bg_small_f.png
+SHA1-Digest: BmrmB7EeHUkhx5GfI//6A/lxM2A=
+
+Name: assets/res/UI/UIHome/aniHallNode_iphonex.csb
+SHA1-Digest: ZV+MIZvuSPRUJz7LKcLCqC2K7f0=
+
+Name: res/drawable-tvdpi-v4/common_google_signin_btn_icon_dark_pressed
+ .9.png
+SHA1-Digest: rPoNTKtGAWrgl3m/Kj+2adm8lRE=
+
+Name: assets/res/song/Wedding Dress.json
+SHA1-Digest: l2CQGeRqIpUhJuHFxrwByfgrsY4=
+
+Name: res/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_focused
+ .9.png
+SHA1-Digest: ggtpJ4txi8yVBKDxGTMYVFNMRFw=
+
+Name: assets/res/UI/UIHome/Node_btn_video.csb
+SHA1-Digest: ObNyHILpQzFNMcxuM9wA8N7OwZY=
+
+Name: assets/res/UI/UIHoliday/chest_puzzle.png
+SHA1-Digest: 5HwWOXIHuGnUO4bCaPZUSeZterA=
+
+Name: assets/res/Audio/ChestFragment.mp3
+SHA1-Digest: s1iX8ghVRo1Y2zltCUdav46JWp8=
+
+Name: assets/res/UI/Xmas/Node_tree_xmas_result_tips.csb
+SHA1-Digest: EjqBOWVtP371Gyp4440CN8WfIAk=
+
+Name: assets/res/UI/UIHoliday/puzzle_box_icon.png
+SHA1-Digest: /zQLWdmqieo3q4qY+tMcYoHVMgA=
+
+Name: assets/res/UI/Xmas/image_tree_xmas_share_photo.png
+SHA1-Digest: Q6Re3+Gz9dqujmqan6twYFTpufs=
+
+Name: res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_focused.
+ 9.png
+SHA1-Digest: T9DtQx4gw7FhUbS8BqoxFj/Zj+M=
+
+Name: assets/res/DB/holiday.csv
+SHA1-Digest: 4I+ae4Kfw3qczq0ko4rSFQcKCJ4=
+
+Name: assets/res/UI/UIResult/aniBestIcon.csb
+SHA1-Digest: +vBkPHeT1a15QGp9tZt0P1SpbNk=
+
+Name: res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_normal.
+ 9.png
+SHA1-Digest: avqP5Jr+JRygbHxllR1AQbtpb+g=
+
+Name: res/layout/brand_mute_unmute_small.xml
+SHA1-Digest: plGsZbBT4t9t+UbJL0NRutiR3rY=
+
+Name: assets/res/UI/UIHoliday/Plist_xmas.png
+SHA1-Digest: yF6l6hyxXwX0ZqpVi4QN17/1Re0=
+
+Name: assets/res/UI/ActivityMap/UITower/particle_levelupblue_r.plist
+SHA1-Digest: vgl2OKdTvASa1nkpAl3o90pz7Cg=
+
+Name: assets/res/UI/UIHome/Node_quest_complete_tips.csb
+SHA1-Digest: 2DxY6okuPOdhrSkhGd0OZzROD4A=
+
+Name: assets/res/UI/UIBattleMaster/Node_endless.csb
+SHA1-Digest: DQudvT/AOfPbVSTxoA1twTbNI9A=
+
+Name: res/drawable-hdpi-v4/common_plus_signin_btn_icon_dark_disabled.9
+ .png
+SHA1-Digest: nyApScQS8pTVj6pveaNl6tdTXNY=
+
+Name: res/layout/brand_vc_learn_more.xml
+SHA1-Digest: puK1Qt556ZYJe4Zvmeo3baKDyO0=
+
+Name: res/drawable-mdpi-v4/common_plus_signin_btn_text_light_focused.9
+ .png
+SHA1-Digest: bcEBIbjyJupOxsg94AVIsTCCniA=
+
+Name: assets/res/UI/UIPause/Node_banner_firstcharge.csb
+SHA1-Digest: n1Zk7i89PGjbi8hp41w2BbADAo8=
+
+Name: assets/res/UI/UIHome/dialog_login_expired.csb
+SHA1-Digest: n9LJ+wLRExcuJ0Yrz52BS1TowUc=
+
+Name: assets/res/music/bass2/#a1.mp3
+SHA1-Digest: PwEW+CV3P9BZPONXR2ZHDlltOWA=
+
+Name: res/drawable/com_facebook_button_like_background.xml
+SHA1-Digest: BNaPftgrYA11RXLirIEfnTmEYdQ=
+
+Name: assets/res/UI/UIOpenning/Layer_littlestar_movieclick.csb
+SHA1-Digest: x6IRAD3o2TfHghtyt/bWLI7Ex+0=
+
+Name: assets/res/music/drum/E-2.mp3
+SHA1-Digest: yakxpqG3YXUQjnphIcEIUEOxGIQ=
+
+Name: assets/res/UI/ActivityMap/UITower/particle_levelupyellow_l.plist
+SHA1-Digest: 2jnUiQ62o9XWYJNS/d4LqrWk7hQ=
+
+Name: assets/res/music/piano/b4.mp3
+SHA1-Digest: 7YH1ylgvjorFfTITQpqhks1syZ4=
+
+Name: assets/res/UI/UIAlbum/28/card_28.png
+SHA1-Digest: 99lBJFaCNlMzXOFqdtmAmELYNIU=
+
+Name: res/layout-land/interstitial_normal.xml
+SHA1-Digest: gPCa8YHnQuBNUx6nOTujukZT+j4=
+
+Name: res/drawable-tvdpi-v4/common_plus_signin_btn_text_dark_focused.9
+ .png
+SHA1-Digest: wmYpNZ7LcNPy1wGwewdBupID2eg=
+
+Name: assets/res/DB/SpecialSongs.csv
+SHA1-Digest: qf+g7V7t1vvdvAjdGCDDxZnm9f0=
+
+Name: assets/res/UI/UIResult/Node_result_toast.csb
+SHA1-Digest: r7RY/wYUXA+8qjqS9AN1TaKV8Sc=
+
+Name: assets/res/music/piano/d3.mp3
+SHA1-Digest: rsnUgqgj4ZiM8kr1a2mMXruxOdg=
+
+Name: res/layout/cm_activity_video_detail_vungle_style.xml
+SHA1-Digest: 9/VC/JaRuMesu9y8fjMBrRIikFc=
+
+Name: assets/res/music/piano/#a1.mp3
+SHA1-Digest: 92VHHp/ePnmmNRFMHIhvDrn5dUs=
+
+Name: assets/res/UI/UIHome/Ly_rank_fans.csb
+SHA1-Digest: I7oNMsGdjtUE09vvFHOCwWh/2fc=
+
+Name: res/drawable-xhdpi-v4/back_arrow.png
+SHA1-Digest: zEhSf6HbUu1uOdlrmvZvCYaUI9E=
+
+Name: assets/res/UI/UIHome/newEpoch/levelup_unlockmusicEpo.csb
+SHA1-Digest: sXu+m2fejo5uqANQQ2605WkJyIA=
+
+Name: assets/res/Audio/Money.mp3
+SHA1-Digest: z8uJfTu2Fgk6aEyGBdLqSs6h8n0=
+
+Name: res/drawable-xxhdpi-v4/common_plus_signin_btn_text_light_focused
+ .9.png
+SHA1-Digest: McAG+fXzx98US1ehEBVWZHn2S58=
+
+Name: res/layout/brand_vc_seconds.xml
+SHA1-Digest: VJO47Cww5L6Z9mNHo0KMDsAxkp8=
+
+Name: res/drawable/cm_btn_calltoaction_bg_rect.xml
+SHA1-Digest: vNjMCgR0iq3BWPUcwWQoDpniYdI=
+
+Name: assets/res/UI/UIOpenning/Node_littlestar2.csb
+SHA1-Digest: /NSyuEU1udzHi2PRVHcWAbKidQI=
+
+Name: res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_pressed.
+ 9.png
+SHA1-Digest: 2phsQPMXg+pfp1ogpbFp5OMTCSM=
+
+Name: assets/res/UI/UIAlbum/33/card_bg_s_33.png
+SHA1-Digest: YqhL0ZFmtp0M4cKNLRuLnUed6zk=
+
+Name: res/drawable-xhdpi-v4/christmas_input.png
+SHA1-Digest: rJQJdqoDE/sicblPOfxZDtLY76M=
+
+Name: res/drawable/interstitial_ad_image_bg.xml
+SHA1-Digest: IiFs++qAg9zi0TJUbeAxbCqYwAw=
+
+Name: assets/res/UI/UIHome/card_locked_fblogin.csb
+SHA1-Digest: 4HPPBrszyzXQxvImqp4gpkCE84E=
+
+Name: assets/res/UI/UIParticle/new9.png
+SHA1-Digest: a2bSG/MLYijxk/hFi9mJenYawE8=
+
+Name: res/drawable-xhdpi-v4/vast_volume_off.png
+SHA1-Digest: ePdU7z7iaWmBokmyG+S7yUaWtMg=
+
+Name: assets/res/UI/UIAlbum/20/Node_card_special_20.csb
+SHA1-Digest: edVGzwAru7wcWBn1jwe/IrtWKbY=
+
+Name: res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_disab
+ led.9.png
+SHA1-Digest: 58Og/fmpU60HQnWtVOw7395bTkw=
+
+Name: res/drawable-xhdpi-v4/com_cmplay_tag_loading_circle_radar.png
+SHA1-Digest: ygFUsasaqUtmcS8BQE8cKAZn8cw=
+
+Name: assets/res/UI/UIResult/Node_result_button_buymusic.csb
+SHA1-Digest: kskO2R7FY9UynFCuzskGlm9LKcU=
+
+Name: assets/res/UI/UIResult/Node_share_contents_hall.csb
+SHA1-Digest: dwVBg1qbRQRxJZdYdhTdFCFS2+0=
+
+Name: assets/res/UI/UIHome/aniMusicNode.csb
+SHA1-Digest: kLi2T+THJcfWLkWrrfzKpg0u08c=
+
+Name: assets/res/UI/CDCollection/bg_puzzle_cd_share.jpg
+SHA1-Digest: ci5O9TMhXS2A6VH4DIIk25vHm0g=
+
+Name: res/drawable/redeem_btn_text_color.xml
+SHA1-Digest: tK49UOJjnrZKq2Fwd4Byjde/C3E=
+
+Name: res/drawable-xhdpi-v4/go_back.png
+SHA1-Digest: fJI45dJW8qwQYqN7SD4LBiosvAk=
+
+Name: assets/res/UI/UIResult/buttongroup_again_new_pay.csb
+SHA1-Digest: C1wNT7WDHPvhC3zJMJz5Ghppds8=
+
+Name: res/drawable-xhdpi-v4/com_cmplay_message_tag_no_net.png
+SHA1-Digest: xu2U+Sdha61H3GOQoPisdVSZ6iA=
+
+Name: assets/res/UI/UIHome/Node_cd_light.csb
+SHA1-Digest: kGZdHP2BeIBOI4rJ7ALTXOVJGTs=
+
+Name: assets/res/UI/UIBattle/Effect/circle_test.png
+SHA1-Digest: 9byq321GhXG5SogwDrvEMmT0eDk=
+
+Name: assets/res/music/bass/#c.mp3
+SHA1-Digest: ZMUZM7Xl0APiBhJDKanY1W/D+6U=
+
+Name: assets/res/UI/UIOpenning/songName7.png
+SHA1-Digest: D7CECo7W5G4Q9T7bbIx++WsQQVY=
+
+Name: res/layout-port/interstitial_screen.xml
+SHA1-Digest: A7qK7SwNJPbhuGo9qx0AuA0cYZg=
+
+Name: res/drawable-xhdpi-v4/com_facebook_button_like_icon_selected.png
+SHA1-Digest: GMDSoWb/QFeua7q/UxOYu8cnl4M=
+
+Name: assets/res/UI/UIHome/image_collect.png
+SHA1-Digest: 6+XswSE4OViQhBaOqV9Yg2OHw1Y=
+
+Name: assets/res/UI/UIHome/Node_leaderboard_nowifi.csb
+SHA1-Digest: T/JgrWr90R8ZSIKg5HgKod/pPo8=
+
+Name: assets/res/music/bass2/a.mp3
+SHA1-Digest: 0a5bUxviki1dJbH1SPRitL3AStU=
+
+Name: assets/res/UI/UIAlbum/7/Node_card_special_7.csb
+SHA1-Digest: QGjDMqoGzqY3xh5ISdiYqRiPGDk=
+
+Name: res/drawable-xhdpi-v4/common_rating_none_star.png
+SHA1-Digest: V3LSJSZbbhy9k27tJPxbIVmEfz0=
+
+Name: assets/res/UI/Xmas/imag_tree_xmas_snow1.png
+SHA1-Digest: 1M3OTNxD0VPInuNp8br5Kaz3WYY=
+
+Name: assets/res/UI/UIHome/dialog_fb_login_homepage.csb
+SHA1-Digest: QX5qCkafclWgBHxmD9NELphBKUI=
+
+Name: assets/res/music/piano/#A-3.mp3
+SHA1-Digest: cRwNdzG9uG5xf2kMVhyH5gr3EoY=
+
+Name: res/drawable-xhdpi-v4/cd_default_bg_special_music.jpg
+SHA1-Digest: GC4hhBJlCgyFnI9NO1FHbjD6zlY=
+
+Name: res/layout/brand_replay.xml
+SHA1-Digest: VWitZfYxEJv7tMKLOqqxfpCkUMA=
+
+Name: assets/res/music/piano/e1.mp3
+SHA1-Digest: Bmqs1nJNIQJNFqOP7L3Wrix2b88=
+
+Name: res/drawable-tvdpi-v4/common_google_signin_btn_text_dark_pressed
+ .9.png
+SHA1-Digest: /rLvGJWRMzs/wIv5GeH9XfiN9xI=
+
+Name: assets/res/music/bass2/E-1.mp3
+SHA1-Digest: DAqjV7lo12GeZ9p0oElWYfMml8o=
+
+Name: assets/res/UI/UIResult/share_icon_gift.csb
+SHA1-Digest: nt8/S4xgi85aZPeRx8VMGunFcpg=
+
+Name: assets/res/music/piano/b3.mp3
+SHA1-Digest: Ffz82Ou1i9klEIWNwK3+x6uIcwk=
+
+Name: assets/res/Audio/ThreeCrown.mp3
+SHA1-Digest: GbjQdjscjdt3KEHExFuX//XtjM8=
+
+Name: assets/res/music/bass/E-1.mp3
+SHA1-Digest: ayBfI7oWXNm1KYzRgXKEMATssAk=
+
+Name: assets/res/music/piano/#A-2.mp3
+SHA1-Digest: cGokjvqxD4ut/9eoQOlg7Og3edU=
+
+Name: res/drawable-xhdpi-v4/common_plus_signin_btn_icon_light_normal.9
+ .png
+SHA1-Digest: 8ms2/Gwd1Au7bTnSJKr/88YbDFs=
+
+Name: assets/res/UI/UIHome/CardImage/12.png
+SHA1-Digest: okikKD2Ih0zBub0i8wO8pg46AvM=
+
+Name: assets/res/UI/CDCollection/musk_cd_bg14.png
+SHA1-Digest: l+lsjNZDOWrY0C6sna54wV97ZJ8=
+
+Name: assets/res/UI/UIHoliday/Node_new_best_xmas.csb
+SHA1-Digest: 9v8X28C8UiqsYei0T53JwZACQ1I=
+
+Name: assets/res/UI/UIStore/dialog_sharefailed.csb
+SHA1-Digest: JSKwcECOew7UbAejVqgd7fyG0cE=
+
+Name: assets/res/UI/UIHome/Node_card_remix_tips_add.csb
+SHA1-Digest: oM4qN+PT5smsybTe3qaMaIMGeBY=
+
+Name: assets/res/UI/UIHome/dialog_invite_friend.csb
+SHA1-Digest: 1YvT/TAKWXL9hPhyFQ6jy1t0+X8=
+
+Name: assets/res/song/Em Gai Mua.json
+SHA1-Digest: l3CRwLkM2DnCK1s67ItYAs0S98Y=
+
+Name: assets/res/DB/exp.csv
+SHA1-Digest: U8JL5V81BwHQWBcE8orfl4cp+m8=
+
+Name: res/drawable-xhdpi-v4/com_cmplay_tag_failure.png
+SHA1-Digest: XpvObbngehbweDUuVJ4FCdLdIqQ=
+
+Name: res/drawable-xhdpi-v4/common_plus_signin_btn_icon_dark_normal.9.
+ png
+SHA1-Digest: l5UsEBUhulJfrH0u/jDnuRagz8Y=
+
+Name: res/drawable/btn_messenger_selector.xml
+SHA1-Digest: v3Y1b0PlSmWfUhYgh81Mm+TERyU=
+
+Name: res/drawable-hdpi-v4/mobvista_cm_backward_disabled.png
+SHA1-Digest: dCSvX0NF1SIJmfXWltLpm3sZ3d4=
+
+Name: res/drawable-xhdpi-v4/christmas_button_1.png
+SHA1-Digest: 4jklPd0UCrhxnHwsR0IgbJsqqUI=
+
+Name: res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_focuse
+ d.9.png
+SHA1-Digest: esQdl1oW/Fy7ryVas2lRnuq7vHY=
+
+Name: assets/res/UI/UIHome/musicOff.png
+SHA1-Digest: 1tlH6tDwy37BoySU/ewDFc0s5Es=
+
+Name: assets/res/UI/UIPlist/Plist_share.plist
+SHA1-Digest: WiTas/pgrywIzgEaduXO5o6WYD8=
+
+Name: assets/res/UI/UIPlist/Plist_content2.png
+SHA1-Digest: 5A17z8DWzNkI5J8M5fbFcy36nFY=
+
+Name: res/layout/brand_vc_video_landscape.xml
+SHA1-Digest: y0pt2/CiAhSgntQ2WjAAbDgRPL4=
+
+Name: res/drawable-xhdpi-v4/loading_bg.png
+SHA1-Digest: H82psBxrrNAP7qyYFZ+x1zj8pBc=
+
+Name: assets/res/UI/Xmas/snow_tree_snow2.plist
+SHA1-Digest: 8vH1pXD8k/RnK6YbBAojSUgxmt8=
+
+Name: assets/res/UI/UITransition/Node_transition.csb
+SHA1-Digest: kt8UbZF0Uu1LIOYe581XDmc8yoo=
+
+Name: res/drawable-xxhdpi-v4/common_plus_signin_btn_text_light_normal.
+ 9.png
+SHA1-Digest: Ra4eTkxw6C0Ko+LOGB0p3ZqoN6U=
+
+Name: assets/res/UI/UIHome/life.csb
+SHA1-Digest: 5Ho/4u4nCRTFn9qJ6dytfGGrv8w=
+
+Name: assets/res/UI/UIOpenning/Node.csb
+SHA1-Digest: usNi0f9w+IVLgg42V/keYw3N5mo=
+
+Name: assets/res/music/Simple Gift.mp3
+SHA1-Digest: r7OdgKmh7u0qztDDd4CDY9Rqh3w=
+
+Name: res/layout/brand_learn_more.xml
+SHA1-Digest: CjXvdVMdxFjDhFpPD0NVJehrcfU=
+
+Name: assets/res/UI/UIStore/Node_X2.csb
+SHA1-Digest: nmoX2Yf8G4STaF5mVfCdGPRssTM=
+
+Name: assets/res/UI/UIHome/Item/Node_wechat.csb
+SHA1-Digest: jN3CpWXTBS9W4aaHsV2h6ZK9DAc=
+
+Name: assets/res/UI/UIHome/Item_InviteCell.csb
+SHA1-Digest: hkyr8FSoM69ueyE/pvBSCtsYEDw=
+
+Name: res/drawable-xhdpi-v4/love_open_gallery.png
+SHA1-Digest: xEUFDT07xRKBItZ3kByURE9oRPo=
+
+Name: assets/res/gameImage/slideTileOverlay.vsh
+SHA1-Digest: 1lY3KFEQQ+xP+EGinQhO571ENd8=
+
+Name: res/layout/com_cmplay_message_tag_no_net_to_retry_layout.xml
+SHA1-Digest: BOLQnryhGsyCBoxZZG37D1+Xc9Q=
+
+Name: assets/res/UI/Xmas/Node_tree_xmas.csb
+SHA1-Digest: N+s/if6ajP+pA62/vmG4gaw3zwU=
+
+Name: assets/res/Audio/Pass1.mp3
+SHA1-Digest: HGhdF5PWzEc8L8a+E/iY2DNz07w=
+
+Name: res/layout-land/interstitial_screen.xml
+SHA1-Digest: dfNeEoLt6vp9QJq99z7yJ/tGzeA=
+
+Name: assets/res/UI/UIResult/Node_result_button_firstpay.csb
+SHA1-Digest: x/q41bLun2R1Eo54E0fWfL0FXV0=
+
+Name: assets/res/music/piano/#a3.mp3
+SHA1-Digest: cRj2TTKlAxSVKobAuLWzlR+og4k=
+
+Name: assets/res/UI/UILevelUp/levelup_unlockmusic.csb
+SHA1-Digest: ZsMupb1T3jRxb/7rs4cCOBRP9JM=
+
+Name: assets/res/music/bass2/#c1.mp3
+SHA1-Digest: o1jL6e1VY14cONLrgRKqdU2K9ho=
+
+Name: res/drawable-xhdpi-v4/com_cmplay_tag_loading_circle_small.png
+SHA1-Digest: ms3A6nQeJpIhUq2Sv8hPAMKQiTs=
+
+Name: assets/res/UI/UIHome/card_message_musicbag.csb
+SHA1-Digest: zXUlF38lZeFpQ7OpcVCN59uPxQY=
+
+Name: assets/res/song/Got Hurt From Love.json
+SHA1-Digest: cfbxJ+QwqyoPFnUgEWZ/iJPh2t4=
+
+Name: res/drawable/btn_blue_request.xml
+SHA1-Digest: Vre+XGakLHAqiWEEHXE+a2kpYZo=
+
+Name: res/drawable-xhdpi-v4/share_icon_facebook_pressed.png
+SHA1-Digest: Tw41TDOFhGunyQ/cj/23Uvcm+Co=
+
+Name: assets/res/UI/UIHome/Node_message.csb
+SHA1-Digest: 82nUGKPYTB6+NVDAIzx98QuLlDw=
+
+Name: assets/res/music/drum/#c1.mp3
+SHA1-Digest: VEPutC8wLNloV8IIIblPdVXv/F8=
+
+Name: assets/res/UI/UIHome/newEpoch/newEpoch_hq_summonfailed.csb
+SHA1-Digest: 2ExGCYtoqOQahsjCGne/NN4bjPc=
+
+Name: res/drawable/common_plus_signin_btn_text_dark.xml
+SHA1-Digest: CkN/dMzw56xz9miz2OHnu/f7fnA=
+
+Name: assets/res/UI/UIPlist/Plist_bottomtab.png
+SHA1-Digest: tqzC9u8TIyu+nE6FxYctmuQkPW8=
+
+Name: res/drawable-xhdpi-v4/gamebox_problem_btn_green_normal.9.png
+SHA1-Digest: jIWql73LAz6d7xdy4KmgLQYYXlc=
+
+Name: assets/res/UI/UIPlist/btn_redbag.png
+SHA1-Digest: eBdRKm3s25kwnvc97SDaorkUwPc=
+
+Name: assets/res/UI/UIHome/level.csb
+SHA1-Digest: FAP0I0QMXiXRkjU4C+0oT7uafK8=
+
+Name: assets/res/UI/CDCollection/musk_cd_shadow.png
+SHA1-Digest: D2REyEWIz7y+RwoqCJAqWOna+2U=
+
+Name: res/layout/redeem_confirm_dialog.xml
+SHA1-Digest: tJCBJtds2RIK5cHHQaEede7yHIk=
+
+Name: assets/res/UI/UIHome/puzzle_light_cd.png
+SHA1-Digest: F77VMxJz8dHfcH1a9Ait3Ivv+Wk=
+
+Name: assets/res/DB/mission2_musicrange.csv
+SHA1-Digest: 8UpDHpBxEae86vIAsV2hA4+A98I=
+
+Name: assets/res/UI/Xmas/Node_tree_xmas_candy_1.csb
+SHA1-Digest: kXwlkUr5/2H1nwM8huLWFBMxFaw=
+
+Name: assets/res/music/piano/#c1.mp3
+SHA1-Digest: H3Gv0gmptV3zy9Epy90nX2rPDvc=
+
+Name: assets/res/UI/CDCollection/Node_collect_cd_dialog.csb
+SHA1-Digest: uMt5Y/VujoTAlHwmjvqrlw37k6I=
+
+Name: assets/res/music/drum/d1.mp3
+SHA1-Digest: yP/63wG/vR7jpEkWAkxoGSOG+RQ=
+
+Name: assets/res/song/Love Of My Life.json
+SHA1-Digest: sTG6o/jmc8rcy1zpwnR8DfvjB/g=
+
+Name: assets/res/UI/UIStore/curtain.csb
+SHA1-Digest: clkCPVXf3frSn4eU27mKEOO5xQ8=
+
+Name: assets/res/UI/UIOpenning/Node_moving_lines.csb
+SHA1-Digest: LgOKCeYQJlFdYz4LwmeCxPicEXA=
+
+Name: assets/res/song/Melody Of The Night No.6.json
+SHA1-Digest: sHOgPx9BM97wg2v1W12sCFT+YZ4=
+
+Name: res/drawable-hdpi-v4/common_plus_signin_btn_text_light_pressed.9
+ .png
+SHA1-Digest: l7PopPLLNxyFbMitYJ9mVYDpNSY=
+
+Name: assets/res/UI/ActivityMap/UITower/buttongroup_again_halloween_su
+ c.csb
+SHA1-Digest: WwKZOGZAyI15w5Ivq5hoHtwutu0=
+
+Name: assets/res/UI/UIResult/Node_share_contents.csb
+SHA1-Digest: dz3C1Dd9XZlaRl0fvNz5gGxbIAg=
+
+Name: assets/res/UI/UIResult/buttongroup_again_new_nowifi.csb
+SHA1-Digest: 3ArMMdLdYP4xX+sK86+V+8e3PpU=
+
+Name: assets/res/music/bass2/#g1.mp3
+SHA1-Digest: 9VBTHI6MIVCHOdlIHSoF3dYrdzM=
+
+Name: res/drawable-xhdpi-v4/browser_refresh.png
+SHA1-Digest: nqJ1nzynB6bWnsXfgRKWN9zkEys=
+
+Name: res/drawable/common_google_signin_btn_icon_light.xml
+SHA1-Digest: 5sRCiq6FXFMY9kniGjh7CXH09l8=
+
+Name: assets/res/music/drum/#G-1.mp3
+SHA1-Digest: D2pLYi2Z2jKqv9m0RNO/bPtGrhc=
+
+Name: res/layout/com_facebook_tooltip_bubble.xml
+SHA1-Digest: AUk6YUVHs3VSEZcf5Nss4i/IA+A=
+
+Name: assets/res/UI/UIHoliday/card_locked_pay_diamond_hl.csb
+SHA1-Digest: exxQsn+KEoRSsuvMejmF7SOJmyo=
+
+Name: assets/res/UI/UIStore/Node_hallunlock_master_dialog.csb
+SHA1-Digest: BTH9fX3voofOYAVxzbDi7ZQSLLY=
+
+Name: assets/res/UI/UIOpenning/Node_opening_hexagon.csb
+SHA1-Digest: Hf1U1uiapW7P38cRzEstNfqJfrg=
+
+Name: res/drawable-tvdpi-v4/common_plus_signin_btn_text_light_focused.
+ 9.png
+SHA1-Digest: PD6LFbYDHkwrXUCeFX8KBjf6IpI=
+
+Name: assets/res/UI/UIOpenning/Node_line_1.csb
+SHA1-Digest: c1PHQepZwl0Fe+F59P4uVcs4/9I=
+
+Name: res/drawable-xhdpi-v4/common_plus_signin_btn_text_light_normal.9
+ .png
+SHA1-Digest: yuZeAfGsUi4cP2+smTcmgw37FsQ=
+
+Name: assets/res/UI/UIParticle/xmas_snow_particle_ddd4.plist
+SHA1-Digest: oq7UL/NoWU3PrYIlmv9zxSkpsAo=
+
+Name: assets/res/DB/task.csv
+SHA1-Digest: Ti7ZynSi8bPOqnzAT5ELf6RcXf8=
+
+Name: assets/res/UI/ActivityMap/UITower/BattleInfo_Content_xmas_challe
+ nge.csb
+SHA1-Digest: V3N6N7C1VRhex9J4VLSw4M8H2MU=
+
+Name: assets/res/music/bass/#g1.mp3
+SHA1-Digest: dH7abul6P0/tt0ANTP/cqVw+eic=
+
+Name: assets/res/UI/Xmas/Node_tree_xmas_oldman_2.csb
+SHA1-Digest: WAHV2pPhYhtmWTfF2IHwQaauPOI=
+
+Name: assets/res/UI/UIAlbum/33/card_33.png
+SHA1-Digest: /hbWspePkKixFB/Vgow0sTMj/lc=
+
+Name: assets/res/UI/UIHome/Node_card_game_2.csb
+SHA1-Digest: eTt0WtZvjNUKHiy5B3SIybN14RM=
+
+Name: res/drawable-xxhdpi-v4/star_empty.png
+SHA1-Digest: Dxs8hjEVDH5txnFLWHqno4LcnSs=
+
+Name: assets/res/UI/UIResult/Node_share_crown.csb
+SHA1-Digest: hh/TU+JT2Xje/IUjh6G0jGjJtPg=
+
+Name: res/drawable-xhdpi-v4/vast_fullview_close.png
+SHA1-Digest: hVwjSrTbl17JtinrliOS+VRd0mc=
+
+Name: assets/res/music/bass2/e.mp3
+SHA1-Digest: 0NLo5KDFvHwXYw+8/ezkhyBxx2k=
+
+Name: assets/res/UI/UIHome/icon_week_activity.png
+SHA1-Digest: oLf0zVlelj3oz+c3ljYY0lzT7Ig=
+
+Name: assets/res/UI/UIPlist/particle_levelupred_l.plist
+SHA1-Digest: piO1RL/uZECLEjq9TxKxXWZxNgY=
+
+Name: res/layout/message_tag_network_viewflip_layout.xml
+SHA1-Digest: YUV9rnYtjn2LTtCILC/pBHtQF8Q=
+
+Name: assets/res/phonecfg.json
+SHA1-Digest: 9s7zomBSBPlDj2Xn3W9AHipD7gQ=
+
+Name: res/drawable-mdpi-v4/common_google_signin_btn_text_light_normal.
+ 9.png
+SHA1-Digest: 62jHkBhV7jXriKj/W/yJiLfJyV8=
+
+Name: assets/res/music/bass2/#G-1.mp3
+SHA1-Digest: oHREfze6gftBLPtxVKqWZ+6nTw0=
+
+Name: assets/res/song/HongKong1.json
+SHA1-Digest: EKh+uv71iWe++N0v6OFP83hcudY=
+
+Name: res/drawable/brand_vc_button_bg.xml
+SHA1-Digest: i7tc0vP8wL8gIvoR8kXykrEgxPM=
+
+Name: res/drawable-mdpi-v4/common_ic_googleplayservices.png
+SHA1-Digest: xKh3ID1tcLrqNRzVef7Gz0l8Z3k=
+
+Name: assets/res/UI/UIPause/Node_btn_get.csb
+SHA1-Digest: 0RYrpJgLERQuyfOmO319KxxKS/c=
+
+Name: assets/res/UI/UIPlist/Plist_particle_bgani.plist
+SHA1-Digest: zW1Kv/a6AwlNckPcVyvCfveeInE=
+
+Name: assets/res/UI/UIPlist/Plist_battle_result2.plist
+SHA1-Digest: 2kl7ZK5aj8Tivc+P04p0CAx8MvM=
+
+Name: assets/res/UI/UIPlist/particle_unlock_green.plist
+SHA1-Digest: d9M40mFVysYfRaH0BsyRClKO9Sw=
+
+Name: assets/res/UI/UIHome/newEpoch/newEpoch_hq_neterror.csb
+SHA1-Digest: bBwUcEpSBH1ZIV3iNnmFZODAOYA=
+
+Name: assets/res/UI/UIBattleMaster/size_position.csb
+SHA1-Digest: sEHUEzZJmTv5R2zo92otbYGTNdE=
+
+Name: assets/res/UI/UIResult/hall_pass_youbeat.csb
+SHA1-Digest: f17KyuUldRpE5QksNpgEP8d5E6M=
+
+Name: res/drawable/mobvista_cm_exits.xml
+SHA1-Digest: 0z9T65ojbbo8QaJ/lMbtbR81Xms=
+
+Name: assets/res/gameImage/img_baolie_bo.png
+SHA1-Digest: M+Gvi76prSah+AVFO7CIGctGj8U=
+
+Name: assets/res/UI/UIHome/Item/Layer_setting.csb
+SHA1-Digest: u75rWGoJIFKrhWCsNug2AbXUr9Q=
+
+Name: assets/res/UI/Xmas/imag_tree_xmas_snow2.png
+SHA1-Digest: NV2OjaGMwi2G1rL6WTGJJX9qHLk=
+
+Name: res/drawable-hdpi-v4/common_plus_signin_btn_text_dark_focused.9.
+ png
+SHA1-Digest: RVa9IkEjxUeHHKOcVDTkEjM/VYY=
+
+Name: assets/res/UI/UIPlist/particle_life.png
+SHA1-Digest: zdvAW0cJm3QTD9mrCyvN5r+VkH0=
+
+Name: assets/res/UI/UIStore/dialog_shop_energy.csb
+SHA1-Digest: U2/VtEpF/Ja8rIo+VA5kS5nItBM=
+
+Name: assets/res/song/Lambada.json
+SHA1-Digest: KlIg8LBUTtP9Qb6rRlMfIA6jcNE=
+
+Name: assets/res/UI/UIBgEffect/base/light_5.png
+SHA1-Digest: BQ3j2W7ajSSOKwEYAf9yIMpfzU8=
+
+Name: assets/res/UI/UIPause/dialog_continue_twobtn.csb
+SHA1-Digest: ZyT3qgjJENpQyU2ProGNcDEb47E=
+
+Name: assets/res/gameImage/sprite_blur.fsh
+SHA1-Digest: LElmqR86Znx5jw56Hk01aPhD4ZU=
+
+Name: assets/res/UI/UIHome/dialog_wechat_share_redpacket.csb
+SHA1-Digest: DhSaAdDiSmcv1QNVSviUSzLD3NQ=
+
+Name: res/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal.
+ 9.png
+SHA1-Digest: pcfLWB2i3LHPCG6bzpaMRe4X7YE=
+
+Name: res/layout/com_cmplay_message_tag_loading_view.xml
+SHA1-Digest: +rTeXaOWYq7I3yT5Y5bnZdXWr74=
+
+Name: assets/res/UI/UIAlbum/32/card_bg_s_32.png
+SHA1-Digest: DDv4cdwvvAiWHI8ccYjMZLwNTrs=
+
+Name: assets/res/UI/UIBattleMaster/Node_egg.csb
+SHA1-Digest: 7k6tfx70q9Mu0ewKy226P7gotHY=
+
+Name: assets/res/UI/Xmas/Node_tree_xmas_box_animation3.csb
+SHA1-Digest: PcvxG5GWSKvuLXW3WVqSUE4ZRbg=
+
+Name: assets/res/UI/UIHome/Item/Node_fb_login_setting_diamond.csb
+SHA1-Digest: mAVTiELp4Pr0fA0+khPXdrU/De0=
+
+Name: assets/res/UI/UIAlbum/2/card_bg_s_2.png
+SHA1-Digest: 6im5vhtiLyCo5QMGkWP2OBaRAzw=
+
+Name: assets/res/UI/UIHome/card_locked_video.csb
+SHA1-Digest: KclQmqYk9s9guLmkq0vWQmy9SdM=
+
+Name: res/layout/activity_open_screen.xml
+SHA1-Digest: TciH6mpOG8izb/kk9kZq6l4wx7o=
+
+Name: assets/res/UI/UIPlist/particle_life.plist
+SHA1-Digest: CTBjvmI6DoBnpXIGK95R9RlCHhA=
+
+Name: res/drawable-xhdpi-v4/convert_code_bg.9.png
+SHA1-Digest: l7f5V3U/X39XypiBxlhAVw4z+Fk=
+
+Name: assets/cmlogo.png
+SHA1-Digest: 5MT8HNLYJSckaYUijCjyn70eTO0=
+
+Name: assets/res/DB/RecommendSongs.csv
+SHA1-Digest: YEc7PCoWRrCRot3gzwNU1yLrtYY=
+
+Name: res/drawable/rectangle.xml
+SHA1-Digest: CLD1nZTEILBzeElym8b1QTiEBAU=
+
+Name: res/drawable-mdpi-v4/common_plus_signin_btn_text_light_pressed.9
+ .png
+SHA1-Digest: S7BGmC/x4n0JqE/psPHV9r6tWaU=
+
+Name: assets/res/UI/UIAlbum/21/Node_card_special_21.csb
+SHA1-Digest: aqNZG97JYgkKkDl9npCWusmXkQQ=
+
+Name: res/drawable-xhdpi-v4/com_cmplay_message_tag_bule_loading.png
+SHA1-Digest: n0yGim8/2cj+Q7CNHZBrBaqSPnM=
+
+Name: assets/res/UI/UIResult/Node_ani_gift.csb
+SHA1-Digest: 80u+LQdDLDvZDhRySReoy0/BPJA=
+
+Name: assets/res/UI/UIParticle/xmas_snow_particle_b2.3.plist
+SHA1-Digest: DYDv6l2X6kGert7VEoGif9+JQJY=
+
+Name: assets/res/UI/UIAlbum/21/card_bg_s_21.png
+SHA1-Digest: onxISPT2Ecvr1jSDBNv9BQ+GECA=
+
+Name: assets/res/UI/UIHome/CardImage/4.png
+SHA1-Digest: qMVRFXqoX3oc7SZb5e2EVVv55S0=
+
+Name: assets/res/UI/UIPlist/Plist_content.png
+SHA1-Digest: eKJTm+5jCRZiDra7tho5e5vWtj4=
+
+Name: assets/res/music/piano/e4.mp3
+SHA1-Digest: 5DKUD7vrkMj0lsMXilqliDmbQ+I=
+
+Name: res/drawable-hdpi-v4/common_plus_signin_btn_icon_light_disabled.
+ 9.png
+SHA1-Digest: z93nQbTcdJzSklS7iGUuhDeIHOo=
+
+Name: res/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_normal.
+ 9.png
+SHA1-Digest: Hb6MgqhWpoOmdUTygaGRcKTLi3c=
+
+Name: assets/res/UI/UIPlist/bg_vip_share.png
+SHA1-Digest: TMLnaBYa7cfog+s+s1uS1K44BeI=
+
+Name: res/drawable/cmad_btn_calltoaction_bg.xml
+SHA1-Digest: 3XqXzmI/uRLWBzhtv6X1caHywpg=
+
+Name: assets/res/music/piano/C-1.mp3
+SHA1-Digest: kQ7IkiYes98sWSGM8Rhg4VYp7qk=
+
+Name: assets/res/UI/UIResult/Node_share_contents_play.csb
+SHA1-Digest: xjmtjlEJUg+MuXboIcIhQNt8WJA=
+
+Name: res/layout/messenger_button_send_blue_large.xml
+SHA1-Digest: v/iP3RFlFuaECv1Q/BrzTt0ElwA=
+
+Name: res/drawable-xhdpi-v4/share_bottom_bg.9.png
+SHA1-Digest: PDruq7CFzKG5kUBM1RvSVP5pppY=
+
+Name: assets/cmlogo1.png
+SHA1-Digest: 5MT8HNLYJSckaYUijCjyn70eTO0=
+
+Name: assets/res/UI/UIOpenning/musician5.png
+SHA1-Digest: OxPmkNyBxpP5g2zb8l6mcFALBc0=
+
+Name: assets/res/UI/UIHome/Node_leaderboard_top.csb
+SHA1-Digest: f1MlCOO8Q1qjh5yarNovJFWfPiY=
+
+Name: res/drawable-xhdpi-v4/app_thumb.png
+SHA1-Digest: gPOG3J+YDEzxSivBpUoEOYXz9qo=
+
+Name: res/drawable/com_cmplay_tag_tips_bg.xml
+SHA1-Digest: RKlNOe3ZB1gXb9EbRevEnHJPKeo=
+
+Name: assets/res/UI/UIPlist/message_tag_close_button.png
+SHA1-Digest: kXhIdmgyIZk/UnGcoEE+/kEodfw=
+
+Name: assets/res/UI/UIAlbum/32/Node_card_special_32.csb
+SHA1-Digest: w+jeCqDu8EH1aIL30c1bsCunjq8=
+
+Name: assets/res/UI/UIHome/newEpoch/Node_band_fail.csb
+SHA1-Digest: 6AkqtuC4YR6eaoOs1aP+LtRcmKc=
+
+Name: assets/res/UI/UIParticle/xmas_snow_particle_c2.3.plist
+SHA1-Digest: qhbHMwpm7/1i2Ar0Kfk4mfAJsSc=
+
+Name: res/drawable-xxhdpi-v4/common_plus_signin_btn_text_light_disable
+ d.9.png
+SHA1-Digest: vNxXOzwznLbYLSfXG3WlM/0KYJA=
+
+Name: assets/res/UI/UIPlist/particle_coin.plist
+SHA1-Digest: MWIDV6dbybz/r1NKKzRHBh3oM9w=
+
+Name: res/drawable-mdpi-v4/common_plus_signin_btn_icon_light_normal.9.
+ png
+SHA1-Digest: cUP3wfTBOm2iRPm68ZpVEWwViyM=
+
+Name: assets/res/UI/UIAlbum/0/card_00.png
+SHA1-Digest: P9KQX73xXTj1JU9qCr6sB5njHWg=
+
+Name: assets/res/song/Passion.json
+SHA1-Digest: W7T/nGqq9YHcxAliQKzGojL21/s=
+
+Name: res/drawable/com_facebook_send_button_icon.xml
+SHA1-Digest: BHr9Bw12AExrvcTKpDr0wRwnXO4=
+
+Name: assets/res/Audio/CDFragment.mp3
+SHA1-Digest: DFfDlPQrOpaiA26V4QXDDlagJwU=
+
+Name: res/drawable-xhdpi-v4/gamebox_tag_gamebox_dialog_title_icon.png
+SHA1-Digest: QOW42m/KOVT4R77LZNLmbu+r8Rg=
+
+Name: assets/res/UI/UIAlbum/18/Node_card_special_18.csb
+SHA1-Digest: XpDRfhy6M16qPZ0KjzMgzgIXMU0=
+
+Name: assets/res/UI/UIHome/Node_setting_gp_content.csb
+SHA1-Digest: AAzX31ztFbtwC7qqQJTSSlTml5M=
+
+Name: assets/res/UI/UIOpenning/opening_cd7.png
+SHA1-Digest: OcqiPbQRnQ2WH0TVhCjnqsTO4LI=
+
+Name: assets/res/UI/UIHome/card_package_newbie.csb
+SHA1-Digest: uPjm2G6Dzl9+U2Xv2pJ1oWoif2M=
+
+Name: assets/res/music/bass/#d.mp3
+SHA1-Digest: Bd8hBIh7kTn2uz/ezx5h2K7sGAM=
+
+Name: assets/res/UI/UIHome/card_firstpay.csb
+SHA1-Digest: 1h5kIw+W0WxaidODd7P4rZO9IHM=
+
+Name: assets/res/UI/UIHome/card_hall_home.csb
+SHA1-Digest: Rqbu1XRidx5EcQRJYEOYWBGFVzw=
+
+Name: assets/res/UI/UIResult/Ly_rank_singlesong.csb
+SHA1-Digest: IHDW0mOpBKy6MdO63PDKjkW33Xg=
+
+Name: res/drawable-xhdpi-v4/com_facebook_tooltip_black_background.9.pn
+ g
+SHA1-Digest: 2xgU0++/KN5qhzcL/Lhz8p8cTNU=
+
+Name: assets/res/UI/UIAlbum/14/Node_card_special_14.csb
+SHA1-Digest: SPgdo+BXANX4cS3zYdlNf++sn/s=
+
+Name: res/drawable-tvdpi-v4/common_plus_signin_btn_text_light_normal.9
+ .png
+SHA1-Digest: sZqby4MusXZehKQm40YSWVA9Q64=
+
+Name: assets/res/UI/UIPlist/particle_levelup.png
+SHA1-Digest: zdvAW0cJm3QTD9mrCyvN5r+VkH0=
+
+Name: resources.arsc
+SHA1-Digest: LSisbkxwfVN5DaV/kJvCV845X1E=
+
+Name: res/layout/messenger_button_send_blue_round.xml
+SHA1-Digest: vG3q0bp65QaFGPTOWz4FgFQkY3A=
+
+Name: res/drawable-xhdpi-v4/btn_closed.png
+SHA1-Digest: YEcds6g4TWjBDAsnoPyRSC3Ilhg=
+
+Name: assets/res/UI/UIHome/card_quest.csb
+SHA1-Digest: KJsGaiVztyUKAY0r+vQh2c6muy8=
+
+Name: res/drawable-hdpi-v4/common_plus_signin_btn_icon_light_normal.9.
+ png
+SHA1-Digest: KbDsyz4UoY+5XwKMkvp4WzJXLvs=
+
+Name: assets/res/UI/UIOpenning/songName3.png
+SHA1-Digest: lfEP6e+00vscUofQUMoTnsArAj8=
+
+Name: res/drawable-tvdpi-v4/common_google_signin_btn_text_dark_disable
+ d.9.png
+SHA1-Digest: g7vlOkIy7bifcSi/ufPpklDNnnI=
+
+Name: res/drawable-xhdpi-v4/messenger_button_send_round_shadow.png
+SHA1-Digest: r0u4BhqVNe8V6W+H0cl+XxzE48k=
+
+Name: assets/res/UI/UIOpenning/opening_cd5.png
+SHA1-Digest: YTmebZZMqRJFELF79WCcFsl7tEE=
+
+Name: res/drawable-xhdpi-v4/reminder_bg.9.png
+SHA1-Digest: pTWkSmIxuASnjgJ+9dfQrwuLtHk=
+
+Name: assets/res/UI/UIPlist/message_tag_all_bg.9.png
+SHA1-Digest: JAgaRgG9sukepHx4qngDfeDxj6A=
+
+Name: assets/res/DB/banner.csv
+SHA1-Digest: rJcxiLWvECJoSCbHbFr8eRGe4jw=
+
+Name: assets/res/UI/Xmas/Node_tree_xmas_light_2.csb
+SHA1-Digest: aIa5KIjnDIUj3REEVDyK7KXmTsM=
+
+Name: assets/res/UI/UIOpenning/whitemask.png
+SHA1-Digest: wIZLRAQdfOYTq7RaeoCQkRCDHN0=
+
+Name: assets/res/UI/UIHome/aniHallNode.csb
+SHA1-Digest: f8ZKgeRlpyyUgNqfK/eqikY6GEs=
+
+Name: res/drawable-mdpi-v4/common_plus_signin_btn_icon_dark_disabled.9
+ .png
+SHA1-Digest: 8V1R7TgGYVuEAY/mXhp/b1ASyQw=
+
+Name: assets/res/UI/UIPlist/Plist_share2.plist
+SHA1-Digest: DMHR4EIcItX6ooYlBURRn2Q5m9Q=
+
+Name: res/drawable/cm_vast_close_incentive.png
+SHA1-Digest: xzb0QyHBM7Jvfi7GMzBUpMSblxY=
+
+Name: assets/res/UI/UIHome/card_video.csb
+SHA1-Digest: wCBUGLN5giHE6jskujo2iNJFA2s=
+
+Name: res/drawable-xhdpi-v4/notification_icon.png
+SHA1-Digest: afK/BEoiZFL6F23n+yxslSVQlCg=
+
+Name: assets/res/UI/UIBattleMaster/bonus_time.csb
+SHA1-Digest: wKn3lH6D9iK+gg4obFl6IARqB30=
+
+Name: assets/res/UI/UIHoliday/Node_chest_open_xmas.csb
+SHA1-Digest: hpnBWiyGVCAJwlJFJ5bnu15WABo=
+
+Name: assets/res/UI/UIPlist/Plist_temporary.png
+SHA1-Digest: ckRcZMJV9ZMjFCXfK+N9TDN/qnQ=
+
+Name: assets/res/UI/UIHome/HomePage.csb
+SHA1-Digest: 5K82yVU5J5Xvc+bGtby9v96If4I=
+
+Name: res/drawable-xhdpi-v4/duapps_ad_offer_wall_item_ad_righ_badge.pn
+ g
+SHA1-Digest: GNS2eNBXfmHBKTHbIhSllXIMF+s=
+
+Name: assets/res/song/Melody Of The Night No.1.json
+SHA1-Digest: Z5pWw3HCq4EQxNaDwlO3i0U0KWk=
+
+Name: assets/res/UI/UIAlbum/27/card_27.png
+SHA1-Digest: +vpNexQZnyMEOqp63nWO2KwqefI=
+
+Name: assets/res/UI/UIHome/Node_hall_master_reward_tier.csb
+SHA1-Digest: UANoivp0Ev+ufyP7cPPAYbeefvk=
+
+Name: assets/res/UI/UIAlbum/29/Node_card_special_29.csb
+SHA1-Digest: Yode1aOYDhXr9i5MESUVx6XCedc=
+
+Name: res/drawable-xhdpi-v4/go_star_5.png
+SHA1-Digest: MdmV/ePX7yBviCwqZdb+Cf+/N/Y=
+
+Name: assets/res/song/Katy Katy.json
+SHA1-Digest: zaZVDed7qusOgDGXO+w8vLNOMPc=
+
+Name: assets/res/UI/UIBattleMaster/crown.png
+SHA1-Digest: UcvXllKgppTLPs6myvGWhzL8Dzk=
+
+Name: assets/res/UI/UIHoliday/easteregg/Node_ani_easteregg.csb
+SHA1-Digest: vo6KfQPt7LrwSQqNqGO/fCsUix4=
+
+Name: assets/res/music/bass/#d1.mp3
+SHA1-Digest: GYJIb8k1FbsCjYTcg6Upd/IqRRk=
+
+Name: res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_presse
+ d.9.png
+SHA1-Digest: KGZqA8v1blu83UKCPQIpVppD77g=
+
+Name: assets/res/UI/UIOpenning/opening_cd4.png
+SHA1-Digest: Ub55rSPwRptUXQZI/rC0XuegHTs=
+
+Name: assets/res/UI/UIParticle/snowbig.plist
+SHA1-Digest: gH1yKh52AGFacKhMDcGD3FnqFg4=
+
+Name: assets/res/UI/UIHome/CardImage/11.png
+SHA1-Digest: ta0dd65xWNehcksFDvECyBo/yJg=
+
+Name: assets/res/music/bass/B-1.mp3
+SHA1-Digest: F2kO+w2xy8J63L8LhNUwTb+cgec=
+
+Name: assets/res/UI/ActivityMap/UITower/particle_levelupgreen_l.plist
+SHA1-Digest: KC4XLSxysWHHaSu0s7i1rGJrqxs=
+
+Name: assets/res/UI/UIOpenning/Layer_littlestar_movie.csb
+SHA1-Digest: a0PzKMqPAq+h5sdo/E/8Lxm3ZSc=
+
+Name: assets/res/UI/UIResult/star_2.csb
+SHA1-Digest: 6iZD2DGUKdpo1Hj8EKqctCKt6Vk=
+
+Name: assets/res/UI/UIResult/rankloading.csb
+SHA1-Digest: Vlj96SdvaM+KolWG0oGhW7160g8=
+
+Name: assets/res/music/piano/a2.mp3
+SHA1-Digest: 2W5EFIMo4cf4+N1axYBNL/47W3c=
+
+Name: res/drawable-xxhdpi-v4/common_plus_signin_btn_icon_dark_pressed.
+ 9.png
+SHA1-Digest: wS37sQ1iqwlX3I1H0gfiVZZzEFE=
+
+Name: assets/res/UI/UIHome/homepageNode.csb
+SHA1-Digest: 71YkXn38HlS96vPtg8+WnWABKwQ=
+
+Name: assets/res/music/drum/a.mp3
+SHA1-Digest: N9Qa9o9lFERjjzy4kDzrPFFVJ7A=
+
+Name: res/drawable/common_rating_bar_selector.xml
+SHA1-Digest: oQfrQAdRHiX9U66Cfw+XdouM9SI=
+
+Name: assets/res/UI/UIAlbum/16/card_bg_s_16.png
+SHA1-Digest: AFjOwKVuttCsYpR4I/hV504zECw=
+
+Name: res/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_presse
+ d.9.png
+SHA1-Digest: eKq/DqDx4HHKIqyqalzgBgMY2ww=
+
+Name: assets/res/UI/UIHoliday/share_icon_xmas.csb
+SHA1-Digest: nTgqYKevw47Q1MJVAzExV4ybjeg=
+
+Name: assets/res/UI/UIHome/puzzle_3.png
+SHA1-Digest: XUk8udGCfwYYEg9nxRMXf+XmkQg=
+
+Name: res/drawable-xhdpi-v4/vast_fullview_close_incentive.png
+SHA1-Digest: hVwjSrTbl17JtinrliOS+VRd0mc=
+
+Name: res/drawable-xhdpi-v4/com_facebook_favicon_white.png
+SHA1-Digest: FPdldS5hK8tUVlBi+fFZqBuqxw0=
+
+Name: assets/res/UI/UIStore/dialog_shop_diamond.csb
+SHA1-Digest: iUiPuL7t0rAMX6OWagu4jR0UTpY=
+
+Name: res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal.9
+ .png
+SHA1-Digest: b9G5LhyMfLbYSUqr6XnKfPsGw70=
+
+Name: res/drawable/com_facebook_button_send_background.xml
+SHA1-Digest: hhr2TR+lw5EDCSL5mbOTd2z5Oiw=
+
+Name: res/drawable/blue_btn_bg.xml
+SHA1-Digest: wuPnFJzK3yr88Fg0S6iO5zOkp4Q=
+
+Name: assets/res/UI/UIPlist/Plist_particle_bgani.png
+SHA1-Digest: 8PBAeedRD7bsxBHRsPDUgNcFg64=
+
+Name: assets/res/UI/UIHome/mask_btn_collect.png
+SHA1-Digest: gDo4tMZzkZciVdE4QuAryiVGcV8=
+
+Name: assets/res/UI/UIHome/puzzle_4.png
+SHA1-Digest: qwASUN91n/4KahXCZqjSRA58cVs=
+
+Name: res/drawable-tvdpi-v4/common_google_signin_btn_text_light_focuse
+ d.9.png
+SHA1-Digest: Mov7e4t+igz68pMs9Fp8jW0ElF4=
+
+Name: assets/res/Audio/TwoCrown.mp3
+SHA1-Digest: e9zDyzWSDkPvdjnb0OYpwnHMW3A=
+
+Name: assets/res/music/piano/g.mp3
+SHA1-Digest: C3Y4nOqR7GLpqJKUWdFQ5ZTIwm4=
+
+Name: assets/res/song/Despacito.json
+SHA1-Digest: xFtFIR22qGY6yaqO1jkRi43BNck=
+
+Name: assets/res/UI/UIAlbum/16/Node_card_special_16.csb
+SHA1-Digest: gnJGm7zfz55MOo1rbbiggAihLXw=
+
+Name: assets/res/UI/UIHome/puzzle_line_3.png
+SHA1-Digest: Semj5tKiYpmmyMXyKzB9lpJs+O4=
+
+Name: res/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_disable
+ d.9.png
+SHA1-Digest: 8RhCMjluPXRIovky5gX1EUZxhuk=
+
+Name: assets/res/UI/UIAlbum/9/card_bg_s_9.png
+SHA1-Digest: E3FS5tWgYzSn44xqcaE/6EajDQ0=
+
+Name: assets/res/UI/UIParticle/heart1.png
+SHA1-Digest: 6PbDcnBfjWKMlC5esb959F06GjM=
+
+Name: assets/res/music/bass/a.mp3
+SHA1-Digest: O4cnCj2BFoY/1K3SSOM5CU6nDsk=
+
+Name: assets/res/UI/UIHome/Node_card_week_tips.csb
+SHA1-Digest: 0oXFMTcWivD5929oi4xMbNsrZV4=
+
+Name: assets/res/UI/UIBattleMaster/BattleInfo.csb
+SHA1-Digest: Z7C/n/k6CL3sExH2+GjcjBjy/x0=
+
+Name: assets/res/music/bass/#a1.mp3
+SHA1-Digest: DIP997FNnmg6gjeImCpxfWmdrFM=
+
+Name: assets/res/UI/CDCollection/bg_cd_mask.png
+SHA1-Digest: MC/T2G1PairC43Jal+/hzVPp/g0=
+
+Name: assets/res/DB/reddot.csv
+SHA1-Digest: IcIg/Ppxya94+7EPXjHi+hwa43Q=
+
+Name: assets/res/UI/UIHoliday/Node_homepage_fb_login_xmas.csb
+SHA1-Digest: QKHiElzA2V4kXqXpz0lt/EPSnf4=
+
+Name: assets/res/music/piano/c.mp3
+SHA1-Digest: clQJLtR0239qBILUzbr+Q+17v5I=
+
+Name: assets/res/UI/UIStore/dialog_sharesuccess.csb
+SHA1-Digest: lXyF3BR9vnSGyJUfEDWh4jy3csE=
+
+Name: assets/res/UI/UITransition/bg_transition.png
+SHA1-Digest: HIku/rm9gtSmKiXUHepkEsNSRco=
+
+Name: res/drawable-mdpi-v4/common_google_signin_btn_text_light_disable
+ d.9.png
+SHA1-Digest: OA0Fce69H4xvHHf2U1Bxe3VntiA=
+
+Name: res/drawable/com_facebook_button_icon.xml
+SHA1-Digest: d1pHja7nRU8U4hogwdfZfYBWf6A=
+
+Name: res/drawable-xhdpi-v4/crop__ic_cancel.png
+SHA1-Digest: jTElQBLz1JnUDLlYUNcJZ5AJ+AE=
+
+Name: assets/res/UI/UIHome/Item/Node_particle.csb
+SHA1-Digest: 15jCw5L69U8PUsf2/C9/ygJDPpQ=
+
+Name: assets/res/UI/Xmas/snow_tree_normal.png
+SHA1-Digest: 05nXUmIAzIh1M3qAm3h1Z39EAcE=
+
+Name: assets/res/UI/UIAlbum/30/card_bg_s_30.png
+SHA1-Digest: /LFIn4HjNYQeZ7nm3UdthLXW7ec=
+
+Name: assets/res/UI/UIHome/Node_levelup_dialog_home.csb
+SHA1-Digest: j8y0MtWT+lPcnSlk+RyPZFUe1Us=
+
+Name: assets/res/UI/Xmas/bg_tree_xmas_bg.png
+SHA1-Digest: hhmhISagz4es6/4vkSQT+Ku9Ofw=
+
+Name: assets/res/UI/UIHoliday/Node_xmas_cd.csb
+SHA1-Digest: seZwWALwod8W5soJVMxJhou/W7o=
+
+Name: assets/res/UI/UIHoliday/easteregg/Node_ani_easteregg_coinnumber.
+ csb
+SHA1-Digest: Gcpi31dYKSH7Lpt1gz2qkg9Blns=
+
+Name: assets/res/music/piano/f2.mp3
+SHA1-Digest: WE63MCLzoNgfINQZciXwU1NG3s4=
+
+Name: assets/res/UI/UIBattleMaster/Node_coinnumber.csb
+SHA1-Digest: +v/z2QMFfxWcxsWu/KmYYCbXcfc=
+
+Name: assets/res/UI/UIBattleMaster/chest_music.png
+SHA1-Digest: Si+Pg9za382TMWImPvSpGCw+7Ak=
+
+Name: res/drawable-xhdpi-v4/com_facebook_tooltip_blue_topnub.png
+SHA1-Digest: 7/j362bEm4wbP5BpE/+5SZkb1pc=
+
+Name: res/drawable-hdpi-v4/mobvista_cm_progress.png
+SHA1-Digest: XsccDd57AyhmfrC0VtZtFGWIx2s=
+
+Name: assets/res/UI/UIOpenning/songName4.png
+SHA1-Digest: PLEu1NxxMNBadvNe2wO9vgckHuo=
+
+Name: res/drawable-hdpi-v4/common_plus_signin_btn_text_dark_disabled.9
+ .png
+SHA1-Digest: IBv9V0zAVm/zCmY4uH0ewXdE7Wg=
+
+Name: assets/res/UI/UIResult/Node_result_button_diamond.csb
+SHA1-Digest: zZtam3eBJM5HGSVyMpFaQ598sxQ=
+
+Name: res/drawable-xhdpi-v4/download_arrow.png
+SHA1-Digest: s8PFpzXO7kqIp3ucoHe90mmJQSs=
+
+Name: assets/res/UI/UIHome/loading.png
+SHA1-Digest: KkeGffXTgCrOZrboBSHmtq7MqSE=
+
+Name: assets/res/music/bass/f1.mp3
+SHA1-Digest: YJGcuRSvFUHU0Ez8C4GXcXopEhQ=
+
+Name: assets/res/Animation/crazy_circle.csb
+SHA1-Digest: OdjwuG4+fWznrOWHySg+lHh1g5s=
+
+Name: assets/res/UI/Xmas/Node_tree_xmas_dialog_box_open.csb
+SHA1-Digest: LGoAwuCzM2VIQb03Spydh5ehpc0=
+
+Name: assets/res/music/bass2/F-1.mp3
+SHA1-Digest: 5rlqGn5zmszXdXhfrk0OatSeWIc=
+
+Name: assets/res/UI/Xmas/Node_tree_xmas_enter.csb
+SHA1-Digest: OH7mnrDwYfBb2zJSdYo+bhIXfBs=
+
+Name: assets/res/UI/UIAlbum/10/Node_card_special_10.csb
+SHA1-Digest: 1ZuGuvGDQp3vQ3LiH/I3lN4OUWo=
+
+Name: assets/res/UI/UIHome/UIMusicLayer.csb
+SHA1-Digest: 2hVvHwMHgybiuL6SfptxpgLj88g=
+
+Name: assets/res/UI/UIAlbum/15/card_15.png
+SHA1-Digest: F7CDxyGlKb7kY9lBFJY0sVlSHk0=
+
+Name: res/drawable-mdpi-v4/common_google_signin_btn_icon_light_pressed
+ .9.png
+SHA1-Digest: fPmD5X73y/qXCvJ2Cqvt4E3OU6w=
+
+Name: res/layout/duapps_ad_offer_wall_apps_layout.xml
+SHA1-Digest: BxKAavF55XFEkKc3Q1rOU0luspI=
+
+Name: assets/res/gameImage/tile_white.png
+SHA1-Digest: wmhY4uleqVaddIcdKpNXz7IdP48=
+
+Name: assets/res/UI/UIResult/Node_puzzle_collect_cd_animation.csb
+SHA1-Digest: TrQpU7TTr1In6hsHvIfy5MmSCLM=
+
+Name: res/drawable-xxhdpi-v4/common_plus_signin_btn_icon_light_pressed
+ .9.png
+SHA1-Digest: ZMtmrzjlmaCBpNosky35qEt53Qg=
+
+Name: assets/res/UI/UIHome/Item/Node_rate.csb
+SHA1-Digest: Bh1Zz/ed5+XDwdneg3F77H2hUbY=
+
+Name: assets/res/UI/UIResult/Ly_rank_total_rankup.csb
+SHA1-Digest: sg3BxVli/C6922T/eLN5llydKa4=
+
+Name: assets/res/UI/UIHome/Ly_rank_total.csb
+SHA1-Digest: rhId7U+FPvBAdLNibiRB0wbaEGE=
+
+Name: res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_disabled
+ .9.png
+SHA1-Digest: XDsh/LanVTEuOq61G/pr8afDNcQ=
+
+Name: assets/res/UI/UIHome/Item/Node_invite.csb
+SHA1-Digest: zcQr2VIBBCpKWiUbmTwMA2dKDoY=
+
+Name: res/drawable-mdpi-v4/common_plus_signin_btn_text_light_disabled.
+ 9.png
+SHA1-Digest: WGcnpc6vFQVhtpH6x9CkYH9aOkk=
+
+Name: assets/res/UI/UIOpenning/Futura condensed.ttf
+SHA1-Digest: HoDM+Tvsiq3GijoonB12hGRI6co=
+
+Name: assets/res/UI/UIHoliday/Node_snow.csb
+SHA1-Digest: HHw7+XRwU/rzXpRbk+W5sYT1A0k=
+
+Name: res/drawable-xxhdpi-v4/common_plus_signin_btn_text_dark_pressed.
+ 9.png
+SHA1-Digest: Db3E0/I85K9Aik2yJ4X1dDP3Wq0=
+
+Name: assets/res/UI/UIPlist/Plist_content3.plist
+SHA1-Digest: pX1/xR5v0nS7DnOGGVbVMkrB2+M=
+
+Name: assets/res/UI/UIPlist/message_tag_card_background.9.png
+SHA1-Digest: /9CxlikpzRrI5jYxEThHJhTwNH0=
+
+Name: lib/armeabi-v7a/libcocos2dcpp.so
+SHA1-Digest: 8GAvt2ZEIZqJSOKpbOBiwH5R6o0=
+
+Name: res/layout/orion_activity_brand_incentive_video.xml
+SHA1-Digest: mtl6aCvonuaIvFXYw4Tujljfu/E=
+
+Name: res/drawable-xhdpi-v4/share_icon_twitter_normal.png
+SHA1-Digest: TLKXzH88CTJ7ndgg4hTZYS/pJFk=
+
+Name: assets/res/song/Autumn.json
+SHA1-Digest: t8pkEoLGwUCa/8J1lBr6qU3nWrw=
+
+Name: assets/res/UI/UIHome/bg_bottom_sale.png
+SHA1-Digest: kTFV91ef2RRroPlIPSjXBYaQiSM=
+
+Name: assets/res/music/bass/#c2.mp3
+SHA1-Digest: kIp4KWMdtSV51F1Ff/6+RU5PdE8=
+
+Name: assets/res/UI/UIResult/Node_share_star.csb
+SHA1-Digest: bFMy0BhDB/vCdJB2xVJP46oaeqY=
+
+Name: assets/res/UI/UIOpenning/opening_commonplaybg2.png
+SHA1-Digest: 8ejiqhB6RCJw1Pacui24dHrLLNU=
+
+Name: assets/res/DB/AchieveMent.csv
+SHA1-Digest: YvdkqSXkEo0Az19L1k+LRUaquhM=
+
+Name: res/layout/duapps_ad_banner_layout.xml
+SHA1-Digest: yTVwJ2qSvlIoY5IPWGFXcFx7zaw=
+
+Name: assets/res/UI/UIResult/Node_rank_numup.csb
+SHA1-Digest: It5HxPLH9l3kkjzdRAX756l8OlA=
+
+Name: assets/res/UI/UIHome/newEpoch/Node_Loading.csb
+SHA1-Digest: b26VulkRMCWr3et36vSYS1RuDPg=
+
+Name: assets/res/UI/UIHome/Node_btn_vip_song.csb
+SHA1-Digest: buU8TS5KhzfjWHWYCbT1SvYNuJE=
+
+Name: assets/res/UI/UITemp/msg_mask.9.png
+SHA1-Digest: 1WvpTA5VWiTCUaHUijXFmCjQTbs=
+
+Name: res/drawable/com_facebook_auth_dialog_header_background.xml
+SHA1-Digest: POO39gJbrL2QSTBVuRYipxUm4hc=
+
+Name: assets/res/UI/UIAlbum/27/card_bg_s_27.png
+SHA1-Digest: aXXyU8qABDGMWAHoxvLgVlR3Tj0=
+
+Name: assets/res/UI/UIHoliday/Layer_share_pumpkin.csb
+SHA1-Digest: n+qZ+yNBrBDXQ+PcyHOXVAfZ2Gw=
+
+Name: assets/res/UI/UIResult/buttongroup_back.csb
+SHA1-Digest: a2J0oynR2RvQYPFscsy/JH6vEaQ=
+
+Name: assets/res/song/Faded.json
+SHA1-Digest: 8ks/4YtU6Qx8u+fjwW0KaXpY0M8=
+
+Name: assets/res/UI/UIAlbum/12/card_bg_s_12.png
+SHA1-Digest: dOP7j9dG0o1i7ejVXBWG8gserB4=
+
+Name: assets/res/UI/UIOpenning/bg_brithday2_cicle_music.png
+SHA1-Digest: boLVXFg2CV/Ly6bmr155yY/sKFA=
+
+Name: assets/res/UI/UIHoliday/bg_cd_tips_xmas.png
+SHA1-Digest: WsQgATuxMk6xQ2Wn7rszvd/fqTw=
+
+Name: res/drawable/dialog_loading.xml
+SHA1-Digest: NnN/jZ8ImVQvPkZ+244Yt74K3zA=
+
+Name: assets/res/UI/UIHome/card_hall.csb
+SHA1-Digest: yKK9zaxhERnc3umUfDW+/JJRowc=
+
+Name: assets/res/DB/Animation.csv
+SHA1-Digest: dqw6bOdsa3PHkE3I2NstHRmGM+I=
+
+Name: assets/res/gameImage/slideTileOverlay.fsh
+SHA1-Digest: n9Pkd93oYOtnfEyKwetCT18u7KE=
+
+Name: res/anim/star_twinkle.xml
+SHA1-Digest: RqfCdbdX3WKlrd98NcdDKrvS7sE=
+
+Name: assets/res/UI/UIAlbum/28/Node_card_special_28.csb
+SHA1-Digest: EufawAcyyF0lnpfO50iPtLPYong=
+
+Name: res/drawable-tvdpi-v4/common_plus_signin_btn_text_dark_normal.9.
+ png
+SHA1-Digest: 57JFccC+FllUUf6hz2a6VQ67KKU=
+
+Name: assets/res/UI/UIHome/bg_pay_package_titilebg.png
+SHA1-Digest: eOTWMnYj07xku7R5efZ/VX0dTas=
+
+Name: assets/res/UI/UIHome/bg_pay_package_complete.png
+SHA1-Digest: VsiopS1BJzFqAcw92tPewHRNypo=
+
+Name: assets/res/UI/UIHome/dialog_challengingtimes.csb
+SHA1-Digest: bqclrD5X+M4L0zxRmO8Kmp8AOeY=
+
+Name: res/drawable-xhdpi-v4/brand_volume_on.png
+SHA1-Digest: oSrv6SuV0NSUNKCEbAILyFohFmQ=
+
+Name: assets/crash_report_en.config
+SHA1-Digest: DERhokNhdc9Xz8EmSK5hoZPdpZg=
+
+Name: assets/res/UI/UIHome/Item/Node_choselanguage.csb
+SHA1-Digest: uI8RCFj10qk2DdokOpCp2U0b9N0=
+
+Name: res/layout/activity_christmas.xml
+SHA1-Digest: IrIcdZfh1PrtGV3r8vzPHL1C1nY=
+
+Name: assets/res/UI/UIHome/card_special.csb
+SHA1-Digest: c5kQWHDsrt5XEF3hmzVHUw9pVaE=
+
+Name: assets/res/UI/Xmas/Node_tree_xmas_dialog_btn.csb
+SHA1-Digest: TKlCU1/lAu/GYHMrKlQv7s7Yu9g=
+
+Name: res/drawable-xhdpi-v4/go.png
+SHA1-Digest: 7RlcpD7voSCgdIkhm4wyr2s2sh8=
+
+Name: assets/res/song/The Ocean.json
+SHA1-Digest: BBnUrIv7gfqlbn140kfE5huuLWQ=
+
+Name: assets/res/UI/UIParticle/xmas_snow_particle_a6.7.plist
+SHA1-Digest: lHxqCN/+m7nVTpxrQbgyqTrHrAU=
+
+Name: assets/res/UI/Shader/grayscaleSprite.fsh
+SHA1-Digest: 15RTJigvPRS8tVWS6noLs2p7F9o=
+
+Name: assets/res/UI/Xmas/Node_tree_xmas_box_animation2.csb
+SHA1-Digest: 7VSxZwy0Go/dxaK87aP+EtbxxXo=
+
+Name: res/drawable-xhdpi-v4/ad_cm_log.png
+SHA1-Digest: U2i4Xj8XGKeg1kj2ju9h1c1ATKE=
+
+Name: res/drawable-xhdpi-v4/bnt_share_xmas_h5.png
+SHA1-Digest: 8iRMKKv/fEJxvivHIzNEHIfzzf0=
+
+Name: assets/res/UI/UIHome/puzzle_1.png
+SHA1-Digest: UQv8rJG2xyUaYL1NqcW6ncDkZP0=
+
+Name: assets/res/UI/UIPlist/particle_unlock_yellow.png
+SHA1-Digest: i/D7PfZhwFmtheHcI6BOj+Hwr7U=
+
+Name: assets/res/UI/UIStore/Node_btn_free_disable.csb
+SHA1-Digest: 9aGV+apZBTCIcJ7tlxbOGdHYsL0=
+
+Name: assets/res/music/piano/#a2.mp3
+SHA1-Digest: hqtsW4vzASgaeNvEhsX/o9q5fV4=
+
+Name: assets/res/UI/UIHome/UIHomeBg.jpg
+SHA1-Digest: +Xo8Rc9892XQBkbIXvMmkU2w41w=
+
+Name: res/drawable/duapps_ad_offer_wall_banner_indicator_bg_normal.xml
+SHA1-Digest: jYWcMwqXjFWGZU3RxgL3s5aZVTQ=
+
+Name: assets/res/UI/UIResult/Layer_share2.csb
+SHA1-Digest: aNpVmp2thvzceJbP3CruJ6owYhg=
+
+Name: res/drawable-xhdpi-v4/plus.png
+SHA1-Digest: TYcHag2Yw3HfQ5VD4ppiHEyW76w=
+
+Name: assets/res/song/Cafe Dang Va Mua.json
+SHA1-Digest: Cl+spYUnWTylkHshOjNrKScx5Ds=
+
+Name: assets/res/UI/ActivityMap/UITower/particle_levelupred_l.plist
+SHA1-Digest: ZzGArXyAzMLKSjQQENxhTSe+eW4=
+
+Name: res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_press
+ ed.9.png
+SHA1-Digest: MTe7g8pRIuxRlzCJPLaJYqof918=
+
+Name: assets/res/UI/UIResult/Node_title_cup.csb
+SHA1-Digest: rtsTk05kLL9dbmXikKpVCpqDQtA=
+
+Name: res/layout/com_facebook_activity_layout.xml
+SHA1-Digest: yBsa5GwvEFWKsWdNfO51C2M54yo=
+
+Name: assets/res/music/bass/a1.mp3
+SHA1-Digest: YMfzGp10evjEcd0WeQtN2zUhI9o=
+
+Name: assets/res/song/Orange.json
+SHA1-Digest: lZB2ikG+Vy9oqcMtiViNPW4kL2s=
+
+Name: res/drawable-xhdpi-v4/common_plus_signin_btn_text_dark_disabled.
+ 9.png
+SHA1-Digest: pH7l/Ar84MmQB+PJJ0dCud81jHY=
+
+Name: assets/res/UI/UIAlbum/9/Node_card_special_9.csb
+SHA1-Digest: dTNzQSdgTGX+snFmpMS2uXnCxcA=
+
+Name: assets/res/UI/UIResult/Node_rankup_panel1.csb
+SHA1-Digest: WOKHvL+khRkuFKVD5yW0oDR8FC4=
+
+Name: assets/res/UI/UIOpenning/musician4.png
+SHA1-Digest: lSikHTJBsC7GISif2TjEa3J7iq4=
+
+Name: assets/res/UI/UIHoliday/BattleInfo_Content_map.csb
+SHA1-Digest: P+m3/6nbt5gmcIPSec5gWw7tuiY=
+
+Name: res/drawable-ldpi-v4/common_ic_googleplayservices.png
+SHA1-Digest: Banf255tHXWbYJ6ukIK79CQ3FHA=
+
+Name: res/drawable-xhdpi-v4/cd_default_bg.jpg
+SHA1-Digest: 6oC07VDTbAzfSKdphhrbqB4+GbY=
+
+Name: assets/res/UI/ActivityMap/Node_xmas_progress.csb
+SHA1-Digest: k6+yE5BhPQXao9cVE9hbjXil8+g=
+
+Name: assets/res/UI/ActivityMap/UITower/particle_levelupred_r.png
+SHA1-Digest: VcE53aRD9szh4wTL/XD8vk76Ci0=
+
+Name: assets/res/UI/CDCollection/collect_cd_1008.png
+SHA1-Digest: x3J8s6JsZXpbb9nwW9liwOQJ80w=
+
+Name: res/drawable-tvdpi-v4/common_plus_signin_btn_text_light_disabled
+ .9.png
+SHA1-Digest: vVY149DSe1nA95vNidcXSqAmfQk=
+
+Name: assets/res/UI/UIHome/listview.csb
+SHA1-Digest: gCRdrLMFzcOgCzrWIcxbhICr0r8=
+
+Name: assets/res/UI/UIHome/Node_letter.csb
+SHA1-Digest: JWRY4xdyIeeJVjLOev8OdtYz8uU=
+
+Name: assets/res/DB/fontInheritance.csv
+SHA1-Digest: PUgyDaaPU2mEYl2x6gS4jHH5bs0=
+
+Name: assets/res/UI/UIHome/Node_updata_song.csb
+SHA1-Digest: 5d29WKbtyz8uJ2tJm90NQo4MbS0=
+
+Name: assets/res/UI/Xmas/Node_tree_xmas_box_animation1.csb
+SHA1-Digest: eIcbgiGaIAEBUXSiCOH79c1GoFY=
+
+Name: res/drawable-xhdpi-v4/share_icon_messager_normal.png
+SHA1-Digest: y5PI521ekvQHg1uGFR3jTMur1a8=
+
+Name: assets/res/UI/UIHome/card_freediamonds.csb
+SHA1-Digest: 2uw0BOHtujgK/YqzkyfuBcLHhko=
+
+Name: assets/res/UI/UIStore/dialog_dreambag_gp.csb
+SHA1-Digest: dPax2dJg9zVvdlJX2qfnxS9DLFE=
+
+Name: res/layout/com_cmplay_function_web_layout.xml
+SHA1-Digest: CrU71fjGPLhD5saelafnIdcd3Ik=
+
+Name: res/drawable-hdpi-v4/common_google_signin_btn_text_dark_pressed.
+ 9.png
+SHA1-Digest: 1UB6PKVRdqcEFc5qAOfH4P8Ubq8=
+
+Name: res/drawable-xhdpi-v4/share_icon_more_normal.png
+SHA1-Digest: vQDCb68UlbL82VEC87GZLxUW95w=
+
+Name: assets/res/UI/UIHome/jiantou.png
+SHA1-Digest: mhB+tBQ4lCI9U7h76TE3hIFaYEI=
+
+Name: assets/res/UI/UIStore/dialog_shop_diamond_video.csb
+SHA1-Digest: u+zA1GQSRQFje5iWGmTcjEbv1/s=
+
+Name: assets/res/DB/propDrop.csv
+SHA1-Digest: Z/wXm7S+nsvCJso1rZx92UGwqxY=
+
+Name: assets/res/UI/UIHome/newEpoch/Node_band_loading.csb
+SHA1-Digest: +w6N0d7ZxobPPilSgmRhcpvxi+s=
+
+Name: assets/res/Animation/crazy_circle.png
+SHA1-Digest: 1FYHbfSiIpPsZ8u5hy7ic4Y2JQ4=
+
+Name: assets/res/UI/UIHome/card_locked_levelrequired.csb
+SHA1-Digest: Uxn2BcVfLTM5CrMpyOX311nrKnE=
+
+Name: assets/res/Audio/long.mp3
+SHA1-Digest: iE9mdp2SV59FoKqdswGQ+DaM6uo=
+
+Name: assets/res/UI/UIAlbum/7/card_bg_s_7.png
+SHA1-Digest: ZxlyDCN56j3WVEI3hltyv+MWEOc=
+
+Name: assets/res/UI/UIHoliday/Layer_setting_xmas.csb
+SHA1-Digest: aM8vxGpwaFRX7abKS1eEjGBx2F8=
+
+Name: assets/res/UI/UIHome/Layer_getCD_animation.csb
+SHA1-Digest: WuIu8+ZraXyF4V0huMsR/meXvoU=
+
+Name: assets/res/UI/UIAlbum/4/card_bg_s_4.png
+SHA1-Digest: j97IvL9CDXCkaQwJBDiRapPqjs4=
+
+Name: res/drawable-xhdpi-v4/message_tag_lc_button_w_pressed.9.png
+SHA1-Digest: NTGsesq2F5cNn6BbVAZVSkYz6A4=
+
+Name: assets/res/UI/UIHome/Node_home_btn_free_video.csb
+SHA1-Digest: yS+tNOaQgjqaCrX47qjuiuShcl8=
+
+Name: assets/res/UI/UIHome/Node_btn_fb_dialog2.csb
+SHA1-Digest: HzzOhIrllvn1mitwZlhilM2O5CU=
+
+Name: assets/res/UI/UIHome/dialog_open_ad.csb
+SHA1-Digest: 28NOEKkXMmNWs1fkqjlO+/1GkwQ=
+
+Name: res/layout/duapps_ad_offer_wall_topic_list_item.xml
+SHA1-Digest: RdyqBAyZqU9awgZ4V4ynPI44IGU=
+
+Name: assets/res/UI/UIHome/card_vip.csb
+SHA1-Digest: rXEAifDGQ0pGs/pDzW4/98kuVRY=
+
+Name: assets/res/UI/UIBattleMaster/BattleInfo_Content_chest_birthday.c
+ sb
+SHA1-Digest: xhnXBy3zJqKAQllrcrjBfj89bqo=
+
+Name: res/layout/messenger_button_send_white_small.xml
+SHA1-Digest: iaU0hFbJNVvEno5AOxMgtr8BKYA=
+
+Name: assets/res/UI/UIHome/Item/Node_thanks.csb
+SHA1-Digest: rL0eIlTzN5gEpB+fMQUlj0xlF4Q=
+
+Name: assets/res/UI/UIHome/Node_moregame.csb
+SHA1-Digest: YQ6pIWHRVjcwuNJW2JTwn8tkAJc=
+
+Name: assets/res/UI/CDCollection/Layer_puzzle.csb
+SHA1-Digest: wmjr+npFKIvv2XTJVYrHBHsIxjs=
+
+Name: assets/res/UI/UIBattleMaster/icon_gametips_common.png
+SHA1-Digest: 0LPbw6AGSIexP6/NfWde66mt9+Y=
+
+Name: assets/res/song/Melody Of The Night No.3.json
+SHA1-Digest: s50t06K+QuL4ghAWUH3/nH9+It4=
+
+Name: res/layout/tips_songunlocksucc_dialog.xml
+SHA1-Digest: ElD1PCoSRkUhhM+2nakrerwAp4k=
+
+Name: assets/res/UI/CDCollection/musk_cd_bg09.png
+SHA1-Digest: hgy5ag2A9a9yjK9ZD1Zm0NuS/m8=
+
+Name: res/drawable-xhdpi-v4/love_share_cd_shadow_1.png
+SHA1-Digest: fxC8mb1hwAiRL5gRKJZmG6dtXUc=
+
+Name: assets/res/UI/UIHome/Item/Node_twitter.csb
+SHA1-Digest: jWSwezFdcvLIXRcR7vMlUQPDBxU=
+
+Name: res/drawable-xhdpi-v4/star_filled.png
+SHA1-Digest: i32JdUhnYe5gGyetdOTBnkcEI5c=
+
+Name: assets/res/UI/UIAlbum/21/card_21.png
+SHA1-Digest: EAtP3mEu767UnHMQyXxtEALyK+Y=
+
+Name: assets/res/UI/UIResult/Node_ani_chest_birthday.csb
+SHA1-Digest: LEQjHFi7i3MNJQIybcSI4N/MqVo=
+
+Name: assets/res/UI/ActivityMap/UITower/particle_yellow_r.plist
+SHA1-Digest: DadSg8OaZnUMBq4EZojFlaCv8Qo=
+
+Name: assets/res/UI/Xmas/CdFragmentDrop.csv
+SHA1-Digest: D+luIBYEhklMmK5hHwZizCXaSkQ=
+
+Name: assets/res/UI/UIPlist/Plist_social.png
+SHA1-Digest: I70oJsF096SLUJaJtjYxyo574ZY=
+
+Name: assets/res/UI/UIPlist/particle_levelupred_r.png
+SHA1-Digest: RzLXC8A8nHiOvZwiogK/R/7E5lE=
+
+Name: assets/res/UI/UIOpenning/musician8.png
+SHA1-Digest: YAQ3Pf2xZjtHEgDMC2Ad2W70QG4=
+
+Name: res/drawable-xhdpi-v4/love_arrow_left_3.png
+SHA1-Digest: xRsmjQvXgVoLNA1WG/jev4RcXps=
+
+Name: assets/res/music/piano/F-1.mp3
+SHA1-Digest: hfYwYuLPZOh+SwhK6votMGtIryQ=
+
+Name: res/drawable-tvdpi-v4/common_plus_signin_btn_icon_light_normal.9
+ .png
+SHA1-Digest: JufUEiVSWvBstaJD1wOyOhFO3H4=
+
+Name: assets/res/Animation/bgani_guodu2.csb
+SHA1-Digest: p1X+5ysvInhUQeniZ2no2oS91Q0=
+
+Name: assets/res/UI/Xmas/image_get_tree_ground2.png
+SHA1-Digest: vtpGwTICIp8ngPyRsL4K+ZrI3Mc=
+
+Name: assets/res/UI/UIPlist/bg_box_remind_birthday2.png
+SHA1-Digest: 7EvrMlWP0qRXrlRBvXuHWr7SCVg=
+
+Name: assets/res/UI/UIBattleMaster/chest_normal.png
+SHA1-Digest: oAK8jlkVnSo9s3O2X75rVEXIpTw=
+
+Name: assets/res/UI/UIBattleMaster/BattleInfo_Content_common.csb
+SHA1-Digest: dANvRD/FnaL3ze8iOzh5Td3uiOg=
+
+Name: assets/res/DB/GhostChase.csv
+SHA1-Digest: RDjUSaT7dWRUIC56jUolcDfLGys=
+
+Name: assets/res/UI/UIBattle/Effect/polyQuad_chang_small.png
+SHA1-Digest: yO2z0N971ngjCaRgqR6zceUr2j8=
+
+Name: assets/res/UI/UIOpenning/Node_opening_bokeh.csb
+SHA1-Digest: mn6yIdMPUoxZ5Nlk/Xu6Jn1oGPU=
+
+Name: assets/res/UI/UIPlist/Plist_share.png
+SHA1-Digest: afnlINiDsfAMwRyw0cjs1sgdbEU=
+
+Name: assets/res/UI/UIHome/puzzle_line_1.png
+SHA1-Digest: SUbBo4ShVy168Hdf1QoUWTlGPz8=
+
+Name: assets/res/UI/UIPause/paused.csb
+SHA1-Digest: jCV6OBPK7iLU+Wc4TJvFGVPoG/0=
+
+Name: res/drawable-xhdpi-v4/duapps_ad_offer_wall_loading_retry.png
+SHA1-Digest: laf92nWMJ+6LelGzRLerUA1lUpM=
+
+Name: assets/res/UI/UIHome/Item_rank_total_card_no3.csb
+SHA1-Digest: 11D3r43EpRSSAqWFDDXtY0SJeBQ=
+
+Name: assets/res/UI/UIPause/dialog_continue_gold.csb
+SHA1-Digest: hRbCpO72mfiAbR2PTAt14+d769w=
+
+Name: assets/res/UI/UIStore/Futura condensed.ttf
+SHA1-Digest: HoDM+Tvsiq3GijoonB12hGRI6co=
+
+Name: assets/res/UI/UIHome/CardImage/13.png
+SHA1-Digest: bj0fcftkXSdOh3ioJRg0YMz+brE=
+
+Name: assets/res/UI/CDCollection/collect_cd_1017.png
+SHA1-Digest: KK0VNAT9v1no3+hJ/Fht23Es/8I=
+
+Name: assets/res/UI/UIHome/musiclist.csb
+SHA1-Digest: ESBDfp/LVavMtrpug4yvhkjbP6A=
+
+Name: res/drawable-nodpi-v4/item_bg_pressed.9.png
+SHA1-Digest: DoEJcqzFiAj866oGAG0Lr8loGOU=
+
+Name: res/drawable-xhdpi-v4/message_tag_success.png
+SHA1-Digest: ALWVLX9D+CrQIHTvnRxJ9K3u2ko=
+
+Name: assets/res/UI/UIHoliday/aniHallNode_xmas.csb
+SHA1-Digest: tpu/WCsk7TtM66+QE8LxDM+pbdA=
+
+Name: assets/res/UI/UIHome/icon_apple_ad.png
+SHA1-Digest: jCZ2CN8OnVhImUIlrKceVhNbR0Y=
+
+Name: assets/res/UI/UIAlbum/3/Node_card_special_3.csb
+SHA1-Digest: Pg8dIHJNcb42TakROfo/Ko/I0zE=
+
+Name: assets/res/UI/UIPlist/particle_levelupyellow_l.plist
+SHA1-Digest: GxEq5RapV+od1R7+xEeby4olhSM=
+
+Name: assets/res/UI/UIHome/Item_rank_invite.csb
+SHA1-Digest: ijBfKA4dPYf1T0RRS4lsvJ3nF9s=
+
+Name: assets/res/UI/CDCollection/bg_collect_cd.png
+SHA1-Digest: dLzWuN7tOKEJ4qwlTelPzMnSUqg=
+
+Name: assets/res/music/piano/#F-1.mp3
+SHA1-Digest: /e8oNoAJnXS1l/ye6OqZtB7NNrs=
+
+Name: res/drawable-xhdpi-v4/share_icon_facebook_normal.png
+SHA1-Digest: l4h541EMFzHEBaQ+PByVMqLh9kw=
+
+Name: assets/res/Audio/PassPageThree.mp3
+SHA1-Digest: 1mQePVPGITGQHWln35nbNxe69wU=
+
+Name: res/drawable-xhdpi-v4/browser_left_arrow.png
+SHA1-Digest: TMB0jAKVe5EnCkgwUNkpJ1AnAuI=
+
+Name: assets/res/music/bass2/g1.mp3
+SHA1-Digest: Mw/IwG2gW9GbGYMUYRUr8VOo6m8=
+
+Name: res/drawable-xhdpi-v4/popup_recommend_background.png
+SHA1-Digest: 0TKheAfcfueT0uQ/nAm4YAshhJ0=
+
+Name: assets/res/UI/UIHome/Item/Node_message.csb
+SHA1-Digest: FK3DuvObEL1abygB3hkmJK/CgkU=
+
+Name: assets/res/UI/Xmas/bg_tree_xmas_bg.jpg
+SHA1-Digest: W0LZ3oRnMFAjLUnH6g4IFSV9ZKM=
+
+Name: assets/res/UI/Xmas/xmas_map_select_light.png
+SHA1-Digest: KQ9ZVkmGFrGGq9m0qD6HxBPDcRU=
+
+Name: res/drawable-hdpi-v4/mobvista_cm_head.png
+SHA1-Digest: XsccDd57AyhmfrC0VtZtFGWIx2s=
+
+Name: assets/res/UI/UIHoliday/Plist_xmas.plist
+SHA1-Digest: 8MLKAYcg2a4eqI7Hjyy0pIWzouk=
+
+Name: assets/res/UI/UIPlist/bonus_music_puzzle_fly.png
+SHA1-Digest: wwppBzM/OJOp09spHkwTPLrqz3o=
+
+Name: res/drawable-mdpi-v4/common_google_signin_btn_text_dark_disabled
+ .9.png
+SHA1-Digest: Db9O/OPoWTXYL7sBk/ND4aU7ECs=
+
+Name: assets/res/UI/UIHome/bg_banner_quest.png
+SHA1-Digest: 9tRQQkXsJXcvV+dpnBUMVApE74c=
+
+Name: res/drawable-xxhdpi-v4/common_plus_signin_btn_icon_light_focused
+ .9.png
+SHA1-Digest: jnZIdcnxgCJJF3Tx6HwINRnvzE4=
+
+Name: res/layout/cm_remoteview_layout.xml
+SHA1-Digest: /St9z7kLWwZreXgYdUsnh9XJIX4=
+
+Name: assets/res/UI/UIResult/crown_1.csb
+SHA1-Digest: Nogsby26+EOS8lPu4IWtPe9SDto=
+
+Name: assets/res/music/bass2/#d2.mp3
+SHA1-Digest: q3ldFYNbsjQ0B2bgUPEgNXeG0ro=
+
+Name: res/drawable/mobvista_cm_backward.xml
+SHA1-Digest: 3NrCbzlzw6HW+s8XclV+6gHdihg=
+
+Name: assets/res/UI/UIHome/rank_total_bg.png
+SHA1-Digest: kZO3uVG4SDEqzuNrbEED9nHj0ik=
+
+Name: res/drawable/item_call_littlegreen.png
+SHA1-Digest: eL9Z3yOZXR18JdNDo97mokefO1g=
+
+Name: assets/res/music/bass2/G-1.mp3
+SHA1-Digest: NWmpgz6EekbyzUhx0Aqih1sT9bw=
+
+Name: assets/res/UI/UIPlist/Battle_Result/Battle_Result.plist
+SHA1-Digest: TdjQxJIf85cWkCP5liYPsHF0sb4=
+
+Name: assets/res/music/piano/#c3.mp3
+SHA1-Digest: B4M+N9RXlyG70K2PrVtHbyDRIyk=
+
+Name: assets/res/UI/UIHome/bg_box_remind.png
+SHA1-Digest: PPjULItabGG9fnJwbchC1EfN6Ho=
+
+Name: res/drawable-xhdpi-v4/message_tag_no_wifi.png
+SHA1-Digest: Jh4BbXAmqHj50C21L6B9+KPDimY=
+
+Name: assets/res/UI/UIBattleMaster/Futura condensed.ttf
+SHA1-Digest: HoDM+Tvsiq3GijoonB12hGRI6co=
+
+Name: assets/res/UI/UIAlbum/14/card_14.png
+SHA1-Digest: BN9I5oWCjwPt/ECIdXTpdbArL4I=
+
+Name: res/drawable/common_google_signin_btn_icon_dark.xml
+SHA1-Digest: MhK+C98zz05ornYZCty5d+dg/dw=
+
+Name: assets/res/DB/diamond.csv
+SHA1-Digest: 961mwlZFug83+P0yPSixsnn0OI4=
+
+Name: assets/res/UI/UIAlbum/1/card_01.png
+SHA1-Digest: P9KQX73xXTj1JU9qCr6sB5njHWg=
+
+Name: res/drawable-mdpi-v4/common_google_signin_btn_icon_light_disable
+ d.9.png
+SHA1-Digest: /9TedBWY3hVupugid7vn6Iby41w=
+
+Name: res/drawable-xhdpi-v4/com_facebook_button_icon_blue.png
+SHA1-Digest: bwNLZONAVn4yFxPAi0pg5+qiNnA=
+
+Name: assets/res/UI/UIAlbum/8/Node_card_special_8.csb
+SHA1-Digest: QpKtVinbivWF6qCyLEvYdtT1n6s=
+
+Name: res/layout/lucky_wheel_layout.xml
+SHA1-Digest: d2/7PZO5qsi0wSjfw9L9R3GtSM4=
+
+Name: res/layout/cm_picks_loading.xml
+SHA1-Digest: I8pAni7jf0FNHLjqA5HICL1URzw=
+
+Name: res/drawable-hdpi-v4/notification_icon.png
+SHA1-Digest: 7nHIrtFwX6c1kPKetl375yt9MrQ=
+
+Name: assets/res/music/drum/F-1.mp3
+SHA1-Digest: Q+LW2A5VKE32vjGeqfKr/Q+fcPA=
+
+Name: assets/res/UI/UIHome/bg_pay_package_box_buy.png
+SHA1-Digest: lwr57mUM35r/qBwfPiLE93kIyF0=
+
+Name: assets/res/UI/UIAlbum/18/card_bg_s_18.png
+SHA1-Digest: 2Gn7mMWV5kW/Zc6tjD/1M9tnjdg=
+
+Name: assets/res/UI/UIPlist/Plist_littlestar.plist
+SHA1-Digest: wDlNAY42edLDuR8zhYrJizpZ0SI=
+
+Name: res/drawable-xhdpi-v4/com_cmplay_message_tag_no_show.png
+SHA1-Digest: REgg5MZkwc1BHAX2YSTveXQJONs=
+
+Name: res/drawable-hdpi-v4/common_plus_signin_btn_text_dark_normal.9.p
+ ng
+SHA1-Digest: efcXn+MWJD2u0Q3uHaRU9RMPN6I=
+
+Name: res/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal.9
+ .png
+SHA1-Digest: XwI93Zyt8z66HPZuqkd2z20Acik=
+
+Name: res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_disabl
+ ed.9.png
+SHA1-Digest: V3e9Fl537skkuNM50YXSITM9hP4=
+
+Name: assets/res/UI/UIOpenning/musician2.png
+SHA1-Digest: lnt1T5IlnKL9meCss8+XJXpNK3I=
+
+Name: assets/res/music/piano/#C-1.mp3
+SHA1-Digest: lMC/SFnzYGmGMum45sSuHHoVuko=
+
+Name: assets/res/UI/UIBattleMaster/BattleInfo_Content_chest_candy.csb
+SHA1-Digest: Z9gzuS8/jFkAbA9nGleiWy9Ex1o=
+
+Name: assets/res/music/bass2/C-1.mp3
+SHA1-Digest: vMQ1PBDZ+Pf42rHcRg0n9uO9pDY=
+
+Name: assets/res/song/Canon.json
+SHA1-Digest: br2YP2JKqUvtf1bpqqrzXB5ci5g=
+
+Name: res/drawable/cm_vast_download_bg_incentive.xml
+SHA1-Digest: MoZbyqpDGrTHYpUx/Zn7pe7+4bI=
+
+Name: res/layout-v16/main_layout.xml
+SHA1-Digest: qJvUlgLFZqacUIS5nuXNU/krGYg=
+
+Name: res/drawable/ads_by_cm.png
+SHA1-Digest: TbsnS+ft4r78uAgzpOPn870PgAE=
+
+Name: assets/res/UI/CDCollection/bg_cd_puzzle_bg.png
+SHA1-Digest: l2ZQgwQt4/0GNPvQnHYL+yYOXp0=
+
+Name: assets/res/music/bass/c.mp3
+SHA1-Digest: Vq6HnZmT2wJMm59+Y8R+Ec/EL3o=
+
+Name: res/layout/cm_activity_open_screen_video_land.xml
+SHA1-Digest: joFnmEBPJ8LfkOE92HZ73Eae2LU=
+
+Name: res/drawable-xhdpi-v4/go_star_2.png
+SHA1-Digest: QgAdFq4gEY/50VeWQ07X2vxlMoA=
+
+Name: res/drawable/messenger_button_white_bg_selector.xml
+SHA1-Digest: +nNKft6aQcJmQNTaHLQtIPyeMFM=
+
+Name: assets/res/UI/UIHome/aniSettingNode_iphonex.csb
+SHA1-Digest: fRGHOmA6ApCappNkMyVp+umqgqk=
+
+Name: assets/res/music/piano/b.mp3
+SHA1-Digest: N2iOFVMxnwlhPmYNsOez4goIxKI=
+
+Name: res/anim/banner_enter_bottom.xml
+SHA1-Digest: +vHT+SGdQV9T9WxbWPuL9nhvGik=
+
+Name: res/drawable-xhdpi-v4/go_star_4.png
+SHA1-Digest: VM1phZZ8l5yl1CtQfa0CEJoE0uo=
+
+Name: assets/res/music/piano/#f3.mp3
+SHA1-Digest: igEIIyrdCTG4XELiqYcS7DqN6ng=
+
+Name: assets/res/Audio/UpgradePage.mp3
+SHA1-Digest: e+GAdUBbV6TMifhA9ApOjm4xBRM=
+
+Name: assets/res/UI/UIHome/Layer_pay_package.csb
+SHA1-Digest: wdAcSsnMkIrhqr6oTkb2DuP3SKo=
+
+Name: res/drawable-xhdpi-v4/vast_volume_on.png
+SHA1-Digest: lou/Smh8DXpxXgf3aNorXjZkjj8=
+
+Name: assets/res/UI/UIHome/snow_new.plist
+SHA1-Digest: TLAY5y6xyWohxv3NeNDkLTn6hMY=
+
+Name: res/drawable/mobvista_cm_forward.xml
+SHA1-Digest: RZ47tfrX0ep0v+u8rmgGtvbJjdQ=
+
+Name: assets/res/song/Skilled Challenge.json
+SHA1-Digest: befWEgBKhG/NSntk/CQDOK6XJpk=
+
+Name: assets/res/UI/UIHome/card_bg_album_sale.png
+SHA1-Digest: prj7ry8hDFVQ9KK33BhmSGPfwHc=
+
+Name: assets/res/song/Fly Away.json
+SHA1-Digest: 6PVeWjUjRKFiPoTz8vknanb4DVI=
+
+Name: assets/res/UI/Xmas/Node_tree_xmas_deer_2.csb
+SHA1-Digest: neKO/tYoTbITm5GSuv981SqVCO0=
+
+Name: assets/res/kinfoc/kfmt.dat
+SHA1-Digest: PzcDMh2RmHjKNv+LLO8IcEyQM7A=
+
+Name: assets/res/UI/UIStore/Node_btn_free_video.csb
+SHA1-Digest: vQZGGs1W1/LJP94pyKtIvhr3DcQ=
+
+Name: assets/res/UI/UIParticle/new8.png
+SHA1-Digest: YgZNiDOG3G0qldgjp+B5hHpBnqc=
+
+Name: assets/res/UI/UIAlbum/6/card_bg_s_6.png
+SHA1-Digest: KShISqpJyBidb+gPvtAZsxmhmKo=
+
+Name: assets/res/gameImage/particle_1.png
+SHA1-Digest: qbgteg8UueDW4YVQJD5P4PZRGsk=
+
+Name: assets/res/music/piano/#d.mp3
+SHA1-Digest: OIuW0Yqmx2PKH8pHhEoMLWaMWsM=
+
+Name: res/layout/dialog_five_star.xml
+SHA1-Digest: cGdP/A7a3Ow/IN5e2VWQrncCGPM=
+
+Name: assets/res/UI/UIHome/Node_moregame_content.csb
+SHA1-Digest: /6eQNeTK4rho3Og3VvpJ/UEmdyg=
+
+Name: assets/res/DB/Rewar.csv
+SHA1-Digest: ULdlag0htpg0bwqgQaWlU2I8JeI=
+
+Name: assets/res/UI/UIHome/card_rank.csb
+SHA1-Digest: 25v8bdYMHIYlswU2pRUufH0BP6w=
+
+Name: assets/res/UI/UIPlist/bg_share.png
+SHA1-Digest: lFosp/MD774ZChyGZhg7Cj84OOI=
+
+Name: res/drawable-xxhdpi-v4/common_plus_signin_btn_text_light_pressed
+ .9.png
+SHA1-Digest: V+V8E37HNDjRmskOAKfkKn8Lk9E=
+
+Name: res/drawable-xhdpi-v4/icon_star.png
+SHA1-Digest: HUjI/tsfQieLyNYQNWjgcyhCWGY=
+
+Name: assets/res/UI/UIAlbum/25/card_bg_s_25.png
+SHA1-Digest: C7ZADQIJy17j94emPo/35kQ6EMM=
+
+Name: res/drawable-mdpi-v4/common_google_signin_btn_text_light_focused
+ .9.png
+SHA1-Digest: Fmdv64WR0w5E3YOtYN8+JWDueMM=
+
+Name: assets/res/UI/UIResult/buttongroup_share_normal.csb
+SHA1-Digest: QFAkRTldSXU8dtw+oiaQ+27Np2I=
+
+Name: res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_disable
+ d.9.png
+SHA1-Digest: lWGz9pmUk6lcLBiS+tgQY4zTp6M=
+
+Name: res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_focus
+ ed.9.png
+SHA1-Digest: GHyUF9U2rYBFMoMGJKC8JfRBk88=
+
+Name: assets/res/UI/UIHome/Node_cd_puzzle_enter_tips.csb
+SHA1-Digest: jD3Y0hk6edc7StM8UpLkSNwPbIY=
+
+Name: assets/res/song/Shape of You.json
+SHA1-Digest: Oog7etqRkZzIq6dqnXCdHHKCzdE=
+
+Name: res/anim/popshow_anim.xml
+SHA1-Digest: i9CMzeiAjLeAod5AWVKWrfdY7/Q=
+
+Name: assets/res/UI/UIHome/recover_buy.png
+SHA1-Digest: ywmZlTJk5llu6jtRSvSyc+QUeuE=
+
+Name: assets/res/UI/CDCollection/collect_cd_1004.png
+SHA1-Digest: bTKOn0nlwdE/cKJtA4HAXSTxC14=
+
+Name: assets/res/UI/UIHoliday/normal_pass_content_new_xmas.csb
+SHA1-Digest: iIf4N6Ya5Vodgg9faDdkmhbuCpE=
+
+Name: assets/res/music/piano/#d3.mp3
+SHA1-Digest: Tnm6dv7IOPN9RRWjRgBpPUT2UoY=
+
+Name: assets/res/UI/Xmas/image_tree_puzzle_small_light.png
+SHA1-Digest: GgKzk3AgMeGeit0dfq7DbqIveTo=
+
+Name: assets/res/music/piano/B-2.mp3
+SHA1-Digest: Aa0Sa3AT+4W2vcmDD/FMWzC381k=
+
+Name: assets/res/UI/UIHome/Node_box_remind.csb
+SHA1-Digest: f2GX/NRxSUkQAEqzw4OLCu6n6ms=
+
+Name: assets/res/DB/fontdata.csv
+SHA1-Digest: oJ89C47qW81BCdl+6bmq+MIWIA4=
+
+Name: assets/res/UI/UIBattleMaster/Node_presslight.csb
+SHA1-Digest: ShZX4Jkt7I4q3CCv6uPuoefKTUY=
+
+Name: assets/res/UI/UIResult/buttongroup_again_new_time.csb
+SHA1-Digest: oxmAy8KRUcBhKfA0fCr8BcQ2/oU=
+
+Name: assets/res/UI/UIOpenning/open_icon_1.png
+SHA1-Digest: 6Xdv/syE9xp2Qg3yIrd+qIwxnIs=
+
+Name: res/drawable-mdpi-v4/common_plus_signin_btn_icon_light_focused.9
+ .png
+SHA1-Digest: q6+o48jhXC+TMKcqk5W7+OtvtIw=
+
+Name: assets/res/UI/UIStore/dialog_vip.csb
+SHA1-Digest: LtR/OnX7Xe2Q5SmL02XwL/EFRD4=
+
+Name: assets/res/UI/UIPause/banner_first_charge.png
+SHA1-Digest: o2g27HI4ImSWBc7EFEMp9DQAnUU=
+
+Name: res/layout/activity_song_mix_share.xml
+SHA1-Digest: xaZkG3mMQxeFk9F6vw4kb4OSg70=
+
+Name: assets/res/UI/UIParticle/snowbig.png
+SHA1-Digest: qpkbxVckfWibVPRVEiYq6VHzJRY=
+
+Name: assets/res/DB/music_block.csv
+SHA1-Digest: cWBmKRks1Fk8cmDUyy2KaHHtuX0=
+
+Name: res/drawable-tvdpi-v4/common_google_signin_btn_text_dark_normal.
+ 9.png
+SHA1-Digest: 3nHHOx4Vw4u+yiVOznvG9WTYtN4=
+
+Name: assets/res/UI/UIPlist/Plist_band.png
+SHA1-Digest: YK1ZFZYDjTM/6DN81nvnglY/U4k=
+
+Name: assets/res/UI/UIResult/share_icon.png
+SHA1-Digest: PQ0UUDxoybNoeUVJ7zeL3NnoRls=
+
+Name: assets/res/UI/CDCollection/collect_cd_1010.png
+SHA1-Digest: MaT5BXZsXowNKQ3g3ZoxDU2Lmf4=
+
+Name: assets/res/UI/UIResult/bg_result_mask.png
+SHA1-Digest: hsTaV+mwTD2vRf220N1BsSOsch8=
+
+Name: res/drawable/ad_icon_bg.xml
+SHA1-Digest: zEmud2FoqgVQsDTgIjjVxLe3sJg=
+
+Name: assets/res/UI/UIHome/card_fb_login_fins.csb
+SHA1-Digest: d6ozzu0MJ4zc+IufrHVnnKbWxu4=
+
+Name: assets/res/UI/UIHome/Futura condensed.ttf
+SHA1-Digest: HoDM+Tvsiq3GijoonB12hGRI6co=
+
+Name: assets/res/song/Melody Of The Night No.12.json
+SHA1-Digest: lST5/uK2wWfDwKHqJKv9kXcBp7w=
+
+Name: assets/res/UI/UIAlbum/24/card_24.png
+SHA1-Digest: 3lC0QMjmrCY9DzWgVZ/WKpwJgTk=
+
+Name: res/layout/ad_pick_admob.xml
+SHA1-Digest: 9ssxNjqRnNSZ4xxYPgB6m213Ebk=
+
+Name: assets/res/UI/UIResult/Node_redbag.csb
+SHA1-Digest: WUcVlgtjdgvy4MvdiAYImtQC03o=
+
+Name: assets/res/music/bass2/#F-1.mp3
+SHA1-Digest: cAdWSe4YzDlfD/ZWCxbPX2ocWbw=
+
+Name: assets/res/UI/UIResult/Node_btn_open_all.csb
+SHA1-Digest: Jx5z9VpUVqlnOKCgYa6xfDB0DsQ=
+
+Name: res/layout/crop__layout_done_cancel.xml
+SHA1-Digest: eu/4wEeXfnJE6EtR/Kz7D33QUcg=
+
+Name: res/drawable-xhdpi-v4/love_arrow_right_2.png
+SHA1-Digest: CGFDdEl5KZvxOJFh1y7xALVSciA=
+
+Name: assets/res/UI/UIHome/CardImage/17.png
+SHA1-Digest: 2UgukaEnm+PrICpE8ywSVvCz+kU=
+
+Name: res/drawable-xhdpi-v4/love_share_btn.png
+SHA1-Digest: aoVLoDivz77ujMqMSWVs5KN/qaM=
+
+Name: assets/res/UI/UIBattleMaster/Commons/Left.png
+SHA1-Digest: D7JDZYJvIxT1/nleXEejjk3TRtY=
+
+Name: assets/res/Audio/Movie_cycle.mp3
+SHA1-Digest: uwfZYWUwd4fgpFdyrRq8FSKf1Ac=
+
+Name: res/drawable/interstitial_ad_icon_bg.xml
+SHA1-Digest: WjxkIFLgdEvSVixKX+j/uvwvmho=
+
+Name: assets/res/DB/levelreward.csv
+SHA1-Digest: VEtD09uN+Fp1Yh+7Pg+TBy34t5o=
+
+Name: assets/res/UI/UIPlist/Plist_shop.png
+SHA1-Digest: cUjvcIedvZ+tSHLA6JRDbvn6jHA=
+
+Name: assets/res/UI/UIPlist/particle_levelupred_r.plist
+SHA1-Digest: 9Nyz6oLi+81RgY2SmQKkBCCGPJQ=
+
+Name: assets/res/UI/UIHoliday/BattleInfo_Content_xmas.csb
+SHA1-Digest: MNAGnvfFHFuXdVXwtXlmkDh8yqA=
+
+Name: assets/res/gameImage/gray.vsh
+SHA1-Digest: KlZtQGhSvHplJYSSVpL7yUI9iyY=
+
+Name: assets/res/UI/UIPlist/Plist_content3.png
+SHA1-Digest: v/1vP2s0dJg/VUtbEV60bzpm7I4=
+
+Name: assets/res/UI/UIPlist/particle_levelupgreen_l.png
+SHA1-Digest: RzLXC8A8nHiOvZwiogK/R/7E5lE=
+
+Name: assets/res/UI/CDCollection/collect_cd_1013.png
+SHA1-Digest: xS25ox44H21BK4kFYKOImZcfp+Y=
+
+Name: res/drawable/crop__selectable_background.xml
+SHA1-Digest: V42ZcGyX9sPxAxg/M3JGp0M3hrc=
+
+Name: res/layout/toast_getgoldsucced.xml
+SHA1-Digest: VtQumBKstKGTawzoMlN20a2wiM0=
+
+Name: assets/res/UI/UIHome/Node_btn_open_ad.csb
+SHA1-Digest: ULJniKtRIQK81BiZRm+jbB7b0IY=
+
+Name: assets/res/UI/UIHoliday/EasterCdPuzzle/rabbit_bg.png
+SHA1-Digest: k0ogsXDCknsGbRkI1aR2+85P09k=
+
+Name: res/drawable/plus_background.xml
+SHA1-Digest: EtXUa/H2PkRJGuaiuTBa5LV8N/Y=
+
+Name: assets/res/UI/UIHome/CardImage/1.png
+SHA1-Digest: ejHWkXMUQvnqQRjVjPA2DV/whmU=
+
+Name: assets/res/UI/UIPlist/Plist_master_hall.png
+SHA1-Digest: 6uXBWyVQA7a2ytzx/c+AAOQIXFQ=
+
+Name: assets/res/music/piano/g4.mp3
+SHA1-Digest: ja196C2/71Qn4BE+kxZnfQvJBEw=
+
+Name: assets/res/UI/UIPlist/Plist_content_new.plist
+SHA1-Digest: UBQ+Na0shF8vjwekakn7hZCcjcY=
+
+Name: assets/res/song/Virus.json
+SHA1-Digest: 7a0HiHRAY6gEVr5HMfECN0oEejk=
+
+Name: assets/res/UI/UIHome/puzzle_2.png
+SHA1-Digest: Fu6pTvEY0eaLbmhoKoRkE0LnA60=
+
+Name: assets/res/UI/UIResult/Node_ani_chest.csb
+SHA1-Digest: W21L5v2Gd/AkoAMtriVbiHdv/dg=
+
+Name: assets/res/UI/UIHome/aniMusicNode_iphonex.csb
+SHA1-Digest: WIQFpJsFD9/TepvynTwJrzXvDwg=
+
+Name: assets/res/UI/UIAlbum/19/card_19.png
+SHA1-Digest: TgCGmi+2vCPnxbRoiBSxbmnLb7A=
+
+Name: assets/res/music/piano/D-2.mp3
+SHA1-Digest: qjT+2A/MR73lIRs77yhThdFSnZs=
+
+Name: assets/res/UI/CDCollection/musk_cd_bg15.png
+SHA1-Digest: W8hDqtm50/cf6De5ACrCnPkJSGw=
+
+Name: assets/res/song/Flower Dance.json
+SHA1-Digest: ZhRkGrL7AUlv49n4BYjPP7srC+E=
+
+Name: assets/res/UI/CDCollection/musk_cd_bg03.png
+SHA1-Digest: FJmTOj5x1nNLxNPcak/Vd4doL7k=
+
+Name: res/color/common_google_signin_btn_text_light.xml
+SHA1-Digest: vAgAnAblIzUzBUG+2LQSk15t8R0=
+
+Name: res/drawable-xhdpi-v4/common_plus_signin_btn_text_dark_pressed.9
+ .png
+SHA1-Digest: bPIR+bzHSEQjXYgmHAGRZl9NdA8=
+
+Name: assets/res/Audio/Life.mp3
+SHA1-Digest: fCbAqkmxJG7sKKPr9WEk2VenA6A=
+
+Name: assets/res/UI/UIResult/share_icon_gift2.csb
+SHA1-Digest: ElNUZD/xD0MsgY5Xm1Un7ebiCuk=
+
+Name: assets/res/UI/UIResult/buttongroup_again_hall.csb
+SHA1-Digest: P2LKyKjetiFTtPDA+5UfPJAjY5I=
+
+Name: assets/res/UI/CDCollection/collect_cd_1011.png
+SHA1-Digest: 0anLQDyMRwDuHu3m/UgH78C5k0U=
+
+Name: assets/res/music/bass/e1.mp3
+SHA1-Digest: AOto4gtV1WpemBLf5SJBcEntkVw=
+
+Name: assets/res/UI/UIHome/puzzle_line_4.png
+SHA1-Digest: xb0mglaWp7lnEedlSY3XNjmLJ1k=
+
+Name: assets/res/UI/UIHome/Item/Node_tiles.csb
+SHA1-Digest: BgyZe5RSaohrbH0wYk2t3wkspGw=
+
+Name: assets/res/UI/UIAlbum/26/card_bg_s_26.png
+SHA1-Digest: t45OTABR6DN3uNrLNBYCz5W1ne0=
+
+Name: assets/res/UI/UIResult/Item_rank_singlesong_anim.csb
+SHA1-Digest: ww84BksDCEl9/djcX1Zc8fqQfJs=
+
+Name: assets/res/UI/UIHome/Node_message_card.csb
+SHA1-Digest: xILwQkCnvUJ+pKLegf/0OjeNLp0=
+
+Name: assets/res/music/piano/mute.mp3
+SHA1-Digest: R8W+dNRiinLjDjEH1Ur+OgDBqPY=
+
+Name: assets/res/UI/UIResult/Node_chest_candy1.csb
+SHA1-Digest: +ce0PkZHjsSfp4ShkGQpZQTBqMo=
+
+Name: assets/res/UI/UIHome/card_recommend_song.csb
+SHA1-Digest: MsT2OnpfBswPlh7VQNXLO1e85Uw=
+
+Name: assets/res/UI/ActivityMap/UITower/particle_levelupblue_r.png
+SHA1-Digest: VcE53aRD9szh4wTL/XD8vk76Ci0=
+
+Name: res/drawable-tvdpi-v4/common_full_open_on_phone.png
+SHA1-Digest: rvtKth49QCEjlTYMwbfTOGPJ61s=
+
+Name: res/drawable-hdpi-v4/mobvista_cm_forward_selected.png
+SHA1-Digest: LxgT3KmqowDzEtsQZNxdQNgIk0s=
+
+Name: res/drawable-xhdpi-v4/com_facebook_tooltip_black_bottomnub.png
+SHA1-Digest: jdZz25bjrnSvfJrPV+oVZQVPfr0=
+
+Name: assets/res/UI/UIParticle/xmas_snow_particle_x.4.plist
+SHA1-Digest: 66Nive2Y71Vw+7W6S/QFf9ZZ43g=
+
+Name: assets/res/UI/ActivityMap/Plist_xmas_map.plist
+SHA1-Digest: uecLXIM97/JvegEF/QRz/cPES7Y=
+
+Name: assets/res/gameImage/1.plist
+SHA1-Digest: ox7SO4DRrcQvIn1IgS/zn1xf9qY=
+
+Name: res/drawable-xhdpi-v4/btn_green.9.png
+SHA1-Digest: axJGXHBV2RGfiGHwHKZfHlwuQ4c=
+
+Name: assets/res/UI/UIStore/Node_firstcharge_bigdiamond.csb
+SHA1-Digest: V+8NVM1h/N+P4mBHYj2TQmbHf7c=
+
+Name: res/drawable-xhdpi-v4/vast_install.png
+SHA1-Digest: 9tgm8oZFDHgW1Id6p5pk7KQJA7g=
+
+Name: res/drawable/common_plus_signin_btn_icon_dark.xml
+SHA1-Digest: da5LdmInYC7D7BPC1tcozH3QCO0=
+
+Name: res/drawable/banner_ad_green_bg_selector.xml
+SHA1-Digest: Kyc+nGRpuTuIf4fnpse0mkt8GTw=
+
+Name: assets/res/UI/UIStore/dialog_fb_login.csb
+SHA1-Digest: afW3DwJogm0evuN309TCIt03C+E=
+
+Name: assets/res/UI/UIAlbum/20/card_20.png
+SHA1-Digest: NebVk6zrbd1/raFIObry3Jr8TzM=
+
+Name: res/layout/red_pocket_layout.xml
+SHA1-Digest: fMIT6r0X4EvKxgkcwYEpwC/+YlE=
+
+Name: res/drawable/item_call_darkgreen.png
+SHA1-Digest: hDrL0lycirF2AXAVFHmFH6/SF/0=
+
+Name: res/drawable/btn_christmas_send.xml
+SHA1-Digest: to0TLxJiAxipUSPIERNll2AIbtM=
+
+Name: res/drawable-xhdpi-v4/bg_tipblack.9.png
+SHA1-Digest: wXouUuZsXkvKylapAvdw6sEpkqQ=
+
+Name: assets/res/UI/UIHome/icon_brithday2_tips.png
+SHA1-Digest: 3Cqfd1y+Q4OD3brv1W385n2yOg0=
+
+Name: assets/res/UI/Xmas/Layer_share_tree_xmas.csb
+SHA1-Digest: qN6ROQGy0lCw4Yc223VdEzlsKs4=
+
+Name: res/drawable-xhdpi-v4/common_plus_signin_btn_text_dark_focused.9
+ .png
+SHA1-Digest: 6Zbj/q38zK2z57i4NSx7oRdxSTg=
+
+Name: assets/res/UI/UIResult/hall_pass.csb
+SHA1-Digest: nSsxCv7nUEAWOYdWlJZvEh92+Tk=
+
+Name: res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_disabled
+ .9.png
+SHA1-Digest: KFMFQ3Xyx9ZfPf2w1XN1esJ6xBo=
+
+Name: assets/res/UI/UIHome/Node_hall_master_reward.csb
+SHA1-Digest: HsT4iN/ru2pEalrzWcUYjbpYIlE=
+
+Name: assets/res/UI/UITemp/fb_user_default_icon.png
+SHA1-Digest: wwzz1h0YvF1C+UpCi3VuSGHx4eg=
+
+Name: assets/res/UI/UIBgEffect/holiday/anni_title_tri_blast_3.png
+SHA1-Digest: FhOCEuAZyhvCT9M134gLMTEBu+I=
+
+Name: assets/res/UI/UIStore/dialog_leaderboard.csb
+SHA1-Digest: XjCeojmMV6059ImRS1A31z6yLqs=
+
+Name: res/drawable-xhdpi-v4/lov_line_interval_1.png
+SHA1-Digest: cFH11dHPBoCFeDndr65yVjA5vSI=
+
+Name: assets/res/UI/UIHome/Node_snow_normal.csb
+SHA1-Digest: bULXKN3+/sl3VZrl7jPVGZ4lXSU=
+
+Name: assets/res/music/bass2/d2.mp3
+SHA1-Digest: TNOfpyF8mupzjKeECGmFzDE5mpM=
+
+Name: assets/res/UI/UIAlbum/10/card_bg_s_10.png
+SHA1-Digest: t1RnsyHDY0W04rSvXX18gLgA1sk=
+
+Name: assets/res/UI/UIPlist/icon_arena_play.png
+SHA1-Digest: pSfxBqVOQ9Bh6P5079UwFAVL/2s=
+
+Name: assets/res/UI/UIHoliday/UIHomeLayer_xmas.csb
+SHA1-Digest: TSkvS7CCB797bqm/Tvzpubao40w=
+
+Name: res/drawable-xhdpi-v4/common_plus_signin_btn_text_light_focused.
+ 9.png
+SHA1-Digest: bdc6AfF9Y6gjaLQ44Qo9/ckSFTg=
+
+Name: assets/res/kinfoc/ios_kctrl.dat
+SHA1-Digest: 3TXqf18xbpLDS3dq16xvcl3yNIs=
+
+Name: res/drawable-xhdpi-v4/com_cmplay_message_tag_lc_button_w_selecto
+ r.xml
+SHA1-Digest: eqLGSH3eqUYbBr1BDi5xMWa+ePg=
+
+Name: assets/res/UI/UIHoliday/BattleInfo_xmas.csb
+SHA1-Digest: 1TPQezWxf6K4+C7ls11EYHLrGUk=
+
+Name: assets/res/UI/UIResult/levelup_pass_content.csb
+SHA1-Digest: /qPn3AIVKhQgYLB+JmsTXCzvjrI=
+
+Name: res/drawable-xhdpi-v4/vast_volume_off_incentive.png
+SHA1-Digest: ePdU7z7iaWmBokmyG+S7yUaWtMg=
+
+Name: res/drawable-xhdpi-v4/minus.png
+SHA1-Digest: cfssGsLf0GZX6qMLuZFsxKUpPlU=
+
+Name: assets/res/UI/UIResult/buttongroup_again_new.csb
+SHA1-Digest: 22FEd9NzUtlPEv5XBa03WNwVXNA=
+
+Name: assets/res/music/piano/a1.mp3
+SHA1-Digest: VP98ZjDo5ZjnkCht0NYPta50dl0=
+
+Name: assets/res/UI/UIBattle/Effect/multiplyShader.vsh
+SHA1-Digest: z2gK8LdwB2/u2HJzcdaM2uX7jSs=
+
+Name: res/drawable-tvdpi-v4/common_plus_signin_btn_icon_light_pressed.
+ 9.png
+SHA1-Digest: HYSFO/45bXSikIT8hJhcrpz8rpg=
+
+Name: assets/res/UI/UIHome/newEpoch/bg_newsong_list.png
+SHA1-Digest: MOgFYnpcKT2sBfDKg/WMB4xT7jU=
+
+Name: assets/res/song/Somewhere.json
+SHA1-Digest: RIxR9ElY+A4HynY87auigKEeMQY=
+
+Name: assets/res/music/bass/G-1.mp3
+SHA1-Digest: QMxA0JmV1woiRl1ebTSVAtkvEII=
+
+Name: assets/res/UI/UIOpenning/opening_commonplaybg3.png
+SHA1-Digest: ihHFML51NkPrs79YTbahKH0EC+s=
+
+Name: res/drawable/crop__texture.xml
+SHA1-Digest: +6fp7Qn9Fa2lnRCtdWquWr6KfT0=
+
+Name: assets/res/music/bass/#a.mp3
+SHA1-Digest: 5iIN9yCu0ogVeyma4IZtnski+/o=
+
+Name: assets/res/UI/CDCollection/collect_cd_1006.png
+SHA1-Digest: IL5yqqMjQywTxhagDzTQ/lKMAY0=
+
+Name: res/drawable-xhdpi-v4/love_bg_1.png
+SHA1-Digest: CYq6fU2ppr8g0mhW7S8V3LOrSdA=
+
+Name: assets/res/song/Love Paradise.json
+SHA1-Digest: lXe/gyylnx+1N90I8Y0FPORrxXE=
+
+Name: assets/res/UI/UIParticle/snow1_1.plist
+SHA1-Digest: fjVhadmVdkhQwoEeJORFfWFAfJ8=
+
+Name: assets/res/music/bass2/b1.mp3
+SHA1-Digest: MZ0efLZm09RbLTww2spRh4s3RDA=
+
+Name: assets/res/UI/UIOpenning/musician1.png
+SHA1-Digest: 9P2IVCgvK2quWYMnsdkKv86OZUc=
+
+Name: assets/res/UI/UIAlbum/0/Node_card_special_0.csb
+SHA1-Digest: u5hn8xGTis8j3P4Q/aGlsigL5ts=
+
+Name: assets/res/music/bass/A-1.mp3
+SHA1-Digest: Wb4ttI0elywc98RSEG7f2lGPlxk=
+
+Name: assets/res/music/bass2/D-1.mp3
+SHA1-Digest: ebAjbWDfPLH7HMG6aD6jkd8uxAQ=
+
+Name: assets/res/UI/UIAlbum/12/Node_card_special_12.csb
+SHA1-Digest: uqg1TC7OQ0k6s/G88YswJDBxg44=
+
+Name: res/drawable-xhdpi-v4/song_mix_share_cd_bg.png
+SHA1-Digest: tSjp5bvwB+hxHxpEER1+XVOZa/M=
+
+Name: assets/res/UI/UIHoliday/hall_pass_content_new_xmas.csb
+SHA1-Digest: cuW34rwkcDAqgv0O+QpJ5Qs61zg=
+
+Name: assets/res/music/bass2/#c2.mp3
+SHA1-Digest: 9BOAFC2QjARP9Soh/oF5lewONBU=
+
+Name: res/layout/cm_activity_incentive_video.xml
+SHA1-Digest: 9D3OBhtL3hLk7WUvO+I99T+TLOU=
+
+Name: res/drawable-xhdpi-v4/google_play.gif
+SHA1-Digest: Psc2XvQKfZuU+id8vawxxbaOCZM=
+
+Name: assets/res/music/piano/#d4.mp3
+SHA1-Digest: 04B7/3HeqYMcQa1H3YvZkFupdOI=
+
+Name: assets/res/music/piano/C-2.mp3
+SHA1-Digest: /OCfoEB97ty06RTF4/iard7ZLBg=
+
+Name: assets/res/UI/UIHoliday/EasterCdPuzzle/rabbit_ears_r2.png
+SHA1-Digest: UR4rV1zBGumuTaOYm/ZCrs3r4fk=
+
+Name: assets/res/UI/UIResult/Item_rank_singlesong.csb
+SHA1-Digest: jp5Fgy9uqTAQ/eQtzECT/A2VPFM=
+
+Name: assets/res/music/piano/#c2.mp3
+SHA1-Digest: DJESZwor5aMzzagwFTQzWwOIkJ8=
+
+Name: res/drawable-tvdpi-v4/common_google_signin_btn_icon_dark_disable
+ d.9.png
+SHA1-Digest: FCJwIKpdmnC2D0QlHLYZp0ia32s=
+
+Name: assets/res/UI/UIHome/snow_new.png
+SHA1-Digest: UwOQprL6RbxlvLvye8jQxnlb8v0=
+
+Name: assets/res/UI/UIBattleMaster/icon_card_remix_tips.png
+SHA1-Digest: 6zdquNAbhQzS7k9xi4cdXf27jTw=
+
+Name: assets/res/music/bass2/c2.mp3
+SHA1-Digest: m6EXeU83UnXB5aeP4bJYCAk/EGA=
+
+Name: res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_norma
+ l.9.png
+SHA1-Digest: GFBU1MtrxnqiFzu1VUviSJcYiI0=
+
+Name: res/drawable-hdpi-v4/mobvista_cm_highlight.png
+SHA1-Digest: lNjHFW5/0RgE5CnjmffpmPCx4/k=
+
+Name: assets/res/UI/UIHome/CardImage/3.png
+SHA1-Digest: CDYiQtm06/jHsdZeSzg6GlX8wbc=
+
+Name: res/drawable/love_bless_bg.xml
+SHA1-Digest: XrFgHpX0VgPR1jQWqC3Y0O+ZbD0=
+
+Name: assets/res/UI/Xmas/Plist_tree_xmas.plist
+SHA1-Digest: vqfg3ZA8sad/Z1pmKu9/p8rESEY=
+
+Name: assets/res/UI/UIHome/bg_pay_package_box_complete.png
+SHA1-Digest: EuC9W179Ild9hvmT0Ks4zcqnWcQ=
+
+Name: assets/res/UI/UIParticle/heart.png
+SHA1-Digest: 5nA/Tjf8PwA87RzCGz0HBW6hvq4=
+
+Name: assets/res/UI/UIAlbum/25/Node_card_special_25.csb
+SHA1-Digest: Ky/3RdDqGB31EZPHuNTPPeHkfys=
+
+Name: assets/res/song/Hotaru.json
+SHA1-Digest: jGJllwXLGR7Yp8FIlJ8DK4/ZMew=
+
+Name: res/layout/message_tag_no_net_to_open_wifi_layout.xml
+SHA1-Digest: 4UUuQ/kx3EFYDjPnnWNXQfw2WMc=
+
+Name: res/drawable/brand_watch_button_bg.xml
+SHA1-Digest: i7tc0vP8wL8gIvoR8kXykrEgxPM=
+
+Name: assets/res/UI/UIHome/UIHomeLayer.csb
+SHA1-Digest: ePxokX5Xxgn8LdVdiEqJYnpTcCw=
+
+Name: res/layout/duapps_ad_offer_wall_games_layout.xml
+SHA1-Digest: BxKAavF55XFEkKc3Q1rOU0luspI=
+
+Name: res/drawable-xhdpi-v4/gameproblem_bg_white.9.png
+SHA1-Digest: HcBeZLnVDQjjBTFmlIfrW6K+lI0=
+
+Name: assets/res/UI/Xmas/Node_tree_xmas_dialog_right.csb
+SHA1-Digest: 88wydsKyB4ZQl+MDduWG5YzYQG4=
+
+Name: assets/res/UI/UIOpenning/Node_bday_circles.csb
+SHA1-Digest: /QnPcEatnQBlPrfWhFcNdPG1YBs=
+
+Name: res/drawable/interstitial_ad_callaction_normal_bg.xml
+SHA1-Digest: bljIFeXUmLpN7syc4HdgYMqkOHg=
+
+Name: res/drawable-xhdpi-v4/com_facebook_button_send_icon_blue.png
+SHA1-Digest: /D7Df3TPyynRRzyOqpro5gQ6KLQ=
+
+Name: assets/res/UI/UIPause/dialog_No1.csb
+SHA1-Digest: Lij/LycTFVSuEAv4Uk/Fdw8sV00=
+
+Name: assets/res/UI/UIPlist/particle_unlock_red.png
+SHA1-Digest: i/D7PfZhwFmtheHcI6BOj+Hwr7U=
+
+Name: assets/res/UI/UIResult/Node_chest_light_spin.csb
+SHA1-Digest: qLBLP/cRGZ2ytVd1kJwt1fMHHOk=
+
+Name: assets/res/UI/UIBattle/Effect/bgEffect1_sopt3.fsh
+SHA1-Digest: 2fHi8Q0TwA2ducKwboIJ35ZokhY=
+
+Name: assets/res/UI/UIPlist/particle_levelupred_l.png
+SHA1-Digest: RzLXC8A8nHiOvZwiogK/R/7E5lE=
+
+Name: assets/res/music/piano/d4.mp3
+SHA1-Digest: Ad5s8e41EGo7VVPK7vpUFR0FFqU=
+
+Name: assets/res/UI/UIHome/Item/Node_language.csb
+SHA1-Digest: 0tHe7ijJt5K1KPdoXwGqraAw1dc=
+
+Name: res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_focused.
+ 9.png
+SHA1-Digest: qA/4ONLw1TOTY4TCDzak63ZZC8I=
+
+Name: res/drawable/com_facebook_button_login_silver_background.xml
+SHA1-Digest: t7QZOlx85I7N0Rn3WSKhYwGhNcM=
+
+Name: assets/res/UI/UIAlbum/8/card_08.png
+SHA1-Digest: 4Wzt9OrR7wvvcbfeFxtXqYCF6zU=
+
+Name: assets/res/UI/UIHome/Node_leaderboard_nowifi_low.csb
+SHA1-Digest: ZgSsL0XNh3OQnxEiYHxCBuP6YuM=
+
+Name: assets/res/UI/UIAlbum/10/card_10.png
+SHA1-Digest: Wc1AAkzpeVmLPNWVwffqNnio6RI=
+
+Name: assets/res/UI/UIStore/dialog_vip_start.csb
+SHA1-Digest: ze5Otv3caiq7Rc55jz7atn2GGnQ=
+
+Name: res/drawable-xxhdpi-v4/ad.png
+SHA1-Digest: XjIyMPDmy3UR2d99oJdAJqnxiaw=
+
+Name: assets/res/UI/UIOpenning/Node_brithday2_cicle.csb
+SHA1-Digest: shM/fbEYGnf+88rnPq1mVj3dKjM=
+
+Name: assets/res/UI/UIHome/aniSettingNode.csb
+SHA1-Digest: MroUmsQCmkn8WVUzIWAZODTbxqw=
+
+Name: assets/res/UI/UIHome/Item_rank_total_card_no2.csb
+SHA1-Digest: 5etCE8EzZNmarpetpPu8xkb+CkM=
+
+Name: res/drawable/cmad_video_cm_tag.png
+SHA1-Digest: intdwh8AzR2ASv1UnfOcGliXcsE=
+
+Name: res/drawable-xxhdpi-v4/notification_icon.png
+SHA1-Digest: Dra7002MycVBcdgmO+z3XIyIxac=
+
+Name: assets/res/UI/UIHome/rankloading.csb
+SHA1-Digest: SC4dVSZ3Cd2nBXsQfKJa4K7OdJs=
+
+Name: assets/res/UI/Xmas/Node_tree_xmas_oldman_1.csb
+SHA1-Digest: ZyWJqjB0QzJSCgR6kW16xBMzkGE=
+
+Name: assets/res/music/piano/#f4.mp3
+SHA1-Digest: M477XKnT30ZBQJknOhpqJ6P5sY8=
+
+Name: assets/res/music/piano/f4.mp3
+SHA1-Digest: ABKQCMPk4MYxsVoj4tzC6YUhdVU=
+
+Name: res/drawable-xhdpi-v4/brand_volume_off.png
+SHA1-Digest: VpbMv1T8aliqEte8nyw0eVRPeZQ=
+
+Name: res/layout/duapps_ad_offer_wall_topic_banner_indicator.xml
+SHA1-Digest: zlGieeBPd2NmXzdlBczVZqg7D/4=
+
+Name: res/drawable-mdpi-v4/common_google_signin_btn_text_dark_pressed.
+ 9.png
+SHA1-Digest: q0cFR5EsIwskfG/BKnFT3jGVHFk=
+
+Name: res/layout/duapps_ad_offer_wall_topic_list_title.xml
+SHA1-Digest: xbf1AtBQNNfhoD7wRBvGwR/yEk8=
+
+Name: assets/res/UI/UIAlbum/26/Node_card_special_26.csb
+SHA1-Digest: DBlJ3YHs+kuQYBaSHvJ530PLMpE=
+
+Name: res/drawable/banner_ad_btn_bg.xml
+SHA1-Digest: QFjg88fTXL7/TB/XOdzTJRQyViI=
+
+Name: assets/res/song/Rainy Day.json
+SHA1-Digest: 9jQLThoYooClYXL46eftWu8fmeA=
+
+Name: res/layout/brand_vc_replay_layout.xml
+SHA1-Digest: 8fNR2fSN+AbrplwOaFp+nroakJk=
+
+Name: res/drawable-xhdpi-v4/love_arrow_left_1.png
+SHA1-Digest: I8FrPVBsJrOrVNeQTPjH5GSayZs=
+
+Name: assets/res/UI/UIBattle/dialog_continue_quick.csb
+SHA1-Digest: OC4UeO3vDGae5JueLLavn1ps0mE=
+
+Name: assets/res/UI/UIHome/icon_particle.csb
+SHA1-Digest: 3RtP9MUpY0geIhqpzOADz9dmvNI=
+
+Name: assets/res/DB/dressup.csv
+SHA1-Digest: go0bUFgDBVsKUFq6ekiOXf2pvjk=
+
+Name: assets/res/UI/UIHome/newEpoch/Node_band_starloading.csb
+SHA1-Digest: PRy7+acDYZ01BRdfPOjD0U4fLYk=
+
+Name: assets/res/music/bass2/e1.mp3
+SHA1-Digest: 5A/mYklLz//WwgL987coO8odhDY=
+
+Name: assets/res/UI/UIAlbum/23/card_23.png
+SHA1-Digest: Zb64FlZxNNc4ABzLqrYP29JKYQI=
+
+Name: assets/res/music/bass/b.mp3
+SHA1-Digest: 8FcqrsVJV9Abz2uHFBg6Mf8M8O8=
+
+Name: res/drawable-xxxhdpi-v4/notification_icon.png
+SHA1-Digest: +TTM54yoYWxgOl3Ma9WOJdPUypU=
+
+Name: assets/res/UI/UIHome/card_locked_pay_diamond.csb
+SHA1-Digest: NpyZvCFydgQrHHN/8EwZkfm/1mE=
+
+Name: assets/res/DB/leveling.csv
+SHA1-Digest: RtxRiiGcWQ812wzj1PxzGhXb1f4=
+
+Name: res/drawable-hdpi-v4/common_plus_signin_btn_text_light_normal.9.
+ png
+SHA1-Digest: h63kL/ee7jcnYESbCTus9XXRx1Q=
+
+Name: res/drawable-tvdpi-v4/common_google_signin_btn_icon_light_disabl
+ ed.9.png
+SHA1-Digest: oBlp8PMfj0zb1FgTgNVF1aqOIsk=
+
+Name: assets/res/music/bass2/A-1.mp3
+SHA1-Digest: sZ8x7t7VehD6TeOYlWlBsH8HfwM=
+
+Name: res/drawable-xxhdpi-v4/star_half.png
+SHA1-Digest: +ALRpj+TAK5AfzEWbHYJq0B5Ok4=
+
+Name: res/layout/activity_insert_screen.xml
+SHA1-Digest: sVd+08VcgfyBMgiaBfCT2isuiCk=
+
+Name: assets/res/UI/UIResult/Node_ani_chest_disc.csb
+SHA1-Digest: 6YgjbAO8GjRzeCXyG2OcbQ00JZY=
+
+Name: res/layout/duapps_ad_banner_item.xml
+SHA1-Digest: snvn4+yDmz9qe+91VTrNpF7UMTo=
+
+Name: assets/res/UI/UIHome/dialog_diamond_morevideo.csb
+SHA1-Digest: nK91nLW1PJWeLh8U89L/DjOBlgg=
+
+Name: res/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_focuse
+ d.9.png
+SHA1-Digest: klIKALmQTzU4iSSKWqfLvTcByXA=
+
+Name: assets/res/UI/UIStore/dialog_share.csb
+SHA1-Digest: R8U03j//kxUTlFgHh7OjLEvgZaU=
+
+Name: assets/res/music/bass/#f.mp3
+SHA1-Digest: CbnZLgSoeebnV21Qvsqnfe9guhU=
+
+Name: assets/res/music/piano/f3.mp3
+SHA1-Digest: aS/HLPPsru+RatLa+Qd/Ny3p6mg=
+
+Name: res/drawable-xhdpi-v4/award_head.png
+SHA1-Digest: 5DCY19mL7XQCyTSlN7ETfi8PPzo=
+
+Name: assets/res/UI/Xmas/Node_tree_xmas_nogolden_dialog.csb
+SHA1-Digest: +AkwDSclJ2iAaPoNXeujWZqUsrg=
+
+Name: res/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_pressed
+ .9.png
+SHA1-Digest: yL3BEjoZFVrHSDq3W5KlS0UBvSI=
+
+Name: assets/res/music/piano/g2.mp3
+SHA1-Digest: wNwsyiFFDIKGvYdv0M/0uKOTjo4=
+
+Name: assets/res/UI/UIHome/card_hall_play.csb
+SHA1-Digest: pjJ9Fh513KV4Y3hV7uGg3ZXmoiA=
+
+Name: res/layout/duapps_ad_banner_loading_layout.xml
+SHA1-Digest: oWrhs2FWA7A7ogjHzOhlehBSu6o=
+
+Name: res/drawable-xhdpi-v4/lov_cd_bg_2.png
+SHA1-Digest: YX3/sbs95YW+E+BCe0WrFucGyNI=
+
+Name: assets/res/song/The 105th Day.json
+SHA1-Digest: ZDa7KdI9W/3mejNwGqmb31nZ2mw=
+
+Name: assets/fonts/arial.ttf
+SHA1-Digest: foaJFK5WjLI88v0kWt2jmW0DL70=
+
+Name: res/drawable-xhdpi-v4/redeem_btn_pressed.9.png
+SHA1-Digest: rH27Myg0Y1h11Q5nn94aNU+YXfY=
+
+Name: res/drawable-xhdpi-v4/ad_close.png
+SHA1-Digest: nWeE6ek9WI37RepS4NNXGY4iczo=
+
+Name: assets/res/UI/Xmas/Node_tree_xmas_candy_2.csb
+SHA1-Digest: kXwlkUr5/2H1nwM8huLWFBMxFaw=
+
+Name: assets/res/UI/UIHome/UIHallLayer.csb
+SHA1-Digest: zFGvQfja/JxlWTWgDCoeAUTpxRc=
+
+Name: res/drawable-xhdpi-v4/right_round.png
+SHA1-Digest: RSytrjlNeNyQqFXNo5vdH55/OdQ=
+
+Name: assets/res/UI/UIPlist/Plist_resource.plist
+SHA1-Digest: faZi3Tftnrd0EEqNnOvrZWABGv8=
+
+Name: assets/res/UI/UIHome/Node_topbar.csb
+SHA1-Digest: 1xegfkHUziOlRxuDGhM7V/A4+HI=
+
+Name: assets/res/UI/UIResult/buttongroup_recording.csb
+SHA1-Digest: MX92fCzMW20NRuB6jJXxC6QqmJg=
+
+Name: assets/res/UI/UIPlist/Plist_vip.png
+SHA1-Digest: dXDR6g6XufsoJkN6qPB2qHGC6jY=
+
+Name: assets/res/UI/UIBgEffect/Node_effect.csb
+SHA1-Digest: ZtsaNf4sSv84TNqGiIV6E2IEr2s=
+
+Name: res/color/common_plus_signin_btn_text_dark.xml
+SHA1-Digest: doN1O5przs2BiAm8ySFaoH89yOU=
+
+Name: res/drawable-hdpi-v4/common_plus_signin_btn_text_dark_pressed.9.
+ png
+SHA1-Digest: DuaqFAiz1kirAaves6m3QbjZxnU=
+
+Name: assets/res/UI/UIHome/dialog_3d_touch.csb
+SHA1-Digest: f+P34+4MXMhK8s3dGsgy7aIJgU0=
+
+Name: assets/res/UI/Xmas/Node_tree_xmas_light_1.csb
+SHA1-Digest: oM/QiPHkWzP0qi6lWBhNoP7y9yo=
+
+Name: assets/res/UI/Xmas/image_black.png
+SHA1-Digest: NzRC6RzyCoyYbW+sYY9ck2ssjnI=
+
+Name: assets/res/UI/UIHome/box_remind_time.png
+SHA1-Digest: bls63NMs2o31UlkVQz/lPId6B0I=
+
+Name: res/drawable-xxhdpi-v4/common_plus_signin_btn_icon_dark_normal.9
+ .png
+SHA1-Digest: JDzNmSQOxAZBWcmjJOsDVymadjg=
+
+Name: assets/res/UI/UIPlist/Plist_bonus.png
+SHA1-Digest: qtJRpts876rP+gcey83VH9CF7cM=
+
+Name: res/layout/function_web_layout.xml
+SHA1-Digest: 4DngipmLhFWByBXIoYWbIl/GMYg=
+
+Name: assets/res/music/bass2/a1.mp3
+SHA1-Digest: 06WPukEkdBInWS0uQgrHdXHDc2o=
+
+Name: assets/res/UI/ActivityMap/UITower/buttongroup_again_halloween_fa
+ il.csb
+SHA1-Digest: jk7xmMKV32zHcypTcFvdZsq9SH4=
+
+Name: assets/res/UI/UIOpenning/musician7.png
+SHA1-Digest: C0tuo+MJ5xxi0k3dUozA059Ow0k=
+
+Name: assets/res/UI/UIHoliday/EasterCdPuzzle/xmas_puzzle1.png
+SHA1-Digest: nXVhZYqF5qXpwMopgdi4TlQzYjc=
+
+Name: assets/res/music/bass/d2.mp3
+SHA1-Digest: xApqGSKT3uF0nvRSRuy4NgzXRmY=
+
+Name: assets/res/UI/UIHome/Node_leaderboard_rules.csb
+SHA1-Digest: p9Etc+SmbqgSj8BiiIYC0Gtx3tw=
+
+Name: assets/res/music/piano/f.mp3
+SHA1-Digest: NzfADauqcTVAoL4pCm0M6cDb6xk=
+
+Name: res/drawable-tvdpi-v4/common_google_signin_btn_text_light_presse
+ d.9.png
+SHA1-Digest: iKeRseeuZ8eGfMtiOdsYH60Ndr0=
+
+Name: assets/res/UI/UIHome/card_remix.csb
+SHA1-Digest: ixWtEbMG/GejKpUYSOrTN63fdNA=
+
+Name: res/layout/orion_vast_ad_layout_incentive.xml
+SHA1-Digest: sY6j3IZsF1y9A0bam0u8QsQryo0=
+
+Name: res/layout/main_layout.xml
+SHA1-Digest: cQkgJ793olCxgTVwGZHFz3kQ4ZE=
+
+Name: assets/res/UI/UIHome/Item/Node_invitefriends.csb
+SHA1-Digest: mRx5fNCUN5DPSIby4VMOa8g+PiE=
+
+Name: assets/res/UI/UIStore/dialog_vip_fblogin.csb
+SHA1-Digest: d4VFoRlUDEpo1RZY1/FRmCCMGX0=
+

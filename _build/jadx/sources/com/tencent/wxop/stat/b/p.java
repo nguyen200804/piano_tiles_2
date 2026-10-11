@@ -1,0 +1,28 @@
+package com.tencent.wxop.stat.b;
+
+import java.io.File;
+
+/* loaded from: F:\Code\piano-tiles-2\classes.dex */
+final class p {
+    private static int aI = -1;
+
+    public static boolean a() {
+        if (aI == 1) {
+            return true;
+        }
+        if (aI == 0) {
+            return false;
+        }
+        for (String str : new String[]{"/bin", "/system/bin/", "/system/xbin/", "/system/sbin/", "/sbin/", "/vendor/bin/"}) {
+            try {
+                if (new File(str + "su").exists()) {
+                    aI = 1;
+                    return true;
+                }
+            } catch (Exception e) {
+            }
+        }
+        aI = 0;
+        return false;
+    }
+}

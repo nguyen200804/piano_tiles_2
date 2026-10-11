@@ -1,0 +1,75 @@
+.class Lcom/cmplay/tile2/ui/LoveShareActivity$2;
+.super Ljava/lang/Object;
+.source "LoveShareActivity.java"
+
+# interfaces
+.implements Ljava/lang/Runnable;
+
+
+# annotations
+.annotation system Ldalvik/annotation/EnclosingMethod;
+    value = Lcom/cmplay/tile2/ui/LoveShareActivity;->onClick(Landroid/view/View;)V
+.end annotation
+
+.annotation system Ldalvik/annotation/InnerClass;
+    accessFlags = 0x0
+    name = null
+.end annotation
+
+
+# instance fields
+.field final synthetic a:Ljava/lang/String;
+
+.field final synthetic b:Ljava/lang/String;
+
+.field final synthetic c:Lcom/cmplay/tile2/ui/LoveShareActivity;
+
+
+# direct methods
+.method constructor <init>(Lcom/cmplay/tile2/ui/LoveShareActivity;Ljava/lang/String;Ljava/lang/String;)V
+    .locals 0
+
+    .prologue
+    .line 353
+    iput-object p1, p0, Lcom/cmplay/tile2/ui/LoveShareActivity$2;->c:Lcom/cmplay/tile2/ui/LoveShareActivity;
+
+    iput-object p2, p0, Lcom/cmplay/tile2/ui/LoveShareActivity$2;->a:Ljava/lang/String;
+
+    iput-object p3, p0, Lcom/cmplay/tile2/ui/LoveShareActivity$2;->b:Ljava/lang/String;
+
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public run()V
+    .locals 4
+
+    .prologue
+    .line 360
+    invoke-static {}, Lcom/cmplay/h/f;->b()Lcom/cmplay/h/f;
+
+    move-result-object v0
+
+    iget-object v1, p0, Lcom/cmplay/tile2/ui/LoveShareActivity$2;->a:Ljava/lang/String;
+
+    const/4 v2, 0x2
+
+    iget-object v3, p0, Lcom/cmplay/tile2/ui/LoveShareActivity$2;->b:Ljava/lang/String;
+
+    invoke-virtual {v0, v1, v2, v3}, Lcom/cmplay/h/f;->a(Ljava/lang/String;ILjava/lang/String;)V
+
+    .line 362
+    invoke-static {}, Lcom/cmplay/h/b;->a()Lcom/cmplay/h/b;
+
+    move-result-object v0
+
+    const-string v1, "clk_share_btn_h5_pg"
+
+    invoke-virtual {v0, v1}, Lcom/cmplay/h/b;->a(Ljava/lang/String;)V
+
+    .line 363
+    return-void
+.end method

@@ -1,0 +1,14 @@
+package org.apache.commons.io.output;
+
+import java.io.IOException;
+import java.io.OutputStream;
+
+/* loaded from: F:\Code\piano-tiles-2\classes.dex */
+public class ClosedOutputStream extends OutputStream {
+    public static final ClosedOutputStream CLOSED_OUTPUT_STREAM = new ClosedOutputStream();
+
+    @Override // java.io.OutputStream
+    public void write(int b2) throws IOException {
+        throw new IOException("write(" + b2 + ") failed: stream is closed");
+    }
+}

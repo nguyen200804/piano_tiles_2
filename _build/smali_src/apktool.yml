@@ -1,0 +1,20 @@
+version: 2.10.0
+apkFileName: piano-tiles-2-unsigned.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  tag: null
+sdkInfo:
+packageInfo:
+  forcedPackageId: null
+  renameManifestPackage: null
+versionInfo:
+  versionCode: null
+  versionName: null
+resourcesAreCompressed: false
+sharedLibrary: false
+sparseResources: false
+unknownFiles:
+  build-data.properties: 8
+  fabric/com.mopub.sdk.android.mopub.properties: 8
+  jsr305_annotations/Jsr305_annotations.gwt.xml: 8

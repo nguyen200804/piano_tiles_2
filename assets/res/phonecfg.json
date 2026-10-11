@@ -1,0 +1,114 @@
+{
+	"phone_cfg_version":9,
+	"enable_mix":0,
+	"min_mem":786432,
+	"low_scroe_vol":200,
+	"detect_crash":1,
+	"enable_decode_time":500,
+	"phone_cfg": [
+		{
+			"name":"Galaxy_S6",
+			
+			"id_android_ver":"21;22",
+			"id_device":"zerofltechn;zeroltechn",
+			"id_brand":"samsung",
+			
+			"base_cfg":"android_4_4_4",
+			"func_map":[
+				{"id":32768, "pi":32771},
+				{"id":77824, "pi":77826}
+			],
+			
+			"mix_gap":240,
+			"mix_filllen":480,
+			"mix_offset":240
+		},
+		{
+			"name":"Samsung common 5.0",
+			
+			"id_android_ver":"21;22",
+			"id_brand":"samsung",
+			
+			"base_cfg":"android_4_4_4",
+			"func_map":[
+				{"id":32768, "pi":32771},
+				{"id":77824, "pi":77826}
+			],
+			
+			"mix_gap":240,
+			"mix_filllen":480,
+			"mix_offset":240
+		},
+		{
+			"name":"Verizon 5.0",
+			
+			"id_android_ver":"21;22",
+			"id_brand":"Verizon",
+			"id_model":"SCH-I545;SM-G900V;SM-N900V;SM-N910V;SM-N915V",
+			
+			"base_cfg":"android_4_4_4",
+			"func_map":[
+				{"id":32768, "pi":32771},
+				{"id":77824, "pi":77826}
+			],
+			
+			"mix_gap":240,
+			"mix_filllen":480,
+			"mix_offset":240
+		},
+		{
+			"name":"Samsung common 6.0",
+			
+			"id_android_ver":"23",
+			"id_brand":"samsung",
+			
+			"base_cfg":"android_4_4_4",
+			"func_map":[
+				{"id":32768, "pi":32773}
+			],
+			
+			"mix_gap":240,
+			"mix_filllen":480,
+			"mix_offset":240
+		},
+		{
+			"name":"Verizon 6.0",
+			
+			"id_android_ver":"23",
+			"id_brand":"Verizon",
+			
+			"base_cfg":"android_4_4_4",
+			"func_map":[
+				{"id":32768, "pi":32773}
+			],
+			
+			"mix_gap":240,
+			"mix_filllen":480,
+			"mix_offset":240
+		},
+		{
+			"name":"Moto G",
+			
+			"id_device":"peregrine;thea_ds;titan_udstv;falcon_umts;thea;falcon_umtsds;falcon_cdma;titan_umtsds;titan_umts;thea_umtsds",
+			"id_brand":"motorola",
+			"enable":true,
+			
+			"base_cfg":"android_4_4_4"
+		},
+		{
+			"name":"Version 7.0",
+			"id_android_ver":"24;25",
+			"enable":true,
+			
+			"base_cfg":"android_4_4_4"
+		},
+		{
+			"name":"Unspported",
+			
+			"id_brand":"motorola",
+			"id_model":"XT1049;XT1050;XT1052;XT1053;XT1056;XT1058;XT1060",
+			
+			"m_bSupport":false
+		}
+	]
+}

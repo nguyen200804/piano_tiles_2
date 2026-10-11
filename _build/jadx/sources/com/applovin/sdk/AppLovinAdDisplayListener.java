@@ -1,0 +1,8 @@
+package com.applovin.sdk;
+
+/* loaded from: F:\Code\piano-tiles-2\classes.dex */
+public interface AppLovinAdDisplayListener {
+    void adDisplayed(AppLovinAd appLovinAd);
+
+    void adHidden(AppLovinAd appLovinAd);
+}

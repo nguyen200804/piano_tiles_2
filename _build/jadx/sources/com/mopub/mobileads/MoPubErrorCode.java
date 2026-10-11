@@ -1,0 +1,38 @@
+package com.mopub.mobileads;
+
+/* loaded from: F:\Code\piano-tiles-2\classes.dex */
+public enum MoPubErrorCode {
+    NO_FILL("No ads found."),
+    WARMUP("Ad unit is warming up. Try again in a few minutes."),
+    SERVER_ERROR("Unable to connect to MoPub adserver."),
+    INTERNAL_ERROR("Unable to serve ad due to invalid internal state."),
+    CANCELLED("Ad request was cancelled."),
+    NO_CONNECTION("No internet connection detected."),
+    EXPIRED("Ad expired since it was not shown within 4 hours."),
+    ADAPTER_NOT_FOUND("Unable to find Native Network or Custom Event adapter."),
+    ADAPTER_CONFIGURATION_ERROR("Native Network or Custom Event adapter was configured incorrectly."),
+    NETWORK_TIMEOUT("Third-party network failed to respond in a timely manner."),
+    NETWORK_NO_FILL("Third-party network failed to provide an ad."),
+    NETWORK_INVALID_STATE("Third-party network failed due to invalid internal state."),
+    MRAID_LOAD_ERROR("Error loading MRAID ad."),
+    VIDEO_CACHE_ERROR("Error creating a cache to store downloaded videos."),
+    VIDEO_DOWNLOAD_ERROR("Error downloading video."),
+    VIDEO_NOT_AVAILABLE("No video loaded for ad unit."),
+    VIDEO_PLAYBACK_ERROR("Error playing a video."),
+    REWARDED_CURRENCIES_PARSING_ERROR("Error parsing rewarded currencies JSON header."),
+    REWARD_NOT_SELECTED("Reward not selected for rewarded ad."),
+    UNSPECIFIED("Unspecified error.");
+
+
+    /* renamed from: a, reason: collision with root package name */
+    private final String f4380a;
+
+    MoPubErrorCode(String message) {
+        this.f4380a = message;
+    }
+
+    @Override // java.lang.Enum
+    public String toString() {
+        return this.f4380a;
+    }
+}

@@ -1,0 +1,56 @@
+whitetile2_public:5 uuid:binary xaid:string ver:int mcc:short mnc:short cl:string cn:int cn2:string prodid:int root:byte capi:byte brand:string model:string serial:string ad_ver:string cn3:string uuid2:string facebook_id:string
+whitetile2_active:220 uptime:int64 player_time:string network:byte firstplay:byte installtime:int x86:byte resolution:string mem:string cn1:int
+whitetile2_gameshow:300 uptime:int64 firstplay:byte firstplay2:byte starttime:int network:byte installtime:int player_time:string source:byte use_nun:string survival_time:int coin_num:int state:byte cpu:string cn4:string cn5:string account_id:string account_type:byte
+whitetile2_probe_exception:129 uptime2:int64 mtype:short stype:short xinfo:string
+whitetile2_life:125 uptime:int64 player_time:string source:byte life2_num:short package_id:byte state:byte
+whitetile2_coin:133 uptime:int64 player_time:string action:byte source:byte coin2_num:int coin_type:string money:int gp_key:string
+whitetile2_hallplay:250 uptime:int64 player_time:string state:byte action:byte palyer_level:short max_score:string score_type:byte music_score:string dead_tile:byte dead_site:int play_time1:int coin1_num:short exp1_num:int life1_num:short hall_id:short life_num:short coin_num:int share_type:byte deadtiles_num:int music_id2:int ab_test:byte
+whitetile2_mixerror:266 error:byte errdetail:int device:string display:string product:string matchcfg:string mixgap:int mixrate:int mixfill:int mixahead:int cloud_report_so:byte libmedia:string libutils:string libbinder:string
+whitetile2_mixaction:149 uptime:int64 state:byte action:byte decodetime:int
+whitetile2_cloud:222 uptime:int64 resource_version:string action:byte deploy_version:string network:byte
+whitetile2_msgcenter:302 uptime:int network:byte area:short area_type:byte msg_id:int msg_name:string msg_show_type:byte action:byte
+whitetile2_class:283 uptime:int64 player_time:string network:byte gp_service:byte gp_logintype:byte class_id:string class_dt:string class_type:byte class_test:byte area:short action:short action2:short action3:short gp_id:string ab_test:byte season:byte season_type:byte
+whitetile2_adddata:301 uptime:int64 network:byte scene:byte action:byte gain_type:byte gain_num:int ad_type:short askwindow_num:byte askwindow:byte ab_test:byte music_id2:int
+whitetile2_buymusicdata:292 uptime:int64 network:byte source:byte music_id:short music_name:string num:short music_type:byte action:byte music_id2:int ab_test:byte music_type_2:byte card_type:byte
+whitetile2_upgrade:170 uptime:int64 network:byte area:byte area_type:byte pop_id:short ver_id:int pop_type:byte action:byte
+whitetile2_sharedata:201 uptime:int64 player_time:string network:byte tab:short function1:short area1:short action:byte test1:short num:short login_state:byte
+whitetile2_httpsuccess:209 uptime:int64 network:byte protocol_ver:string requset_code:int is_success:byte bad_request:string response_time:int header_state:byte requset_url:string response_data:string response_size:int ip_address:string nds_time:int last_url:string curl_code:int curl_error:string
+whitetile2_function:178 uptime:int64 player_hp:byte
+whitetile2_friends:216 uptime:int64 player_time:string network:byte login_type:byte friends_num:int account_id:string account_type:byte state:byte
+whitetile2_diamonds_verify:188 uptime:int64 player_time:string network:byte source:byte change_num:int diamond_num:int uuid2:string account_id:string account_type:byte account_name:string music_id:short
+whitetile2_leaderboard:191 uptime:int64 player_time:string network:byte source:byte music_id2:int music_name:string action:byte account_id:string account_type:byte pv_num:short
+whitetile2_logintohomecosttime:227 uptime:int64 login_home_time:int initendcosttime:int activeresumecosttime:int androidendcosttime:int threadcosttime:int
+whitetile2_kadunlogdata:211 kaduncount:int musicid:int kaduntime:int kadunfun_id:string
+whitetile2_diamond:264 uptime:int64 player_time:string gp_key:string source:byte diamond_num:int package_id:byte action:byte source_type:byte order_id:string ab_test:byte ab_test_2:byte msg_id:int ab_test_3:byte
+whitetile2_neitui_app:321 uptime:int64 player_time:string network:byte source:byte action:byte scenes:byte pkgname:string pro_id:int remark:string scene:byte priority:int sdk_version:int
+whitetile2_ad_failure:225 uptime2:int64 ad_type:short ad_code:short ad_info:string
+whitetile2_nti_eat_srv:231 uptime:int64 uptime2:string start_time:int boot_time:int debug_time:string debug_serial:string boot_times:int shutdown_times:int charge_times:int cpu_name:string network:byte resolution:string did:string sensor:int voltage_serial:string percent_serial:string imsi:string cpu_core:int gpu_renderer:string gpu_vendor:string gpu_version:string mac:string bluetooth:string
+whitetile2_cm_nti_eat_main_tab_setting:234 uptime:int64 uptime2:string click_x:int click_y:int screen_width:int screen_height:int arrive_time:int
+whitetile2_cm_nti_eat_main_tab_music:236 uptime:int64 uptime2:string click_x:int click_y:int screen_width:int screen_height:int arrive_time:int
+whitetile2_cm_nti_eat_main_tab_hall:235 uptime:int64 uptime2:string click_x:int click_y:int screen_width:int screen_height:int arrive_time:int
+whitetile2_cm_nti_eat_main_tab_home:233 uptime:int64 uptime2:string click_x:int click_y:int screen_width:int screen_height:int arrive_time:int
+whitetile2_neitui_popup:228 uptime:int64 player_time:string network:byte popup:string style:byte action:byte pkgname:string ab:byte
+whitetile2_neitui_mofang:240 uptime:int64 player_time:string network:byte section:byte card_id:int pkgname:string err_code:byte err_info:string
+whitetile2_neitui_installs:241 uptime:int64 player_time:string network:byte install_states:byte pkgname:string
+whitetile2_http_exception:226 uptime:int status_code:short error_info:string url:string spend_time:short net_state:byte server_ip:string
+whitetile2_coins_flow:212 uptime:int64 player_time:string network:byte source:byte change_num:int coin_num:int account_id:string account_type:byte account_name:string music_id2:short
+whitetile2_VIP:257 uptime:int64 player_time:string gp_key:string source:byte music_num:int package_id:byte action:byte source_type:byte order_id:string ab_test_1:byte ab_test_2:byte area1:short
+whitetile2_Message_push:262 uptime:int64 player_time:string id_key:string source:byte action:byte
+whitetile2_download:271 uptime:int64 player_time:string network:byte music_id2:int sourse:byte action:byte action2:byte fail_reason:string
+whitetile2_notification:304 uptime:int64 network:byte source:byte state:byte action:byte notif_copy:int notif_img:byte music_id2:int
+whitetile2_videosdk:296 uptime:int64 network:byte action:byte pkgname:string pro_id:int remark:string player_time:string source:byte scenes:byte
+whitetile2_reportchannel:294 uptime:int64 network:byte channelid:byte action:byte channelid2:int
+whitetile2_analysispopup:295 uptime:int64 network:byte state:byte result:byte failed_reason:short schedule_time:byte
+whitetile2_mission:297 uptime:int64 network:byte player_time:string area:byte action:byte details:byte details2:short details3:string music_id:short music_status:byte playtime:short cloud_ver:byte personal_speed:short aim_speed:short music_speed:short history:short
+whitetile2_cloud2:299 uptime:int64 resource_version:string action:byte deploy_version:string network:byte
+whitetile2_tabshow:305 uptime:int64 player_time:string network:byte source:string tab:short area1:short area_type:byte site:int music_id:short music_name:string music_type:byte action:byte click_num:short gain_num:short login_fail_reason:string first_login:bit account_id:string account_type:byte ab_test_maidian:byte login_crown:short login_star:short album_id:int music_id2:int playlist_id:string
+whitetile2_cloud_magic:308 uptime:int64 network:byte player_time:string magic_ver:string action:byte remark:string error_url:string
+whitetile2_go_action:310 action:byte
+whitetile2_exchange_action:313 action:byte error:int exchange_num:int
+whitetile2_activitydata:312 uptime:int64 player_time:string network:byte source:byte login_fail_reason:string account_id:string account_type:byte action:byte rewards_type:byte rewards_num:int music_id2:int
+whitetile2_playerdata:316 uptime:int64 inout_type:byte installtime:int player_time:string player_level:short exp_num:short star_num:short coin_num:int life_num:short maxscore_beginner:string maxscore_skilled:string maxscore_master:string buymusic_id:string checkin_continue_num:short rate_state:byte dia_num:int dia_cosnum:int dia_gainsun:int cd_num:int tabscr_num:int revival_num:int cd_suc_num:int tabscr_suc_num:int revival_suc_num:int account_id:string account_type:byte coin_cosnum:int coin_gainsun:int life_cosnum:short life_gainsun:short crown_num_leadboard:int star_num_leadboard:int shake:int favorites_num:short cd_collect_num:short
+whitetile2_collect:314 uptime:int64 player_time:string network:byte box_type:byte box_num:short coin:short diamond:short life:byte music_id2:int piece:short msgid:short zs_mark:byte zs_boxnum:short cd_id:short cd_unlock:byte
+whitetile2_ad_request:317 uptime:int64 network:byte action:byte errorcode:byte source:byte ad_type:byte
+whitetile2_video_request:318 uptime:int64 network:byte action:byte errorcode:byte source:byte ad_type:byte scene:byte
+whitetile2_tabshow_2:322 uptime:int64 player_time:string network:byte area1:short action:byte music_id2:int status:byte action2:byte cover_id:byte
+whitetile2_musicplay:323 uptime:int64 state:byte action:byte player_time:string player_level:short music_id:short music_name:string pass_record:byte max_score:string max_star:short play_result:byte music_score:string music_star:byte dead_tile:byte dead_site:int music_time1:int coin1_num:short exp1_num:int life1_num:short life_num:short coin_num:int deadtiles_num:int diamond1_num:int music_id2:int test1:short diamond_num:int target_state:byte source:byte ab_test:byte ab_test_maidian:byte area:byte revival_number:byte revival_mark:byte

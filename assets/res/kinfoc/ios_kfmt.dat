@@ -1,0 +1,33 @@
+wtios_public:5 appleid:string ver:string osver:string cl:string cn:int idfa:string idfa2:string uuid2:string facebook_id:string service_id:string
+wtios__active:102 uptime:int player_time:string network:byte firstplay:byte installtime:int survival:short resolution:string mem:string use_nun:int64
+wtios__player:105 uptime:int player_time:string action:byte player_level:short max_music_id:short music_id:short music_name:string pass_record:byte max_score:string max_star:short play_result:byte score_type:byte music_score:string music_star:byte dead_tile:byte dead_site:int music_time1:int coin1_num:short exp1_num:int life1_num:short
+wtios_coin:110 uptime:int64 player_time:string action:byte source:byte coin2_num:int gp_key:string coin_type:string money:int
+wtios_life:113 uptime:int64 player_time:string state:byte source:byte life2_num:short package_id:byte
+wtios__gameshow:212 uptime:int64 firstplay:byte firstplay2:byte starttime:int network:byte installtime:int player_time:string source:byte use_nun:string survival_time:int coin_num:int state:byte cn4:string cn5:string cpu:string touch3d:byte account_type:byte account_id:string cn3:string
+wtios_adddata:193 uptime:int64 network:byte scene:byte action:byte gain_num:int ad_type:byte gain_type:byte askwindow_num:byte askwindow:byte ab_test:byte music_id2:int
+wtios_buymusicdata:187 uptime:int64 network:byte source:byte music_id:short music_name:string num:short music_type:byte action:byte music_id2:int ab_test:byte music_type_2:byte card_type:byte
+wtios_hallplay:173 uptime:int64 player_time:string action:byte palyer_level:short max_score:string score_type:byte music_score:string dead_tile:byte dead_site:int play_time1:int coin1_num:short exp1_num:int life1_num:short hall_id:short life_num:short coin_num:int share_type:byte music_id2:short deadtiles_num:int state:byte ab_test:byte
+wtios_diamond:172 uptime:int64 player_time:string gp_key:string source:byte diamond_num:int package_id:byte action:byte source_type:byte order_id:string ab_test:byte ab_test_2:byte msg_id:int
+wtios_cloud:153 uptime:int64 action:byte resource_version:string deploy_version:string
+wtios_leaderboard:142 uptime:int64 player_time:string network:byte source:byte music_id2:int music_name:string action:byte account_id:string account_type:byte pv_num:short
+wtios_friends:171 uptime:int64 player_time:string network:byte login_type:byte friends_num:int account_id:string account_type:byte state:byte
+wtios_kadunlogdata:145 kaduncount:int musicid:int kaduntime:int
+wtios_diamonds_verify:146 uptime:int64 player_time:string network:byte source:byte change_num:int diamond_num:int uuid2:string account_id:string account_type:byte account_name:string music_id:short
+wtios_sharedata:147 uptime:int64 player_time:string network:byte tab:short function1:short area1:short action:byte num:short
+wtios_push:164 uptime:int64 network:byte tag:string content:string params:string source:byte app_state:byte badge_num:short enabled:byte channel_id:string error:string game_lang:string action:byte
+wtios_logintohomecosttime:155 uptime:int64 login_home_time:int
+wtios_whitetile2_msgcenter:194 uptime:int network:byte area:short area_type:byte msg_id:int msg_name:string msg_show_type:byte action:byte style:byte
+wtios_coins_flow:150 uptime:int64 player_time:string network:byte source:byte change_num:int coin_num:int account_id:string account_type:byte account_name:string music_id2:short
+wtios_download:175 uptime:int64 player_time:string network:byte music_id2:int sourse:byte action:byte action2:byte fail_reason:string
+wtios_notification:196 uptime:int64 network:byte source:byte state:byte action:byte notif_copy:int music_id2:int
+wtios_mission:191 uptime:int64 player_time:string network:byte area:byte action:byte details:byte details2:short details3:string music_id:int music_status:byte playtime:short cloud_ver:byte personal_speed:short aim_speed:short music_speed:short history:short
+wtios_tabshow:197 uptime:int64 player_time:string network:byte source:string tab:short area1:short area_type:byte site:int music_id:short music_name:string music_type:byte action:byte login_fail_reason:string first_login:bit account_id:string account_type:byte login_crown:short login_star:short click_num:short gain_num:short ab_test_maidian:byte album_id:int music_id2:int playlist_id:string
+wtios_cloud_magic:200 uptime:int64 network:byte player_time:string magic_ver:string action:byte remark:string error_url:string
+wtios_activitydata:202 uptime:int64 player_time:string network:byte source:byte login_fail_reason:string account_id:string account_type:byte action:byte rewards_type:byte rewards_num:int music_id2:int
+wtios_playerdata:205 uptime:int64 inout_type:byte installtime:int player_time:string player_level:short exp_num:short star_num:short coin_num:int life_num:short maxscore_beginner:string maxscore_skilled:string maxscore_master:string buymusic_id:string checkin_continue_num:short rate_state:byte dia_num:int dia_cosnum:int dia_gainsun:int cd_num:int tabscr_num:int revival_num:int cd_suc_num:int tabscr_suc_num:int revival_suc_num:int account_id:string account_type:byte crown_num_leadboard:int star_num_leadboard:int coin_cosnum:int coin_gainsun:int life_cosnum:short life_gainsun:short shake:int favorites_num:short cd_collect_num:short
+wtios_collect:204 uptime:int64 player_time:string network:byte box_type:byte box_num:short coin:short diamond:short life:byte music_id2:int piece:short msgid:short zs_mark:byte zs_boxnum:short cd_id:short cd_unlock:byte
+wtios_ad_request:206 uptime:int64 network:byte action:byte errorcode:byte source:byte ad_type:byte
+wtios_video_request:207 uptime:int64 network:byte action:byte errorcode:byte source:byte ad_type:byte scene:byte
+wtios_neitui_app:210 uptime:int64 player_time:string network:byte source:byte action:byte scenes:byte pkgname:string pro_id:int remark:string scene:byte priority:int sdk_version:int
+wtios_tabshow_2:211 uptime:int64 player_time:string network:byte area1:short action:byte music_id2:int status:byte action2:byte cover_id:byte
+wtios_musicplay:213 uptime:int64 player_time:string action:byte player_level:short music_id:short music_name:string pass_record:byte max_score:string max_star:short play_result:byte music_score:string music_star:byte dead_tile:byte dead_site:int music_time1:int coin1_num:short exp1_num:int life1_num:short life_num:short coin_num:int music_id2:short deadtiles_num:int diamond1_num:int target_state:byte diamond_num:int source:byte ab_test:byte state:byte test1:byte ab_test_maidian:byte music_mid:int area:byte revival_number:byte revival_mark:bit

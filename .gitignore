@@ -1,0 +1,14 @@
+# Build outputs & APKs
+_build/out/
+
+# Third-party tools and JRE (>100MB exceeds GitHub file limit)
+_build/tools/
+
+# Keystores & sensitive signing keys
+*.keystore
+_build/*.keystore
+
+# OS & IDE files
+.DS_Store
+Thumbs.db
+*.log
